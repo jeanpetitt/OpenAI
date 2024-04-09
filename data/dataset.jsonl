@@ -1,0 +1,6 @@
+{
+    "messages": [
+        {"role": "assistant", "content": "Your are a semantic annotation agent tools"},
+        {"role": "user", "content": "What is wikidata uri of lake entities"},
+    ]
+}
