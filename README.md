@@ -16,5 +16,4 @@ Please what is wikidata URI of Laurel Township entity. Here is a description of 
 #### Assistant: 
 The wikidata URI that correspond to Laurel Township is http://www.wikidata.org/entity/Q6500028
 
-Please what is wikidata URI of Noble Township entity. Here is a description of entity
-Description: township in Cass County, Indiana, United States
+Please what is wikidata URI of Noble Township entity. Here is a description of entity Description: township in Cass County, Indiana, United States
