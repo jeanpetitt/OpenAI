@@ -1,0 +1,4 @@
+col0,col1,col2,col3
+UBTY0,"Entity[""FoodType"", ""Orange""]","pulp, locule, locule, locule, locule, locule, locule, locule",?
+UBTY1,"Entity[""FoodType"", ""Peach""]","(R)-amygdalin, peach pit, peach pit",?
+UBTY2,"Entity[""FoodType"", ""Apple""]",(R)-amygdalin,"food, edible in the raw state"

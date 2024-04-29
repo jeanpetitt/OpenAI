@@ -1,0 +1,41 @@
+col0,col1,col2,col3,col4,col5
+KBKQ0,cow's milk,France,Laguiole (cheese),Aubrac,cheese from France
+KBKQ1,"raw milk, cow's milk, cow's milk, cow's milk, cow's milk",France,Comté (cheese),Franche-Comté,cheese from France
+KBKQ2,"Penicillium roqueforti, cow's milk, cow's milk, cow's milk, cow's milk",France,Bleu des Causses,"Aveyron, Lot, Lozère, Lot, Lozère",cheese from France
+KBKQ3,goat milk,France,Chabichou du Poitou,Poitou,?
+KBKQ4,goat milk,France,Valençay (cheese),Indre,?
+KBKQ5,cow's milk,France,Salers (cheese),"Cantal, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme",cheese from France
+KBKQ6,"raw milk, cow's milk, cow's milk, cow's milk, cow's milk",France,Brie de Meaux,"Aube, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne",cheese from France
+KBKQ7,goat milk,France,Buche du Poitou,New Aquitaine,cheese from France
+KBKQ8,cow's milk,France,Bleu du Vercors-Sassenage,"Drôme, Isère, Isère",cheese from France
+KBKQ9,cow's milk,"Switzerland, France, France, France, France","Mont d'Or, France (cheese), Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or","Canton of Vaud, Franche-Comté, Franche-Comté",?
+KBKQ10,goat milk,France,Crottin de Chavignol,"Cher, Loiret, Nièvre, Loiret, Nièvre",?
+KBKQ11,"goat milk, sheep milk, sheep milk, sheep milk, sheep milk",France,Brocciu,"Haute-Corse, Corse-du-Sud, Corse-du-Sud",?
+KBKQ12,"raw milk, cow's milk, cow's milk, cow's milk, cow's milk",France,Reblochon,"Savoie, Haute-Savoie, Haute-Savoie",?
+KBKQ13,cow's milk,France,Bleu de Gex,"Ain, Jura, Jura",?
+KBKQ14,cow's milk,France,Langres (cheese),Haute-Marne,cheese from France
+KBKQ15,cow's milk,France,Pont-l'évêque (cheese),"Calvados, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime",cheese from France
+KBKQ16,"raw milk, goat milk, goat milk, goat milk, goat milk",France,Chevrotin de Savoie,"Savoie, Haute-Savoie, Haute-Savoie",cheese from France
+KBKQ17,goat milk,France,Rigotte de Condrieu,Pilat,cheese from France
+KBKQ18,cow's milk,France,Tome des Bauges,Bauges Mountains,?
+KBKQ19,cow's milk,France,Chaource (cheese),"Aube, Chaource, Chaource",cheese from France
+KBKQ20,"raw milk, sheep milk, sheep milk, sheep milk, sheep milk",France,Roquefort (cheese),Roquefort-sur-Soulzon,cheese from France
+KBKQ21,"raw milk, goat milk, goat milk, goat milk, goat milk",France,Charolais (cheese),"Allier, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône",?
+KBKQ22,cow's milk,France,Époisses (cheese),"Côte-d’Or, Haute-Marne, Yonne, Haute-Marne, Yonne",?
+KBKQ23,cow's milk,France,Saint-nectaire (cheese),"Cantal, Puy-de-Dôme, Puy-de-Dôme",?
+KBKQ24,cow's milk,France,Maroilles (cheese),Thiérache,?
+KBKQ25,goat milk,France,Pélardon,"Aude, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn",?
+KBKQ26,cow's milk,France,Fourme d'Ambert,Puy-de-Dôme,?
+KBKQ27,goat milk,France,Pouligny-saint-pierre (cheese),Indre,cheese from France
+KBKQ28,cow's milk,France,Abbaye de Tamié (cheese),Tamié Abbey,?
+KBKQ29,goat milk,France,Selles-sur-cher (cheese),"Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher",cheese from France
+KBKQ30,"straw, goat milk, goat milk, goat milk, goat milk",France,Sainte-Maure de Touraine (cheese),"Indre, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne",?
+KBKQ31,goat milk,France,Banon (cheese),"Hautes-Alpes, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse",cheese from France
+KBKQ32,cow's milk,France,Fourme de Montbrison,Loire,?
+KBKQ33,cow's milk,France,Camembert de Normandie,"Calvados, Eure, Manche, Orne, Eure, Manche, Orne",cheese from France
+KBKQ34,cow's milk,France,Morbier (cheese),"Ain, Jura, Doubs, Jura, Doubs",?
+KBKQ35,sheep milk,France,Ossau-Iraty,Pyrénées-Atlantiques,?
+KBKQ36,cow's milk,France,Munster (cheese),"Vosges, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort",?
+KBKQ37,cow's milk,France,Neufchâtel (cheese),"Oise, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy",cheese from France
+KBKQ38,cow's milk,France,Brie de Melun,"Aube, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne",cheese from France
+KBKQ39,"goat milk, sheep milk, cow's milk, sheep milk, cow's milk, sheep milk, cow's milk, sheep milk, cow's milk",France,Tomme des Pyrénées,"Ariège, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales",cheese from France

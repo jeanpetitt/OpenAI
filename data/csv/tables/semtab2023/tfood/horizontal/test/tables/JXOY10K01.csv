@@ -1,0 +1,13 @@
+col0,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10
+UCGO0,,Category:Cosmetics chemicals,,,,,,,,
+UCGO1,Food ingredients,Category:Food ingredients,"cooking, meal",dish,ingredient,"D27.720.372, G07.203.300.514, J02.500.514",,,,
+UCGO2,,,,antifreeze,,"D26.650.179, D27.505.519.241, D27.505.696.034.500, D27.505.696.663.850.007.500, D27.505.954.427.005.500, D27.720.744.179",,,,
+UCGO3,,Category:Aromatic plants,phytotherapy,,,,,,,
+UCGO4,,,,,"Kentucky Colonel, Kentucky Colonels",,Mentha spicata,,,
+UCGO5,,,,,,,,Astragalus membranaceus,,
+UCGO6,Flour,,,,flour,,flour,cereals and pseudocereals,,
+UCGO7,,Category:Thickening agents,increase,,,,,,,
+UCGO8,,,vaccine,,,,,,,
+UCGO9,Kombu,,,,,,,,"Entity[""FoodType"", ""Kombu""]",Laminariaceae
+UCGO10,Cinnamon sticks,,,,,,,,"Entity[""Food"", ""CinnamonStick::67svj""]",
+UCGO11,Escamoles,,,Mexican cuisine,,,,,,"Liometopum occidentale, Liometopum apiculatum"

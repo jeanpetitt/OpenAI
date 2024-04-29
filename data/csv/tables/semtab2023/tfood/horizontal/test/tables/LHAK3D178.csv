@@ -1,0 +1,10 @@
+col0,col1,col2,col3
+RFNU0,"water, hydrogen, carbon, oxygen, hydrogen, carbon, oxygen","Entity[""FoodType"", ""Carrageen""]",ingredient used in food product
+RFNU1,bell pepper,"Entity[""FoodType"", ""Paprika""]",ingredient used in food product
+RFNU2,"essential oil, caryophyllene, eugenol, tanning agents, caryophyllene, eugenol, tanning agents, caryophyllene, eugenol, tanning agents, caryophyllene, eugenol, tanning agents","Entity[""FoodType"", ""Clove""]",ingredient used in food product
+RFNU3,"water, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar","Entity[""Concept"", ""Honey::5y246""]",?
+RFNU4,"egg yolk, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white","Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",?
+RFNU5,"seed, walnut shell, walnut shell","Entity[""FoodType"", ""Walnut""]",ingredient used in food product
+RFNU6,pork thigh,"Entity[""FoodType"", ""Ham""]",?
+RFNU7,ovalbumin,"Entity[""Food"", ""EggWhite::55wnp""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""]",?
+RFNU8,maize,"Entity[""Food"", ""CornFlour::24r48""]",?

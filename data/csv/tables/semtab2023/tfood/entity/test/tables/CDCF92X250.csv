@@ -1,0 +1,301 @@
+Prop0,ingredient used in food product
+Prop1,chick
+Prop2,"573.6818, 598.1468"
+Prop3,http://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20egg%20diagram.svg
+Prop4,oology
+Prop5,"<math xmlns=""http://www.w3.org/1998/Math/MathML"" display=""block"" alttext=""{\displaystyle y=\pm {\frac {B}{2}}{\sqrt {\frac {L^{2}-4x^{2}}{L^{2}+8wx+4x^{2}}}}\times \left(1-{\frac {{\sqrt {55L^{2}+11Lw+4w^{2}}}\times ({\sqrt {3}}BL-2DL_{L/4}{\sqrt {L^{2}+2wL+4w^{2}}}}{{\sqrt {3}}BL({\sqrt {5.5L^{2}}}+11Lw+4w2-{\sqrt {L^{2}+2wL+4w^{2}}})}}\times \left(1-{\sqrt {\frac {L(L^{2}+8wx+4w^{2})}{2(L-2w)x^{2}+(L^{2}+8Lw-4w^{2})x+Lw^{2}+L^{2}w+L^{2}}}}\right)\right)}"">
+  <semantics>
+    <mrow class=""MJX-TeXAtom-ORD"">
+      <mstyle displaystyle=""true"" scriptlevel=""0"">
+        <mi>y</mi>
+        <mo>=</mo>
+        <mo>&#x00B1;<!-- ± --></mo>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <mfrac>
+            <mi>B</mi>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mrow class=""MJX-TeXAtom-ORD"">
+          <msqrt>
+            <mfrac>
+              <mrow>
+                <msup>
+                  <mi>L</mi>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+                <mo>&#x2212;<!-- − --></mo>
+                <mn>4</mn>
+                <msup>
+                  <mi>x</mi>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+              </mrow>
+              <mrow>
+                <msup>
+                  <mi>L</mi>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+                <mo>+</mo>
+                <mn>8</mn>
+                <mi>w</mi>
+                <mi>x</mi>
+                <mo>+</mo>
+                <mn>4</mn>
+                <msup>
+                  <mi>x</mi>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+              </mrow>
+            </mfrac>
+          </msqrt>
+        </mrow>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class=""MJX-TeXAtom-ORD"">
+              <mfrac>
+                <mrow>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <mn>55</mn>
+                      <msup>
+                        <mi>L</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                      <mo>+</mo>
+                      <mn>11</mn>
+                      <mi>L</mi>
+                      <mi>w</mi>
+                      <mo>+</mo>
+                      <mn>4</mn>
+                      <msup>
+                        <mi>w</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                    </msqrt>
+                  </mrow>
+                  <mo>&#x00D7;<!-- × --></mo>
+                  <mo stretchy=""false"">(</mo>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <mn>3</mn>
+                    </msqrt>
+                  </mrow>
+                  <mi>B</mi>
+                  <mi>L</mi>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mn>2</mn>
+                  <mi>D</mi>
+                  <msub>
+                    <mi>L</mi>
+                    <mrow class=""MJX-TeXAtom-ORD"">
+                      <mi>L</mi>
+                      <mrow class=""MJX-TeXAtom-ORD"">
+                        <mo>/</mo>
+                      </mrow>
+                      <mn>4</mn>
+                    </mrow>
+                  </msub>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <msup>
+                        <mi>L</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                      <mo>+</mo>
+                      <mn>2</mn>
+                      <mi>w</mi>
+                      <mi>L</mi>
+                      <mo>+</mo>
+                      <mn>4</mn>
+                      <msup>
+                        <mi>w</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                    </msqrt>
+                  </mrow>
+                </mrow>
+                <mrow>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <mn>3</mn>
+                    </msqrt>
+                  </mrow>
+                  <mi>B</mi>
+                  <mi>L</mi>
+                  <mo stretchy=""false"">(</mo>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <mn>5.5</mn>
+                      <msup>
+                        <mi>L</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                    </msqrt>
+                  </mrow>
+                  <mo>+</mo>
+                  <mn>11</mn>
+                  <mi>L</mi>
+                  <mi>w</mi>
+                  <mo>+</mo>
+                  <mn>4</mn>
+                  <mi>w</mi>
+                  <mn>2</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mrow class=""MJX-TeXAtom-ORD"">
+                    <msqrt>
+                      <msup>
+                        <mi>L</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                      <mo>+</mo>
+                      <mn>2</mn>
+                      <mi>w</mi>
+                      <mi>L</mi>
+                      <mo>+</mo>
+                      <mn>4</mn>
+                      <msup>
+                        <mi>w</mi>
+                        <mrow class=""MJX-TeXAtom-ORD"">
+                          <mn>2</mn>
+                        </mrow>
+                      </msup>
+                    </msqrt>
+                  </mrow>
+                  <mo stretchy=""false"">)</mo>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo>&#x00D7;<!-- × --></mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>&#x2212;<!-- − --></mo>
+                <mrow class=""MJX-TeXAtom-ORD"">
+                  <msqrt>
+                    <mfrac>
+                      <mrow>
+                        <mi>L</mi>
+                        <mo stretchy=""false"">(</mo>
+                        <msup>
+                          <mi>L</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo>+</mo>
+                        <mn>8</mn>
+                        <mi>w</mi>
+                        <mi>x</mi>
+                        <mo>+</mo>
+                        <mn>4</mn>
+                        <msup>
+                          <mi>w</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo stretchy=""false"">)</mo>
+                      </mrow>
+                      <mrow>
+                        <mn>2</mn>
+                        <mo stretchy=""false"">(</mo>
+                        <mi>L</mi>
+                        <mo>&#x2212;<!-- − --></mo>
+                        <mn>2</mn>
+                        <mi>w</mi>
+                        <mo stretchy=""false"">)</mo>
+                        <msup>
+                          <mi>x</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo>+</mo>
+                        <mo stretchy=""false"">(</mo>
+                        <msup>
+                          <mi>L</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo>+</mo>
+                        <mn>8</mn>
+                        <mi>L</mi>
+                        <mi>w</mi>
+                        <mo>&#x2212;<!-- − --></mo>
+                        <mn>4</mn>
+                        <msup>
+                          <mi>w</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo stretchy=""false"">)</mo>
+                        <mi>x</mi>
+                        <mo>+</mo>
+                        <mi>L</mi>
+                        <msup>
+                          <mi>w</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo>+</mo>
+                        <msup>
+                          <mi>L</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mi>w</mi>
+                        <mo>+</mo>
+                        <msup>
+                          <mi>L</mi>
+                          <mrow class=""MJX-TeXAtom-ORD"">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                      </mrow>
+                    </mfrac>
+                  </msqrt>
+                </mrow>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding=""application/x-tex"">{\displaystyle y=\pm {\frac {B}{2}}{\sqrt {\frac {L^{2}-4x^{2}}{L^{2}+8wx+4x^{2}}}}\times \left(1-{\frac {{\sqrt {55L^{2}+11Lw+4w^{2}}}\times ({\sqrt {3}}BL-2DL_{L/4}{\sqrt {L^{2}+2wL+4w^{2}}}}{{\sqrt {3}}BL({\sqrt {5.5L^{2}}}+11Lw+4w2-{\sqrt {L^{2}+2wL+4w^{2}}})}}\times \left(1-{\sqrt {\frac {L(L^{2}+8wx+4w^{2})}{2(L-2w)x^{2}+(L^{2}+8Lw-4w^{2})x+Lw^{2}+L^{2}w+L^{2}}}}\right)\right)}</annotation>
+  </semantics>
+</math>"
+Prop6,Egg and math: introducing a universal formula for egg shape
+Prop7,"chalaza, yolk"
+Prop8,Bird eggs

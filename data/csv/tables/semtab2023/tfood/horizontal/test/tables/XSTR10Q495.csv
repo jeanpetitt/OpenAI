@@ -1,0 +1,4 @@
+col0,col1,col2
+ECNW0,"Entity[""FoodType"", ""Orange""]","pulp, locule, locule, locule, locule, locule, locule, locule"
+ECNW1,"Entity[""FoodType"", ""Peach""]","(R)-amygdalin, peach pit, peach pit"
+ECNW2,"Entity[""FoodType"", ""Apple""]",(R)-amygdalin

@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4
+KWPD0,02028,bell pepper,"Entity[""FoodType"", ""Paprika""]",ingredient used in food product
+KWPD1,02011,"essential oil, caryophyllene, eugenol, tanning agents, caryophyllene, eugenol, tanning agents, caryophyllene, eugenol, tanning agents","Entity[""FoodType"", ""Clove""]",?
+KWPD2,19296,"water, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar","Entity[""Concept"", ""Honey::5y246""]",?
+KWPD3,01123,"egg yolk, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white","Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",?
+KWPD4,10870,pork thigh,"Entity[""FoodType"", ""Ham""]",ingredient used in food product
+KWPD5,"01124, 01171, 01172, 01171, 01172, 01171, 01172",ovalbumin,"Entity[""Food"", ""EggWhite::55wnp""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""]",ingredient used in food product

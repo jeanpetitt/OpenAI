@@ -1,0 +1,65 @@
+col0,col1,col2,col3,col4
+SPQX0,Ullucus tuberosus,Ullucus tuberosus,Ullucus,species
+SPQX1,Macrotyloma uniflorum,Macrotyloma uniflorum,Macrotyloma,species
+SPQX2,Crithmum maritimum,Crithmum maritimum,Crithmum,species
+SPQX3,Solanum incanum,Solanum incanum,Solanum subg. Leptostemonum,species
+SPQX4,Aegopodium podagraria,Aegopodium podagraria,Aegopodium,species
+SPQX5,Vigna mungo,Vigna mungo,Vigna,species
+SPQX6,Brassica juncea,Brassica juncea,Brassica,species
+SPQX7,Tragopogon pratensis,Tragopogon pratensis,Tragopogon,species
+SPQX8,Brassica oleracea,Brassica oleracea,Brassica,species
+SPQX9,Bambusoideae,Bambusoideae,Poaceae,subfamily
+SPQX10,Corchorus olitorius,Corchorus olitorius,Corchorus,species
+SPQX11,Chaerophyllum bulbosum,Chaerophyllum bulbosum,Chaerophyllum,species
+SPQX12,Cyamopsis tetragonoloba,Cyamopsis tetragonoloba,Cyamopsis,species
+SPQX13,Solanum lycopersicum var. cerasiforme,Solanum lycopersicum var. cerasiforme,tomato,variety
+SPQX14,Vigna umbellata,Vigna umbellata,Vigna,species
+SPQX15,Stachys affinis,Stachys affinis,Stachys,species
+SPQX16,Vigna radiata,Vigna radiata,Vigna,species
+SPQX17,Brassica rapa subsp. pekinensis,Brassica rapa subsp. pekinensis,Brassica rapa,subspecies
+SPQX18,Nasturtium officinale,Nasturtium officinale,Nasturtium,species
+SPQX19,Scorzonera hispanica,Scorzonera hispanica,Scorzonera,species
+SPQX20,Brassica,Brassica,Brassiceae,genus
+SPQX21,Rumex acetosa,Rumex acetosa,Rumex,species
+SPQX22,Sonchus oleraceus,Sonchus oleraceus,Sonchus,species
+SPQX23,Atriplex hortensis,Atriplex hortensis,Atriplex,species
+SPQX24,Lycium barbarum,Lycium barbarum,Lycium,species
+SPQX25,Arracacia xanthorrhiza,Arracacia xanthorrhiza,Arracacia,species
+SPQX26,Acmella oleracea,Acmella oleracea,Acmella,species
+SPQX27,Salicornia europaea,Salicornia europaea,Salicornia,species
+SPQX28,Capsicum,Capsicum,Capsiceae,genus
+SPQX29,Atriplex prostrata,Atriplex prostrata,Atriplex sect. Teutliopsis,species
+SPQX30,Apium graveolens,Apium graveolens,Apium,species
+SPQX31,Ipomoea aquatica,kangkung,Ipomoea,species
+SPQX32,Beetroot,Beta vulgaris subsp. vulgaris Conditiva Group,Beta vulgaris vulgaris,group
+SPQX33,Vigna angularis,Vigna angularis,Vigna,species
+SPQX34,Corchorus,Corchorus,Grewioideae,genus
+SPQX35,Psophocarpus tetragonolobus,Psophocarpus tetragonolobus,Psophocarpus,species
+SPQX36,Cucurbita ficifolia,Cucurbita ficifolia,Cucurbita,species
+SPQX37,Sesbania grandiflora,Sesbania grandiflora,Sesbania,species
+SPQX38,Brassica oleracea var. gongylodes,Brassica oleracea var. gongylodes,Brassica oleracea,variety
+SPQX39,Solanum virginianum,Solanum virginianum,Solanum subg. Leptostemonum,species
+SPQX40,Phaseolus acutifolius,Phaseolus acutifolius,Phaseolus,species
+SPQX41,Tragopogon porrifolius,Tragopogon porrifolius,Tragopogon,species
+SPQX42,Canavalia gladiata,Canavalia gladiata,Canavalia,species
+SPQX43,Chenopodium giganteum,Chenopodium giganteum,Chenopodium,species
+SPQX44,Cucurbita maxima,Cucurbita maxima,Cucurbita,species
+SPQX45,Foeniculum vulgare,Foeniculum vulgare,Foeniculum,species
+SPQX46,Urtica membranacea,Urtica membranacea,Urtica,species
+SPQX47,Vigna unguiculata subsp. cylindrica,Vigna unguiculata subsp. cylindrica,Vigna unguiculata,subspecies
+SPQX48,Dioscorea bulbifera,Dioscorea bulbifera,Dioscorea,species
+SPQX49,Pachyrhizus erosus,Pachyrhizus erosus,Pachyrhizus,species
+SPQX50,Urtica kioviensis,Urtica kioviensis,Urtica,species
+SPQX51,Macrotyloma geocarpum,Macrotyloma geocarpum,Macrotyloma,species
+SPQX52,Vigna aconitifolia,Vigna aconitifolia,Vigna,species
+SPQX53,Oxalis tuberosa,Oxalis tuberosa,Oxalis,species
+SPQX54,Beta vulgaris,Beta vulgaris,Beta sect. Beta,species
+SPQX55,Glebionis coronaria,Glebionis coronaria,Glebionis,species
+SPQX56,Brassica oleracea var. palmifolia,Brassica oleracea var. palmifolia,Brassica oleracea,variety
+SPQX57,Sium sisarum,Sium sisarum,Sium,species
+SPQX58,Claytonia perfoliata,Claytonia perfoliata,Claytonia,species
+SPQX59,Brassica napus subsp. rapifera,Brassica napus rapifera,rapeseed,subspecies
+SPQX60,Brassica oleracea var. sabauda,Brassica oleracea var. sabauda,Brassica oleracea,variety
+SPQX61,Stellaria media,Stellaria media,Stellaria,species
+SPQX62,Broccoli,Brassica oleracea var. italica,Brassica oleracea,variety
+SPQX63,Artichokes as food,Cynara scolymus,Cynara,species

@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+DBFK0,"porridge, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng, risotto, frikadeller, Nasi goreng",Oryza sativa,ingredient used in food product
+DBFK1,cooking,edible fats and oils,?
+DBFK2,"dairy product, diary-milk beverage, diary-milk beverage, diary-milk beverage, diary-milk beverage, diary-milk beverage, diary-milk beverage, diary-milk beverage, diary-milk beverage","Milch, cow's milk, cow's milk, cow's milk, cow's milk, cow's milk, cow's milk",?
+DBFK3,"food, cosmetics, motor fuel, cosmetics, motor fuel",mineral oil,?
+DBFK4,cannabis smoking,Marihuana,ingredient used in food product
+DBFK5,"food, vegetable, medicinal plant, fodder, vegetable, medicinal plant, fodder",cassava root,ingredient used in food product

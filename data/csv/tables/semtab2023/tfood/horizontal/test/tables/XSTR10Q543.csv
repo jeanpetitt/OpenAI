@@ -1,0 +1,4 @@
+col0,col1,col2
+HUEA0,"Entity[""FoodType"", ""Juice""]","G07.203.100.606, J02.200.606, J02.200.606"
+HUEA1,"Entity[""Concept"", ""AlcoholicBeverage::j7253""], Entity[""FoodType"", ""AlcoholicBeverage""], Entity[""FoodType"", ""AlcoholicBeverage""]","G07.203.100.100, J02.200.100, J02.200.100"
+HUEA2,"Entity[""FoodType"", ""Coffee""]","D20.215.784.249, G07.203.100.325, J02.200.325, G07.203.100.325, J02.200.325"

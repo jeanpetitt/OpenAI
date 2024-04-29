@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4
+UBYC0,"Entity[""Food"", ""SesameSeeds::2d53x""]","16321931, 8980429011, 8980429011, 8980429011",9371,ingredient used in food product
+UBYC1,"Entity[""FoodType"", ""ChiliPepper""]","16319701, 6507133011, 6507133011, 6507133011","379, 7365, 7365",?
+UBYC2,"Entity[""Food"", ""Coconut::4ns2w""]",6507034011,"1256, 2687, 2687",?
+UBYC3,"Entity[""Concept"", ""CucumberVine::6962w""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""]",6507077011,353,?
+UBYC4,"Entity[""FoodType"", ""Almondmilk""]",6520452011,371.46,ingredient used in food product
+UBYC5,"Entity[""Food"", ""CornFlour::24r48""]",6492270011,1253,ingredient used in food product

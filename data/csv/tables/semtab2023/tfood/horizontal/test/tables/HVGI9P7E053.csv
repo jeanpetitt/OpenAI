@@ -1,0 +1,50 @@
+col0,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10,col11
+SZMG0,Laguiole (cheese),France,700,,,,,,,,?
+SZMG1,Comté (cheese),,57894,,Comté,,"Entity[""Food"", ""ComteCheese::92jc2""]",,,,cheese from France
+SZMG2,,,,,,,,,,,cheese from France
+SZMG3,Bleu des Causses,,435,cylinder,,,"Entity[""FoodType"", ""BleudesCausses""]",,,,?
+SZMG4,Chabichou du Poitou,France,374,"cylinder, frustum",,,,,,,?
+SZMG5,Valençay (cheese),France,328,pyramid,,grey,,,,,cheese from France
+SZMG6,Brillat-Savarin (cheese),France,1560,,,,,,,,cheese from France
+SZMG7,Salers (cheese),France,1299,cylinder,,yellow,,,,,cheese from France
+SZMG8,Brie de Meaux,France,6318,,,,,,,,cheese from France
+SZMG9,Buche du Poitou,,,,,,,,,,?
+SZMG10,,France,,,,orange,,,,,?
+SZMG11,Bleu du Vercors-Sassenage,France,382,disk,,,,,,,?
+SZMG12,Saint Agur,,,,,,,,,,?
+SZMG13,"Mont d'Or, France (cheese), Vacherin Mont-d'Or","Switzerland, France",5503,,,,,,Vacherin fribourgeois,,cheese from France
+SZMG14,Crottin de Chavignol,France,809,,,,,milk,,,cheese from France
+SZMG15,Brocciu,France,410,,,,,whey,,,cheese from France
+SZMG16,Abondance (cheese),France,2975,,Abondance,,,milk,,,?
+SZMG17,Reblochon,,15797,,reblochon,,,,,,cheese from France
+SZMG18,Soumaintrain (cheese),France,,,,,,,Soumaintrain,,?
+SZMG19,Bleu de Gex,France,"455, 510, 533, 550",,,,,,,A030D,?
+SZMG20,Langres (cheese),France,631,,,,,,,,cheese from France
+SZMG21,Pont-l'évêque (cheese),France,2332,,,,"Entity[""FoodType"", ""PontLEveque""]",,,,?
+SZMG22,Chevrotin de Savoie,,58,,,,,,,,cheese from France
+SZMG23,Rigotte de Condrieu,France,108,,,,,,,,?
+SZMG24,Tome des Bauges,France,960,cylinder,,grey,,milk,,,?
+SZMG25,Chaource (cheese),France,2421,,,,,,,,?
+SZMG26,Roquefort (cheese),France,18830,cylinder,Roquefort,,"Entity[""Food"", ""CheeseRoquefort::4w9g8""], Entity[""Food"", ""CheeseRoquefort::98b7z""]",,,A030K,?
+SZMG27,Charolais (cheese),France,63,,,,,,,,cheese from France
+SZMG28,Époisses (cheese),France,1342,,,,,,,,cheese from France
+SZMG29,Saint-nectaire (cheese),France,13815,cylinder,,,,,,,?
+SZMG30,Maroilles (cheese),France,4241,,Maroilles,,"Entity[""Food"", ""MaroillesCheese::5zj96""]",,,,cheese from France
+SZMG31,Pélardon,France,225,,,,,,,,?
+SZMG32,Beaufort (cheese),France,5100,,,,,,,,?
+SZMG33,Fourme d'Ambert,France,5837,cylinder,,,,,,,?
+SZMG34,,,,,,,,,,,cheese from France
+SZMG35,Pouligny-saint-pierre (cheese),France,293.17,,,,,milk,,,cheese from France
+SZMG36,Abbaye de Tamié (cheese),France,,,,,,,,,?
+SZMG37,,France,,,,,,,,,cheese from France
+SZMG38,Selles-sur-cher (cheese),France,1033,cylinder,,"blue, white","Entity[""FoodType"", ""SelleSurCher""]",,,,?
+SZMG39,Sainte-Maure de Touraine (cheese),France,1720,,,grey,,,,,cheese from France
+SZMG40,Banon (cheese),France,81,,,,,milk,,,cheese from France
+SZMG41,Fourme de Montbrison,France,733,,,grey,,,,,cheese from France
+SZMG42,Camembert de Normandie,France,"5698, 5840",,,,,,,,?
+SZMG43,Morbier (cheese),France,10530,,,,,,,,cheese from France
+SZMG44,Ossau-Iraty,France,4359,,,,,,,,?
+SZMG45,Munster (cheese),France,6292,,Munster,,,,,,cheese from France
+SZMG46,Neufchâtel (cheese),France,"1492, 1594",heart,Neufchâtel,,,,,,cheese from France
+SZMG47,Brie de Melun,France,250,,,,,,,,?
+SZMG48,Tomme des Pyrénées,France,4000,,,,,,,,?

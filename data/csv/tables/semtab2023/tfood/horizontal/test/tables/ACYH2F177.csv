@@ -1,0 +1,6 @@
+col0,col1,col2,col3,col4
+IBBR0,02028,bell pepper,"Entity[""FoodType"", ""Paprika""]",16321761
+IBBR1,19296,"water, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar","Entity[""Concept"", ""Honey::5y246""]",16317891
+IBBR2,01123,"egg yolk, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white","Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",6459144011
+IBBR3,10870,pork thigh,"Entity[""FoodType"", ""Ham""]","12071188011, 6518739011, 6519155011, 6518739011, 6519155011, 6518739011, 6519155011"
+IBBR4,"01124, 01171, 01172, 01171, 01172, 01171, 01172, 01171, 01172",ovalbumin,"Entity[""Food"", ""EggWhite::55wnp""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""]",6520432011

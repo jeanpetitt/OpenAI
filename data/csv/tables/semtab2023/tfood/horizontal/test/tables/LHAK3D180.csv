@@ -1,0 +1,14 @@
+col0,col1,col2,col3
+YJKJ0,"Entity[""Food"", ""SesameSeeds::2d53x""]","16321931, 8980429011, 8980429011",ingredient used in food product
+YJKJ1,"Entity[""FoodType"", ""ChiliPepper""]","16319701, 6507133011, 6507133011",ingredient used in food product
+YJKJ2,"Entity[""FoodType"", ""Paprika""]",16321761,?
+YJKJ3,"Entity[""FoodType"", ""Garlic""]","16321641, 6465014011, 724703011, 6465014011, 724703011",ingredient used in food product
+YJKJ4,"Entity[""Concept"", ""Honey::5y246""]",16317891,ingredient used in food product
+YJKJ5,"Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",6459144011,?
+YJKJ6,"Entity[""Food"", ""BakingPowder::3y89q""]",16317381,?
+YJKJ7,"Entity[""Food"", ""Coconut::4ns2w""]",6507034011,?
+YJKJ8,"Entity[""Concept"", ""CucumberVine::6962w""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""]",6507077011,ingredient used in food product
+YJKJ9,"Entity[""FoodType"", ""Ham""]","12071188011, 6518739011, 6519155011, 6518739011, 6519155011, 6518739011, 6519155011, 6518739011, 6519155011, 6518739011, 6519155011",?
+YJKJ10,"Entity[""Food"", ""EggWhite::55wnp""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""]",6520432011,ingredient used in food product
+YJKJ11,"Entity[""FoodType"", ""Almondmilk""]",6520452011,?
+YJKJ12,"Entity[""Food"", ""CornFlour::24r48""]",6492270011,?

@@ -1,0 +1,3 @@
+col0,col1,col2,col3,col4
+NWRX0,http://purl.obolibrary.org/obo/ENVO_00003970,10641540,"Entity[""FoodType"", ""Sugar""]",ingredient used in food product
+NWRX1,http://purl.obolibrary.org/obo/ENVO_02000065,10639394,"Entity[""FoodType"", ""Chocolate""]",?

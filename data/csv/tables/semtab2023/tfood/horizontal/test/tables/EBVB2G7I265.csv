@@ -1,0 +1,41 @@
+col0,col1,col2,col3
+FYJL0,France,Laguiole (cheese),Aubrac
+FYJL1,France,Comté (cheese),Franche-Comté
+FYJL2,France,Bleu des Causses,"Aveyron, Lot, Lozère, Lot, Lozère, Lot, Lozère, Lot, Lozère"
+FYJL3,France,Chabichou du Poitou,Poitou
+FYJL4,France,Valençay (cheese),Indre
+FYJL5,France,Salers (cheese),"Cantal, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme, Corrèze, Puy-de-Dôme"
+FYJL6,France,Brie de Meaux,"Aube, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, Yonne"
+FYJL7,France,Buche du Poitou,New Aquitaine
+FYJL8,France,Bleu du Vercors-Sassenage,"Drôme, Isère, Isère, Isère, Isère, Isère, Isère, Isère, Isère, Isère"
+FYJL9,"Switzerland, France, France, France, France, France, France, France, France, France, France, France","Mont d'Or, France (cheese), Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or, Vacherin Mont-d'Or","Canton of Vaud, Franche-Comté, Franche-Comté, Franche-Comté, Franche-Comté, Franche-Comté, Franche-Comté, Franche-Comté, Franche-Comté"
+FYJL10,France,Crottin de Chavignol,"Cher, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre, Loiret, Nièvre"
+FYJL11,France,Brocciu,"Haute-Corse, Corse-du-Sud, Corse-du-Sud, Corse-du-Sud, Corse-du-Sud, Corse-du-Sud, Corse-du-Sud, Corse-du-Sud"
+FYJL12,France,Reblochon,"Savoie, Haute-Savoie, Haute-Savoie, Haute-Savoie, Haute-Savoie"
+FYJL13,France,Bleu de Gex,"Ain, Jura, Jura, Jura, Jura, Jura, Jura, Jura"
+FYJL14,France,Langres (cheese),Haute-Marne
+FYJL15,France,Pont-l'évêque (cheese),"Calvados, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime, Eure, Manche, Orne, Seine-Maritime"
+FYJL16,France,Chevrotin de Savoie,"Savoie, Haute-Savoie, Haute-Savoie, Haute-Savoie, Haute-Savoie"
+FYJL17,France,Rigotte de Condrieu,Pilat
+FYJL18,France,Tome des Bauges,Bauges Mountains
+FYJL19,France,Chaource (cheese),"Aube, Chaource, Chaource, Chaource, Chaource, Chaource, Chaource, Chaource, Chaource"
+FYJL20,France,Roquefort (cheese),Roquefort-sur-Soulzon
+FYJL21,France,Charolais (cheese),"Allier, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône, Loire, Saône-et-Loire, Rhône"
+FYJL22,France,Époisses (cheese),"Côte-d’Or, Haute-Marne, Yonne, Haute-Marne, Yonne, Haute-Marne, Yonne, Haute-Marne, Yonne, Haute-Marne, Yonne, Haute-Marne, Yonne"
+FYJL23,France,Saint-nectaire (cheese),"Cantal, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme, Puy-de-Dôme"
+FYJL24,France,Maroilles (cheese),Thiérache
+FYJL25,France,Pélardon,"Aude, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn, Gard, Hérault, Lozère, Tarn"
+FYJL26,France,Fourme d'Ambert,Puy-de-Dôme
+FYJL27,France,Pouligny-saint-pierre (cheese),Indre
+FYJL28,France,Abbaye de Tamié (cheese),Tamié Abbey
+FYJL29,France,Selles-sur-cher (cheese),"Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher, Indre, Loir-et-Cher"
+FYJL30,France,Sainte-Maure de Touraine (cheese),"Indre, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne, Indre-et-Loire, Loir-et-Cher, Vienne"
+FYJL31,France,Banon (cheese),"Hautes-Alpes, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse, Alpes-de-Haute-Provence, Drôme, Vaucluse"
+FYJL32,France,Fourme de Montbrison,Loire
+FYJL33,France,Camembert de Normandie,"Calvados, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne, Eure, Manche, Orne"
+FYJL34,France,Morbier (cheese),"Ain, Jura, Doubs, Jura, Doubs, Jura, Doubs, Jura, Doubs, Jura, Doubs, Jura, Doubs, Jura, Doubs, Jura, Doubs"
+FYJL35,France,Ossau-Iraty,Pyrénées-Atlantiques
+FYJL36,France,Munster (cheese),"Vosges, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort, Meurthe-et-Moselle, Moselle, Bas-Rhin, Haut-Rhin, Haute-Saône, Territoire de Belfort"
+FYJL37,France,Neufchâtel (cheese),"Oise, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy, Seine-Maritime, Upper Normandy"
+FYJL38,France,Brie de Melun,"Aube, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne, Seine-et-Marne, Yonne"
+FYJL39,France,Tomme des Pyrénées,"Ariège, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales, Aude, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Pyrénées-Orientales"

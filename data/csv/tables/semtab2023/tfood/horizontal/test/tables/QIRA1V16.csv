@@ -1,0 +1,665 @@
+col0,col1,col2,col3,col4,col5,col6,col7,col8,col9,col10,col11,col12,col13,col14,col15,col16,col17,col18,col19,col20,col21,col22,col23,col24,col25,col26,col27,col28,col29,col30,col31,col32,col33,col34,col35,col36,col37,col38,col39,col40,col41,col42,col43,col44,col45,col46,col47,col48,col49,col50,col51,col52,col53,col54,col55,col56,col57,col58,col59,col60,col61,col62,col63,col64,col65,col66,col67,col68,col69,col70,col71,col72,col73,col74,col75,col76,col77,col78,col79,col80,col81,col82,col83,col84,col85,col86,col87,col88,col89,col90,col91,col92,col93,col94,col95,col96,col97,col98,col99,col100,col101,col102
+QTNG0,,Pimenta dioica,Allspice,I5GZG55B36,,Pimenta dioica,,02001,,,,,Ottův slovník naučný,,,,,,,,C0162746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,pickled cucumber,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG2,,,,A2M91M918C,,,,,,,,,,,,,,,34387,8016-70-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG3,,Disciotis venosa,,176G89I362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG4,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG5,,,Oat milk,,"water, rolled oats",,,,,,18777532011,48.24,,,,,,,,,,"0.3, 0.9",,,,,,,,,,,,,,,,,,,,,1990-01-01T00:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG6,,,Tofu,,soy milk,,Category:Tofu,,"soy milk, soy bean",,6507197011,2523,,,,,5530,,,,,0.3,China,Tofu,,Wikipedia:Vital articles/Level/4,,,,,,,,,,,,,,,,,0100-01-01T00:00:00Z,,,,,,"Japanese cuisine, Chinese cuisine",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,soy pulp,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG7,poppy seed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG8,Eurasian otter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG9,,Vitis vinifera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG10,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG11,,,,R44IWB3RN5,,,,16122,,"Entity[""Food"", ""SoyProteinIsolate::yjt82""], Entity[""FoodType"", ""SoyProteinIsolate""]",,,,,,,,,34123,9010-10-0,,,,,,,232-720-8,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG12,parsley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG13,,,Carrageenan,5C69YCD2YJ,,,,,"water, hydrogen, carbon, oxygen","Entity[""FoodType"", ""Carrageen""]",,,,food thickener,,,,,88730,9000-07-1,,,,,,,232-524-2,D09.698.152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG14,,,,,,,,,,,,,,,"egg, cytoplasm",,6404,,,,,,,,,,,,,,,,http://purl.obolibrary.org/obo/GO_0060417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG15,mutton,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG16,,,,,meat,,,,,,2256161011,,Brockhaus and Efron Encyclopedic Dictionary,,,,,,,,,,,,,,,,,"rotisserie, Russian stew",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG17,,"Zanthoxylum piperitum, Zanthoxylum simulans, Zanthoxylum schinifolium, Zanthoxylum bungeanum",Sichuan pepper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Japanese cuisine, Tibetan cuisine, Nepalese cuisine, Chinese cuisine",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG18,,Lycoperdon pyriforme,,032Y8VMJ7I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG19,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG20,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG21,,sesame,Sesame,7Y1255HVXR,,,,,,"Entity[""Food"", ""SesameSeeds::2d53x""]","16321931, 8980429011",9371,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Fr-s%C3%A9same.ogg,,A015K,,,C0440299,,,,,,,,,,,,,,,,,,,,,,,,,03111500,,,,,,,,10151606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG22,,,Vanilla extract,,"ethanol, vanilla bean",Vanilla planifolia oil,,"02050, 02052, 02051",,"Entity[""FoodType"", ""VanillaExtract""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG23,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG24,,Elaeis guineensis,Palm oil,5QUO05548Z,,palm kernel oil,Category:Palm oil,04055,,,,4971,"Brockhaus and Efron Encyclopedic Dictionary, Ottův slovník naučný, Small Brockhaus and Efron Encyclopedic Dictionary",,,,1311510,,87225,8002-75-3,,15.1,,,,"Wikipedia:Vital articles/Level/4, Wiki Loves Cultura Popular Brasil - Culinária",232-316-1,"D10.627.700.798, D20.215.784.750.728",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nauka_i_tehnika/tehnologiya_i_promyshlennost/PALMOVOE_MASLO.html,,,,,,,,,,,,,,,,,,,,,?
+QTNG25,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG26,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG27,,horseradish plant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG28,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG29,animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG30,,Leucoagaricus leucothites,,36914H228G,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG31,spice,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG32,,,Yeasts,3NY3SM6B8U,,,Category:Yeasts,,,,,,"Brockhaus and Efron Encyclopedic Dictionary, Small Brockhaus and Efron Encyclopedic Dictionary",,,,4188,,,,,,,,,,,B01.300.930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG33,,,Cassava flour,,cassava root,cassava starch,,,,,,1878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG34,,,Starch derivates,,,,,,,,,,,food thickener,,,,A048E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG35,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG36,,Fagopyrum esculentum,Buckwheat flour,,kasha,,,,Fagopyrum,,6492268011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG37,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG38,Anserini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG39,,,,,,,,,,"Entity[""Food"", ""WheatStarch::s5r98""], Entity[""Food"", ""WheatStarch::wkf46""], Entity[""Food"", ""WheatStarch::x39qy""]",,,,,,,,A004M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG40,Otididae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG41,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG42,,,Curry powder,,,curry,,02015,turmeric,,16321601,,,,curry,,,A043A,,,C0453255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG43,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG44,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG45,,"Capsicum annuum, Capsicum",Chili peppers,,,bell pepper,Category:Chili peppers,,,"Entity[""FoodType"", ""ChiliPepper""]","16319701, 6507133011","379, 7365",,,,"http://commons.wikimedia.org/wiki/Special:FilePath/Fr-piment.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Nl-chilipeper.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Sv-chilipeppar.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Wo-kaani.ogg",392603,,,,,,,,4686,Wikipedia:Vital articles/Level/4,,,🌶,peperoncino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Template:Chili peppers,,,,,,,,,,,,,Mirchi,,,,,,,,,,,,,,,,,,,,?
+QTNG46,,,,,,,,,,,,,,pudding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ginger bread spice, pumpkin pie spice",,,,,,,,,,,,,,,,,,,,,,,,,,,,"cinnamon, nutmeg, allspice, ginger, clove, coriander seed, caraway seeds, cayenne pepper, Cassia oil",,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG47,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG48,,Triticum aestivum,Wheat,4J2I0SN84Y,,Triticum,Category:Wheat,,,,,1827,"Brockhaus and Efron Encyclopedic Dictionary, Explanatory Dictionary of the Living Great Russian Language, Armenian Soviet Encyclopedia, Bible Encyclopedia of Archimandrite Nicephorus, Small Brockhaus and Efron Encyclopedic Dictionary, Zhiwu Mingshi Tukao",,Russian cuisine,"http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%9C%E1%B1%A9%E1%B1%A6%E1%B1%A9%E1%B1%A2.wav, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Sv-ett%20vete.ogg",466721,,,,,,Russia,Wheat,,"Wikipedia:List of articles all languages should have, Wikipedia:Vital articles/Level/4",,,,,,,,"gluten-related disorder, wheat allergy",,,,,,,,,,,,,,,,J382,,,,,,,,,,,,,,,,,,,Template:Wheat,"focus on agriculture here, not on taxonomy",,,,,,,,,,,nauka_i_tehnika/tehnologiya_i_promyshlennost/PSHENITSA.html,,,"584.9, 633.11, 641.3311, 664.722",Tag:crop=wheat,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG49,,Mentha ×piperita,,V95R5KMY2B,mint leaf,mint leaf,,,,,724723011,,,,,,,A00YB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG50,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG51,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG52,,,Sus scrofa domesticus heads,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Fr-t%C3%AAte%20de%20porc.ogg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG53,,chard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG54,,,Whole wheat flour,,whole grain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG55,,Berberis vulgaris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG56,,,Sea salt,87GE52P74G,seawater,,,,,,16321901,,,,,,,,,,,,,,,,,,,unrefined sea salt,reduction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2501.00.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG57,Sus scrofa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG58,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG59,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG60,Ficus carica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG61,,Capsicum annuum,,04E91XC023,,,,,"capsaicin, capsanthin, capsorubin",,,,,food coloring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E160c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG62,Brachycera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG63,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG64,,turnip,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG65,lamb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG66,,Mentha ×piperita,,AV092KU4JH,peppermint leaf,,,,,,,,"Brockhaus and Efron Encyclopedic Dictionary, New Encyclopedic Dictionary",,,,,,,8006-90-4,C0070325,,,,,,616-900-7,,,,,,,,,,,,,,,,,,,,,,,,165892,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG67,calf's trotters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG68,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG69,tench,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG70,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG71,Anserini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG72,juniper berry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG73,,canola,Canola oil,331KBJ17RK,,rapeseed oil,,,,,,,,,,,,,74796,120962-03-0,,"1.8, 3.3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Canola%20field.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG74,lamb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG75,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG76,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG77,Chickadee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG78,ginger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG79,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG80,,,,,,,,,"sodium, magnesium, potassium, calcium, iodine",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oivariini,Valio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG81,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG82,,maize,Corn starch,,maize,maize flour,,20027,,,,1671,,"thickener, food thickener",,http://commons.wikimedia.org/wiki/Special:FilePath/Nl-ma%C3%AFszetmeel.ogg,1455394,A002R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG83,,,Ras el-Hanout,,,,Category:Ras el-Hanout,,"cinnamon, spice, nutmeg, mace, turmeric, anise seed",,,,,couscous,Maghrebi cuisine,http://commons.wikimedia.org/wiki/Special:FilePath/GeoTrinity%20Ras-el-Hanout.ogg,,,,,,,Maghreb,Ras el hanout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG84,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG85,chicken stomach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG86,asp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG87,stickleback,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG88,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG89,"water, hops",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG90,,,,,,,,,,,,,,,,,,,,,,,Indonesia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Indonesia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG91,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG92,,Glycine max,,1DI56QDM62,soy bean,,,,,,,,,,,,,,,8030-76-0,,,,,,,310-129-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG93,almond milk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG94,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG95,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG96,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG97,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG98,,,Vanilla sugar,,Vanilla planifolia,vanillin sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG99,,pear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG100,,,Shark fins as food,,,,,,,,,,,,Buddha Jumps Over the Wall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"魚翅, 鱼翅, 魚翅, 鱼翅, hî-chhì",,,,,,,,,,,,,,,,?
+QTNG101,,,,,"sugar, vanillin",vanilla sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG102,,Capsicum,Paprika powder,X72Z47861V,,,,02028,bell pepper,"Entity[""FoodType"", ""Paprika""]",16321761,,,,,,392618,A019L,,,C0162338,,,,,Wikipedia:Vital articles/Level/4,,,,,"food drying, grinding",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG103,,,,,intestine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,intestine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG104,"water, quince",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG105,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG106,,Hordeum vulgare,,5PWM7YLI7R,,,,,,,,1423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG107,,,,,,,,,,,,,,,Avena sativa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG108,,,Rye flour,,rye,,,,,,,1930,,,,,,A003J,,,,0.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.61.22.110,10.61.22.110,,,,,,,,,,,,,,ingredient used in food product
+QTNG109,,Artemisia abrotanum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG110,,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG111,,,,,pink grapefruit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG112,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG113,,,Flour,,grain,cereals' and pseudocereals' flour,Category:Flour,,,,,,"Armenian Soviet Encyclopedia, New Encyclopedic Dictionary",,,"http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AA%E0%A5%80%E0%A4%A0.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%86%E0%A8%9F%E0%A8%BE.oga, http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AF%81.ogg",,,,,,,,Flour,,Wikipedia:Vital articles/Level/4,,"G07.203.300.484, J02.500.484",,cereals' and pseudocereals' flour,Q37914042,,http://purl.obolibrary.org/obo/ENVO_00003876,,hygroscopy,,,,,,,,-14000-01-01T00:00:00Z,,,,41C61,,,,,,,,,10639459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG114,neck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG115,,,,,,,,,apricot,,,,,,,,,,,,,,Germany,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG116,,tomato,Tomatoes,Z4KHF2C175,,,Category:Tomatoes,,,,16319611,"214, 267, 4276",Metropolitan Museum of Art Tagging Vocabulary,,,"http://commons.wikimedia.org/wiki/Special:FilePath/It-un%20pomodoro.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-R%20Ashwani%20Banjan%20Murmu-%E1%B1%A0%E1%B1%A9%E1%B1%B2%E1%B1%AA%E1%B1%9F..wav, http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9F%E0%A8%AE%E0%A8%BE%E0%A8%9F%E0%A8%B0.oga, http://commons.wikimedia.org/wiki/Special:FilePath/Uk-%D1%82%D0%BE%D0%BC%D0%B0%D1%82.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/De-Tomate.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Tomate.wav",,,,,,0.4,,,"4063, 4064, 4778",,,,🍅,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG117,,,,,,,,,,,,,,,,,,A043P,92474,,,,Germany,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG118,,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Produkty-regionalne-i-tradycyjne/Lista-produktow-tradycyjnych/woj.-podlaskie/Kumpiak-podlaski/,,,,,,,,,,,,,?
+QTNG119,,pea,,W4X7H8GYFM,,,,,,,6464137011,595,,,,,,,,,,1.4,,,4674,,,,,,,,,,,,,,,,,,,,,03221220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG120,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG121,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG122,,,Coconut milk,AMN6S4M09G,"water, grated coconut",coconut water,,12118,,,6520453011,,,pandan waffle,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%B2%20%E0%A6%A6%E0%A7%81%E0%A6%A7.wav,,,,,,,,,,Wikipedia:Vital articles/Level/4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG123,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG124,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG125,parsley root,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG126,,,Grated coconut,,coconut,,,,,,16317531,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG127,,,Alburnus alburnus,,,,Category:Alburnus alburnus,,,,,,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",,,,1499121,,,,,,,Alburnus alburnus,,,,,,,,,,,,Alburnus,Alburnus alburnus,species,"Bleak, bleak, ouklej obecná, Ukelei, salakka, ablette, laue, alver, Ukleja",ALBRAL,163663,WikiProject Invasion Biology,,,,,,,,,,,,,,,NHMSYS0000544605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG128,,,,,,"Q2226665, Carp",Category:Carp,15008,,"Entity[""FoodType"", ""Carp""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Template:Carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG129,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG130,acid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG131,,Citrullus lanatus var. lanatus,,GW1TC60YDZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG132,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG133,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG134,,Vitis vinifera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG135,,Myroxylon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG136,,,Egg yolk,4IPS17B70T,"chicken egg, yolk",Tomasz Żółtko,,"1137, 1126, 1125",,"Entity[""Food"", ""EggYolk::nm438""], Entity[""Food"", ""EggYolk::qv3t6""]",,,,"nutriment, food thickener",chicken egg,,,A0F6F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG137,Sus scrofa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG138,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG139,,,Alpinia galanga,3S1W839C0O,,,Category:Alpinia galanga,,,,,,"Gujin Tushu Jicheng, Flora Reipublicae Popularis Sinicae, volume 16(2)","fiber, food, vegetable, spice, medicinal plant",,,,,,,,,,Alpinia galanga,,,,,,,,,,,,Alpinia,Alpinia galanga,species,"greater galangal, 南薑, 大良薑, 大高良姜, 山姜子, 紅荳蔻, 红豆蔻, 红豆蔻（大高良姜）, 良薑, 蠻薑, 高良薑, 大高良姜, 红豆蔻",AIIGA,506513,WikiProject Invasion Biology,,A. galanga,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=2666,,,,,,,,,,Maranta galanga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG140,Anserini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG141,,crayfish,,,,,,,,,,,,bait,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG142,,,Bird eggs,,,,,,"chalaza, yolk",,,,Egg and math: introducing a universal formula for egg shape,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,chick,,,,,,,,,,,,,,,,,,,,,,,,,"573.6818, 598.1468",,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20egg%20diagram.svg,,,,,,,,,,,,ingredient used in food product
+QTNG143,,Juglans nigra,Juglans nigra (fruit),02WM57RXZJ,,,,,,,,,,,,,,,,,,,,,4944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG144,Huso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG145,,quince,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG146,,,Bánh phở,,,,,,,,,,,,,,,,,,,,Vietnam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG147,,Piper nigrum,,KM66971LVF,,,,02030,,"Entity[""Food"", ""BlackPepper::jp3fh""]",,,,,,,,,,,C0162750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG148,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG149,,,,,,,,11548,,"Entity[""Food"", ""TomatoPowder::8dk33""], Entity[""Food"", ""TomatoPowder::hb9bc""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG150,,,Garlic powder,,,,,02020,garlic,,,2265,,,,,,,,,C1119842,,,,,,,,,,"mill, food drying",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG151,Malus sylvestris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG152,,Panax,Ginseng,CUQ3A77YXI,,,,,,,,,Gujin Tushu Jicheng,,,,,,,50647-08-0,,,,,,,680-299-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG153,,Syzygium aromaticum,Clove,K48IKT5321,bud,Dianthus,,02011,"essential oil, caryophyllene, eugenol, tanning agents","Entity[""FoodType"", ""Clove""]",,61205,,,"jidabokuippo, nyoshinsan",,,,,84961-50-2,C0009076,,,,,,,,,,drying,,,,"odor, pungency",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG154,,Prunus cerasus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG155,birds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG156,goose fat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG157,,Cinnamomum tamala,,7268BJ3XO5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG158,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pickled cucumber,,,,,,,,,,,,,,,,,,,50,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG160,,Castanea dentata,,0XH1TH76XZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG161,,,,,beer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG162,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG163,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG164,Fringillidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG165,,Triticum durum,Semolina and wheat farina,,,"semolina pudding, Cream of Wheat",Category:Semolina and wheat farina,,wheat,,,,"Brockhaus and Efron Encyclopedic Dictionary, Meyers Konversations-Lexikon, 4th edition (1885–1890)",,basbousa,,1213947,,,,,,,,,,,,,farina,,,,gluten-related disorder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG166,,Corylus avellana,Hazelnuts,4U47CHZ7DL,,,Category:Hazelnuts,,hazelnut shell,,6492300011,"5258, 10515",Internetowa encyklopedia PWN,,Turkish cuisine,,404765,,,,,5.3,,,4928,Wikipedia:Vital articles/Level/4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG167,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG168,,Anguilliformes,Eel dishes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG169,,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG170,,,,,,,,,,,,,,,Kazakh cuisine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG171,,Huso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG172,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG173,,Common Quail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG174,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG175,,Berberis vulgaris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG176,forest bird,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG177,meat,,,,,Q111551977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG178,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG179,juniper berry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG180,ginger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG181,quail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG182,,Allium sativum,Garlic,V1V998DC17,,,Category:Garlic,,,"Entity[""FoodType"", ""Garlic""]","16321641, 6465014011, 724703011",,,"baking, phytoncide, pickling",,"http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A8%B2%E0%A8%B8%E0%A8%A3.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Fr-ail.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A8%E1%B1%9F%E1%B1%B9%E1%B1%A5%E1%B1%A9%E1%B1%B1.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Lv-%C4%B7iploks.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Wo-laac.ogg",,,,,,,,,"4610, 3400, 4608, 4611, 3399",,,,🧄,,,,,garlic allergy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Untuk bawang putih sebagai spesies, gunakan Q23400",,,,,,,,,,,,,garlic clove,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG183,,Barbus,,JH861L172A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG184,,"Apis mellifera, Apis",Honey,Y9H1V576FH,nectar,Q11783663,Category:Honey,19296,"water, nectar","Entity[""Concept"", ""Honey::5y246""]",16317891,,"Brockhaus and Efron Encyclopedic Dictionary, Explanatory Dictionary of the Living Great Russian Language, Ottův slovník naučný, Bible Encyclopedia of Archimandrite Nicephorus, Jewish Encyclopedia of Brockhaus and Efron, Small Brockhaus and Efron Encyclopedic Dictionary, Great Soviet Encyclopedia (1926–1947), Real'nyj slovar' klassicheskih drevnostej po Ljubkeru","medicine, spread, ingredient",,"http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A8%B8%E0%A8%BC%E0%A8%B9%E0%A8%BF%E0%A8%A6.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%A7%E0%A7%81.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%A4%E0%AF%87%E0%AE%A9%E0%AF%8D.ogg",404630,,92416,8028-66-8,,,,Honey,,"Wikipedia:List of articles all languages should have, Wikipedia:Vital articles/Level/4",617-041-0,"G07.203.300.581, J02.500.581",,,"beekeeping, gathering",,,,"viscosity, hygroscopy",,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/So%20entsteht%20Bienenhonig.webm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG185,,quince,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG186,,,,,"rice, vinegar",,,,,,,,,,sushi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG187,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG188,,,,KQX236OK4U,,,,,,,,,,,,,,A003B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG189,,Theobroma cacao,Cocoa powder,,"cocoa bean, chocolate liquor",,Category:Cocoa,19859,,"Entity[""Food"", ""CocoaPowder::7b4q4""]",,15636,,,,,,A03HG,,,,5,,,,,,,,,,brown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG190,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG191,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG192,,Cucumis sativus,,BT3S9L53JK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG193,,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG194,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG195,,,,,,,,,,,,,,,,,,,,,,,Southern Europe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG196,,celery,,1G1EAA320L,,,,,,,16321521,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG197,,,,09VC5IT2EC,,,,,,,,,,,domesticated turkey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG198,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG199,isinglass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG200,,Columbidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG201,pea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG202,roe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG203,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG204,egret,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG205,,,Nuts as food,,,"nut, dried fruit, dry fruit",Category:Nuts as food,,,,,,,,wild food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG206,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG207,,Prunus subg. Prunus,Plums,67M3EQ6BE1,,,Category:Plums,"09281, 09283, 09279, 09284, 09282, 09285, 09379",(R)-amygdalin,,"6464968011, 724700011",2180,,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A1%E1%B1%9F%E1%B1%B9%E1%B1%B1%E1%B1%A9%E1%B1%A2.wav,,,,,,,,Plum,"4444, 4440, 4443, 4439",,,,,,,"yellow, purple",,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/C5%20plum%20pox%20resistant%20plum.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG208,,"fish, birds, Reptilia",Poultry eggs,291P45F896,egg,chicken egg,Category:Eggs (food),01123,"egg yolk, egg white","Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",6459144011,,"Brockhaus and Efron Encyclopedic Dictionary, Metropolitan Museum of Art Tagging Vocabulary",,"omelette, gado-gado, fried egg, shakshouka, Quindim",,340828,,,,,,,,,Wikipedia:Vital articles/Level/4,,"G07.203.300.470, J02.500.470",🥚,,,,,egg allergy,,,,,,,,,,,,,41C642,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG209,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG210,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG211,,,,,matzo,,,,,,,,,matzah ball,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG212,,,,,,,,,,,,,,,tuna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG213,pork shoulder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG214,calf's trotters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG215,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG216,,Macadamia integrifolia,Macadamia nuts,Y5432RGW8N,,,,,,,16322921,,,,,,,,,,,,,,3106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/MacadamiaARS.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG217,,,Roux (food),,,,,,,"Entity[""FoodType"", ""Roux""]",,,,food thickener,,,993709,,,,,,France,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG218,fig,,Fig cakes,,,,,,Ficus carica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG219,,,,,banana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG220,,,Hemp milk,,"water, hemp seed",,,,,,6520455011,,,,,,,,,,C3853312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG221,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG222,,,Liver as food,,liver,,Category:Liver (food),,,,,,,,Q56296699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"http://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20Livers.jpg, http://commons.wikimedia.org/wiki/Special:FilePath/Higado%20encebollado.jpg, http://commons.wikimedia.org/wiki/Special:FilePath/Sate%20Hati%20Kambing.JPG",,,liver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG223,aspic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG224,,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG225,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG226,,Alliaria petiolata,,VE6989I8QL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG227,,,Cane sugar,,sugarcane,"maple sugar, palm sugar, beet sugar, brown sugar",,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9307%20%28glg%29-Estevoaei-azucre%20de%20cana.wav,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG228,,Schinus molle,Pink peppercorn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG229,Salmonidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG230,,,High-fructose corn syrup,XY6UN3QB6S,"water, glucose, keto-D-fructose, corn starch",,,,,,,,,"sugar substitute, nutritive sweeteners",,,,,,,,,,,,,,"D09.301.831.500, D09.947.500.500, D27.720.372.300.353.609.750.500, G07.203.300.362.831.500, G07.203.300.514.500.400.700.750.500, J02.500.362.831.500, J02.500.514.500.400.700.750.500",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG231,,Zingiber officinale,Ginger root,C5529G5JPQ,,,Q28046722,02021,,,6507158011,,"Paulys Realenzyklopädie der klassischen Altertumswissenschaft, Armenian Soviet Encyclopedia",,,"http://commons.wikimedia.org/wiki/Special:FilePath/Ka-janjapili.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%9F%E1%B1%AB%E1%B1%B7%E1%B1%AE.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%85%E0%A8%A6%E0%A8%B0%E0%A8%95.oga",,,84769,,C0162751,,,,"4613, 4612",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Q25689720,,,,,,,,,,,ingredient used in food product
+QTNG232,Centaurea cyanus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG233,white bread,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG234,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG235,,Juglans regia,Walnuts,1V3SHR7QB7,,,,,"seed, walnut shell","Entity[""FoodType"", ""Walnut""]",,9280,Gujin Tushu Jicheng,,Turkish cuisine,,404735,"A014R, A0DXG",34785,,,3,,,"4945, 4944, 4943, 4946",Wikipedia:Vital articles/Level/4,,,,,,"green, brown",,,,,,,,,,,,,,,25G21(WALNUT),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Q27132574,,,,,,,,,,,?
+QTNG236,,tomato,Tomato juice,U4475AYH9C,,"tomato purée, tomato paste, tomato sauce",,,tomato,,,"267, 1069",,,,,,,58210,,,,United States of America,,,,,,,,,,,,,,,,,,,,,,,15322100,,,,,,,Mexico,,,,,,,,,,,,,,,,,,,,Louis Perrin,,,,,,,,,,,,,,15.32.10.310,10.32.11,,,,4.3,,,,,,,,,,ingredient used in food product
+QTNG237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Svaneti,,,,,,,,,?
+QTNG238,,common sunflower,Sunflower oil,3W1JG795YI,,,,"04642, 04060, 04584, 04506",,,6485897011,"1356, 6792",,"paint, frying, human nutrition, dressing",,,894205,,82446,8001-21-6,,1.8,,,,,232-273-9,D20.215.784.750.910,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Daniil Bokarev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG239,,ginger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG240,meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG241,wine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG242,frog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG243,grayling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG244,grape,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sea salt,,,,,of the natural world separate from humans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG246,,Carum carvi,,W2FH8O2BBE,seed,,,02005,,,16321501,,,,,,,,,,C0453246,,,Carum (carraway) seeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG247,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.wikidata.org/wiki/Q13225835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG249,Common barbel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG250,,pear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG251,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG252,duck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG253,,,,,pink grapefruit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG254,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG255,,fennel,,6DR2KY0L5K,fenugreek leaf,,,,,,6507088011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG256,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG257,,cattle,Milk,917J3173FT,,milk,Category:Cow milk,"01151, 01174, 01152, 01211, 01175","water, protein, amino acid, triglyceride",,,"628.2, 1020",,,,,,A02LV,34804,8049-98-7,C0349374,3.15,,Milk,,,,,,,,,,"lactose intolerance, milk allergy",,,,,,,,,,,,,,,,KX31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.65,,,,,,,,,,ingredient used in food product
+QTNG258,,Piper nigrum,White pepper,M29DW54Q9E,,,,02032,,"Entity[""Food"", ""SpicesPepperWhite::cgpd4""], Entity[""Food"", ""SpicesPepperWhite::vb4fr""], Entity[""Food"", ""WhitePepper::372n9""]",,,,,,,,A019B,,,C0162749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG259,,Laurus nobilis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG260,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG261,stockfish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG262,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG263,,Linum usitatissimum,Linseed oil,84XB4DV00W,flaxseed,,Category:Linseed oil,04707,,,17395302011,9415,,,,,,A037G,57294,8001-26-1,,,,Linseed oil,,,232-278-6,"D10.212.507.550, D10.627.700.615, D20.215.784.750.615",,,,,http://purl.obolibrary.org/obo/ENVO_00003976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linseed cake,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG264,,pig,Pork liver,6EC706HI7F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG265,pork meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG266,peppercorn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG267,birds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG268,,Ruta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG269,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG270,,"strawberries, strawberry",Strawberries,4J2TY8Y81V,,,Category:Strawberries,"09319, 09320, 09317, 09318, 09316",,,,,,,,"http://commons.wikimedia.org/wiki/Special:FilePath/Ka-baghis%20martsqvi.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81.ogg",161327,,,,,"0.3, 0.7",,Strawberry,"4246, 4250, 4247, 3356, 4248, 4323, 4251, 4028, 4249, 3355",,,,🍓,,,"green, red",http://wordnet-rdf.princeton.edu/wn30/07745940-n,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Strawberries%20by%20Mikani.webm,http://commons.wikimedia.org/wiki/Special:FilePath/Strawberry%20sliced.jpg,,,,,,,,,"For the fruit.  For the species, use Q13158, Pour l'espèce, utilisez Q13158",2008.80.00,,,FB0275,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG271,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG272,,,Baking powder,,,,Category:Baking powder,,,"Entity[""Food"", ""BakingPowder::3y89q""]",16317381,,,,,,736251,,,,,,,,,,,,,,,,,,,,,,,,,,1840-01-01T00:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG273,,,Wheat flour,,wheat,,Category:Wheat flour,"20080, 20630",,,,1849,,,"wheat tortilla, Twinkie",http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%95%E0%A4%A3%E0%A5%80%E0%A4%95.wav,1418450,A003X,,,,0.7,,,,,,,,,,,,,,,,,,,,,,,,15612100,,,,,,"http://commons.wikimedia.org/wiki/Special:FilePath/USDA%20wheat.jpg, http://commons.wikimedia.org/wiki/Special:FilePath/Uskladn%C4%9Bn%C3%A1%20mouka.JPG",,,,,,,,,,,,,,,,,,,,,,,-6000-01-01T00:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG274,Rumex acetosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG275,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG276,,Prunus cerasus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG277,,,Fried rice,,,,Category:Fried rice,,cooked rice,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%A1%20%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8.wav,,,,,,,People's Republic of China,,,,,,,,,,,,,,,,,,,,,,,,,,Asian cuisine,,,,,,,,,,,,,,,,,,,,,,,eating,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG278,,,,,arrowroot,arrowroot,,,,"Entity[""Food"", ""Arrowroot::xnb36""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG279,lamb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG280,grayling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG281,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG282,,,Allium fistulosum,51BV41D79A,,Q65156098,Category:Allium fistulosum,,,"Entity[""Food"", ""OnionWelshRaw::3t48z""]",,,"Gujin Tushu Jicheng, Ottův slovník naučný, Zhiwu Mingshi Tukao, Flora Reipublicae Popularis Sinicae, volume 14","food, vegetable, spice, medicinal plant",,,,A00HJ,,,,,,Allium fistulosum,,,,,,scallion,,,,,,Allium,Allium fistulosum,species,"葱汁, cebolleta, cibule zimní, nionyn Cymreig, welsh onion, Grof bieslook, 分葱, 葱, 葱叶, 葱实, 葱白, 葱花, 葱须, 蔥, 長喙韭, 葱",ALLFI,185463,WikiProject Invasion Biology,,A. fistulosum,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=2276,,,,,,,,,NBNSYS0200001708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"People's Republic of China, Beijing",,,,,,,,?
+QTNG283,,tench,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG284,,Cocos nucifera,Coconuts,,,,Category:Coconuts,,,"Entity[""Food"", ""Coconut::4ns2w""]",6507034011,"1256, 2687",,,,,,,,,,,,Cocos nucifera,"4260, 4261, 4262",,,,🥥,,,"white, brown",,,,,,,,,,,,,,,,,,J582,,,,,,,,,,,,,,,,,,,,,,,,TN0665,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG285,,,Eugenol,3T8H1794QW,,,,,carbon,,,,"Brockhaus and Efron Encyclopedic Dictionary, Ottův slovník naučný",,"eugenol metabolic process, eugenol catabolic process, eugenol biosynthetic process",,,,33910,97-53-0,C0015153,,,,,,202-589-1,"D02.241.223.200.054.500, D02.455.326.271.122.180.500, D02.455.426.559.389.012.250",,,,,,,pungency,,,,,,,,,,C₁₀H₁₂O₂,,,,,,492573,,,,,,,,,,,164.084,DTXCID90617,"InChI=1S/C10H12O2/c1-3-4-8-5-6-9(11)10(7-8)12-2/h3,5-7,11H,1,4H2,2H3",RRAFCDWBNXTKKO-UHFFFAOYSA-N,"http://commons.wikimedia.org/wiki/Special:FilePath/Eugenol%20acsv.svg, http://commons.wikimedia.org/wiki/Special:FilePath/Eugenol2DCSD.svg",COC1=C(C=CC(=C1)CC=C)O,,,,2909.50.12,,,,,"Rosmarinus officinalis, Passiflora incarnata, broad bean, Prunus cerasus, Cuminum cyminum, Trigonella foenum-graecum, Origanum vulgare, Hyssopus officinalis, Salvadora persica, Apiaceae, Picea abies, Vaccinium macrocarpon, tarragon, Salix fragilis, Rosa gallica, Valeriana officinalis, Pimenta dioica, Malus pumila, Cinnamomum camphora, Mentha suaveolens, Dianthus caryophyllus, Piper betle, Mentha spicata, Lonicera japonica, Couroupita guianensis, Mentha longifolia, Melica uniflora, Chinese peony, Ononis natrix, Zingiber, Stachys recta, Prunus avium, common sunflower, Taxus baccata, Nicotiana tabacum, Panax ginseng, Agathosma betulina, Ipomoea pes-caprae, Cinnamomum cassia, Santalum album, Cananga odorata, orange jasmine, rooibos, Jasminum polyanthum, Pandanus tectorius, Hibiscus sabdariffa costanera, Dryopteris filix-mas, Lantana camara, Senegalia berlandieri, Sideritis lyciae, Freesia hybrida, Peperomia leptostachya, Piper lamarckianum, Ocimum carnosum, Origanum acutidens, Clinopodium congestum, Platostoma africanum, Croton argyrophyllus, Sideritis chamaedryfolia, Sideritis tragoriganum, Tilia rubra, Thymus martinezii, Thymus revolutus, Thymus funkii, Vepris boiviniana, Eucalyptus brassiana, Lippia javanica, Lippia origanoides, Chamaecrista duckeana, Nicotiana bonariensis, Nemuaron vieillardii, Pulicaria paludosa, Rhanterium epapposum, Zieria smithii, Spathiphyllum cannifolium, Heterotropa, Mandragora autumnalis, Alpinia chinensis, Elsholtzia blanda, Baeckea frutescens, Asarum heterotropoides, Blumea mollis, Gundelia tournefortii, Swertia japonica, Magnolia compressa, Cinnamomum sieboldii, Achillea arabica, Origanum minutiflorum, Origanum ramonense, Aster scaber, Echinophora tenuifolia, Cinnamomum zeylanicum, Thymus capitatus, Prittwitzia hymenaea, Morina persica, Vitex negundo, Achillea abrotanoides, Mosla chinensis, Cinnamomum macrostemon, Achillea biebersteinii, Etlingera cevuga, Cinnamon, Solanum betaceum, Alpinia galanga, Artemisia scoparia, Vaccinium corymbosum, Quercus agrifolia, Mandragora officinarum, Rosa × damascena, Sassafras albidum, Piper auritum, Euploea sylvester, Rosa rugosa, Sassafras randaiense, Bidens tripartita, Anthriscus sylvestris, Cymbopogon nardus, Umbellularia californica, Salvia caespitosa, Scutellaria baicalensis, Pimenta racemosa, Tanacetum parthenium, Salvia iodantha, Cistus creticus, Hamamelis virginiana, Ocimum tenuiflorum, Magnolia officinalis, Gardenia jasminoides, Perilla frutescens, Boronia megastigma, Callicarpa japonica, Agastache rugosa, Zingiber mioga, Agastache foeniculum, Alpinia officinarum, Artemisia annua, Cedronella canariensis, Riccardia multifida, Cinnamomum tamala, Taxus canadensis, Lippia graveolens, Chaerophyllum bulbosum, Leonurus sibiricus, Hesperis matronalis, Ageratum conyzoides, Mimusops elengi, Laser trilobum, Hyptis suaveolens, Sideritis hirsuta, Ocimum gratissimum, Thymbra spicata, Thymus longiflorus, Camellia oleifera, Acorus gramineus, Corymbia citriodora, Camellia sasanqua, Eucalyptus polyanthemos, Amauris echeria, Canella winterana, Castanopsis cuspidata, Myristica fragrans, Alpinia conchigera, Asarum canadense, Illicium verum, Croton essequiboensis, Croton grewioides, Croton jacobinensis, Croton micans, Croton nepetifolius, Croton sonderianus, Croton tricolor, Croton zehntneri, Tasmannia lanceolata, Hyptis spicigera, Ocimum americanum, Phyla nodiflora, Polygala senega, Toddalia asiatica, Mangifera indica, Cinnamomum burmanni, Philadelphia fleabane, Scutellaria barbata, Vaccinium virgatum, Coluria geoides, Stachys atherocalyx, African blue basil, Cinnamomum subavenium, Asarum sieboldii, Uvariopsis tripetala, Illicium, Asarum asperum, Caesulia axillaris, Conioselinum anthriscoides, Dahlia sherffii, Ligusticum striatum, Achillea grandifolia, Achillea cuneatiloba, Asarum satsumense, Asarum asaroides, Asarum unzen, Asarum minamitanianum, Asarum subglobosum, Blumea axillaris, Asarum tamaense, Asarum fudsinoi, Senecio subrubriflorus, Piper sylvestre, Asarum gusk, Peperomia humilis, Cinnamomum impressinervium, Piper sanctum, Lindera neesiana, Asarum hexalobum, Chelonanthus albus, Licaria puchury-major, Cinnamomum yabunikkei, Cryptocarya agathophylla, Heterotropa, Heracleum antasiaticum, Myristica argentea, Geum heterocarpum, Croton conduplicatus, Malus domestica, Tripleurospermum inodorum, Ocimum selloi, Cinnamomum japonicum, Hexastylis arifolia var. arifolia, Asarum takaoi, Croton rhamnifolius, Coleus amboinicus, Vaccinium ashei, Damburneya cufodontisii, Damburneya purpurea, Chamomilla recutita, Ocimum micranthum, Vachellia rigidula, Sphaeranthus kirkii var. cyathuloides, Ligusticum chuanxiong, Blepharocalyx tweediei, Zanthoxylum asiaticum, Clinopodium barbatum, Artemisia klotzschiana, peach, tomato, Achillea millefolium, Bellis perennis, Artemisia vulgaris, Anethum graveolens, Cannabis sativa, Syzygium aromaticum, Carum carvi, Illicium anisatum, Tanacetum vulgare, celery, Matricaria chamomilla, Pimpinella anisum, Vitis vinifera, Daucus carota, Elettaria cardamomum, Zingiber officinale, Ficus carica, Prunus armeniaca, basil, Prunus dulcis, Piper nigrum, Prunus domestica, yerba mate, Blepharocalyx salicifolius, Aniba canelilla, West African Pepper, Matricaria recutita, Artemisia japonica, Artemisia capillaris, Myrtus communis L., Cymbopogon flexuosus, Montanoa tomentosa, Ocimum campechianum, candyleaf","8895, 209525, 757030",,,,,,,,,,,,,,,,,,1366759,-10,04.003,1529,"solvent, anti-infective agent",,,?
+QTNG286,Urtica dioica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG287,,,,,,water,,,,,,,"Brockhaus and Efron Encyclopedic Dictionary, Explanatory Dictionary of the Living Great Russian Language, Bible Encyclopedia of Archimandrite Nicephorus","drinking water, solvent, hydroponics, nuclear reactor coolant","hydrolysis, water transport, multicellular organismal water homeostasis, water homeostasis, water transmembrane transporter activity, water channel activity, cellular water homeostasis, transepithelial water transport, cellular response to water stimulus, response to water",,,,,,,,,,,,,,💧,flat water,,"green, turquoise, colorlessness, dark brown",http://purl.obolibrary.org/obo/ENVO_00002006,,"viscosity, heat capacity, salinity, water hardness, turbidity, odorlessness, tastelessness, color",,,,,,,,,,,,,,,,,,,,,,,,water vapor,,,,,,,,,,,,,,,,,Homo sapiens,,,ice,,,,,,Tag:resource=water,,,,,,,,,,,,,,,0.95835,,?
+QTNG288,,,Syrups,,starch,linear maltodextrin,,,,,,,,anticrystallizer,,,,,,,,,Russian Empire,,,,,,,,hydrolysis,yellow,,,"viscosity, sweetness, colorlessness",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1811-01-01T00:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG289,,,,,,cheek pouch,,,,,,,,,pig head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG290,veal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG291,,,Dried mushrooms,,,,,,,,15156964011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG292,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG293,,Eragrostis tef,,3D2KVS9K7P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Teff%20pluim%20Eragrostis%20tef.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG294,,Cinnamon,Cinnamon spice,5S29HWU6QB,bark,Cinnamomum,,02010,,"Entity[""FoodType"", ""Cinnamon""]",,15526,"Brockhaus and Efron Encyclopedic Dictionary, Paulys Realenzyklopädie der klassischen Altertumswissenschaft, Explanatory Dictionary of the Living Great Russian Language, Bible Encyclopedia of Archimandrite Nicephorus, Jewish Encyclopedia of Brockhaus and Efron, Small Brockhaus and Efron Encyclopedic Dictionary, Great Soviet Encyclopedia (1926–1947)",,"Turkish cuisine, Catalan cuisine",http://commons.wikimedia.org/wiki/Special:FilePath/Nl-kaneel.ogg,932929,,,,C1112857,,,,,Wikipedia:Vital articles/Level/4,,,,,,,,,,,,,,,,,-1999-01-01T00:00:00Z,,,,25G22(CINNAMON),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG295,,Trifolium pratense,,L9153EKV2Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG296,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG297,,fish,Roe,,,,Category:Roe,,,,,,Brockhaus and Efron Encyclopedic Dictionary,fish dish,ichthyoplankton,,,A069Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11131604,,,,,fish larva,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG298,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG299,,Anserini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG300,,,,,,"praline, praliné, Praslin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG301,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG302,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG303,,,,,cocoa bean,chocolate liqueur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG304,,,Arenga pinnata,,,,Category:Arenga pinnata,,,,,,"Gujin Tushu Jicheng, Zhiwu Mingshi Tukao, Flora Reipublicae Popularis Sinicae, volume 13(1)","fiber, food, vegetable, medicinal plant",,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Jaka.wav,,,,,,,,Arenga pinnata,,,,,,,,,,,,Arenga,Arenga pinnata,species,"桄榔, 桄榔, 莎木, sugar palm, 西谷米, 桄榔子, 桄榔面, 砂糖椰, 砂糖椰子, 砂糖椰子",AGBPI,506704,WikiProject Invasion Biology,,A. pinnata,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=3951,,,,,,,,,,Saguerus pinnatus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG305,,,"Culture of Yamatokoriyama, Nara",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Japan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG306,,,,,almond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG307,milk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG308,egret,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG309,,,,,,,,,,,,,,"bruschetta, garlic bread",garlic,,,,,,,,,,,,,,,,,,,garlic allergy,"odor, pungency",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG310,Mentha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG311,,Alocasia macrorrhizos,,RX34VUS15I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG312,,,Cymbopogon citratus,6AE8LT94NG,,,Category:Cymbopogon citratus,,,,,,"Flora Reipublicae Popularis Sinicae, volume 10(2)","fiber, food, spice, medicinal plant, fodder",,"http://commons.wikimedia.org/wiki/Special:FilePath/Fr-citronnelle.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Ka-dasavlet%20induri%20limonis%20sorgo.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Nl-citroengras.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Sv-v%C3%A4stindiskt%20citrongr%C3%A4s.ogg",,,,,,,,Cymbopogon citratus,4894,,,,,,,,,,,Cymbopogon,Cymbopogon citratus,species,"香茅草, lemon grass, capim-limão, capim-cidreira, 柠檬茅, 柠檬草, 柠檬草（香茅）, 檸檬茅, 风茅, 香矛草, 香茅, 香茅(柠檬草), 香茅花, 柠檬草, 香茅",CYGCI,41613,WikiProject Invasion Biology,,C. citratus,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=12797,,,,,,,,,NHMSYS0021314192,Andropogon citratus,,,,,,,,,,,,,,,,,,,,,,,,"lemon grass oil, Cymbopogon citratus leaf",,,,,,,,,,,,,,,,,,,,?
+QTNG313,,,,,soy bean,,,"16116, 16117",,,,2523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG314,,Cucumis sativus,Cucumbers,YY7C30VXJT,,,,"11205, 11206",,"Entity[""Concept"", ""CucumberVine::6962w""], Entity[""Concept"", ""Cuke::nzfb2""], Entity[""FoodType"", ""Cucumber""]",6507077011,353,,pickling,,"http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%AE%D9%8A%D8%A7%D8%B1.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Gl-cogombro.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%9B%E1%B1%9F%E1%B1%A6%E1%B1%AE%E1%B1%A8.wav, http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%96%E0%A9%80%E0%A8%B0%E0%A8%BE.oga",,A00JM,,,C0973457,0.3,,,4597,,,,🥒,,,,http://wordnet-rdf.princeton.edu/wn30/07718472-n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://cuke.hort.ncsu.edu/cgc/cgc14/cgc14-1.html,,,,,,,,,,,,,ingredient used in food product
+QTNG315,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG316,chicken egg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG317,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG318,,Myristica fragrans,Nutmegs,AEE24M3MQ9,,Gałka Muszkatołowa,,"02025, 02022",,"Entity[""FoodType"", ""Nutmeg""]",,34319,"New Encyclopedic Dictionary, Great Soviet Encyclopedia (1926–1947)",,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-SangeetaRH-%E0%A4%9C%E0%A4%BE%E0%A4%AF%E0%A4%AB%E0%A4%B3.wav,392484,,,,C0162752,,,Myristica fragrans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG319,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG320,chicken egg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG321,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG322,peppercorn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG323,,,,,,,,,,,,,,,,,,,,,,,Southern Europe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG324,,,Oysters,S614XWR17V,,,Category:Oysters,15167,,,"16319221, 15500527011",,Metropolitan Museum of Art Tagging Vocabulary,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A1%E1%B1%B7%E1%B1%A4%E1%B1%B8%E1%B1%B1%E1%B1%A9%E1%B1%A0.wav,159772,,,,,,,Oyster,,,,,🦪,,,,http://purl.obolibrary.org/obo/ENVO_02000079,,,Autobranchia,Pteriomorphia,infraclass,,,,,,,,,25F72(OYSTER),,,,,,,10101804,,10642362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG325,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG326,,,Butter,3B7C0987O9,"milk, cream",spread butter,Category:Butter,"01002, 01001, 01145, 04601, 04602",fat,,7476296011,5553,"Paulys Realenzyklopädie der klassischen Altertumswissenschaft, Armenian Soviet Encyclopedia, Great Soviet Encyclopedia (1926–1947)","spread, cooking and baking ingredient",,"http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B2%D8%A8%D8%AF%D8%A9.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Jer-beurre.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-gurin.wav",5505,,"31742, 92347",8029-34-3,,9,,,,Wikipedia:Vital articles/Level/4,,"D10.212.302.199, G07.203.300.350.100, G07.203.300.375.200, J02.500.350.100, J02.500.375.200",🧈,,churning,,http://purl.obolibrary.org/obo/ENVO_00003047,,,,,,,,,,-8000-01-01T00:00:00Z,,,,41C6411,,,KX31:73,,,,,,10648631,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG327,,,,,,,,,,,,,,,,,,,,,,,Southern Europe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG328,,,Juices,,,juice,Category:Juices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG329,sour cherry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG330,,Secale cereale,,,,,,,,"Entity[""Food"", ""RyeBran::x6373""]",,,,,,,,A003Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG331,,,Barley malt syrup,"00JKR0NZ8O, 22P8DKP670",malted barley,,,,"glucose, maltose, maltotriose",,,,,sweetener,,,,A034B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG332,Avena sativa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG333,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG334,,,Potassium iodide,1C4QK22F9J,,,,,"potassium, iodine",,,,Small Brockhaus and Efron Encyclopedic Dictionary,,,,,,36983,7681-11-0,C0032831,,,,,,231-659-4,"D01.475.410.700, D01.745.680",,,,,,,,,,,,,,,,,KI,,,,,,122515,,,51181607,,,,,,,,165.868,DTXCID5014836,InChI=1S/HI.K/h1H;/q;+1/p-1,NLKNQRATVPKPDG-UHFFFAOYSA-M,,[K+].[I-],,,,,,,,,,77362,,,,,,,,,,,,,,,,,,,681,,,,,TT2975000,ingredient used in food product
+QTNG335,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG336,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG337,,Citrus × sinensis,Orange peels,TI9T76XD44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fish paste,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG339,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG340,,Nephropidae,,DVD5V4L81J,,,,,,,,,Metropolitan Museum of Art Tagging Vocabulary,,,,,,,,,,,,,,,,🦞,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG341,,pear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG342,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG343,,,Starch,"O8232NY3SJ, YAQ9FOE480, 24SC3U704I, 4DGK8B7I3S, 79QS2MG2LP, 8I089SAH3T, 904CE6697V",,,Category:Starch,,"hydrogen, carbon, oxygen, amylose, amylopectin",,,,"Brockhaus and Efron Encyclopedic Dictionary, Paulys Realenzyklopädie der klassischen Altertumswissenschaft, Encyclopedic Lexicon","thickener, nutriment","starch catabolic process, starch binding, starch metabolic process, starch biosynthetic process",,3608,A068D,74532,9005-25-8,,,,,,Wikipedia:Vital articles/Level/4,232-679-6,,,,starch industry,,,starch exposure,,,,,,,,,,,(C₆H₁₀O₅)<sub>n</sub>,,,,,,12160,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Almidoitik%20zelulosara.webm,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Amylopektin%20Sessel.svg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1450,GM5090000,ingredient used in food product
+QTNG344,,,,,garlic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG345,,,,,,,,16106,,"Entity[""FoodType"", ""MeatExtender""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG346,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"color, taste",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG348,,,Ham (food),,,,Category:Ham,10870,pork thigh,"Entity[""FoodType"", ""Ham""]","12071188011, 6518739011, 6519155011",,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B0.ogg,,,,,,,,,,Wikipedia:Vital articles/Level/4,,,,Q10381127,,,,,,,,,,,,,,,,,,,,,,,,,,10647898,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Schwein%20Schinken.svg,,,,,,,,,,,,ingredient used in food product
+QTNG349,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG350,,,Pork large intestines,40GMI0R60L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG351,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG352,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG353,Percidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG354,,"Sinapis alba, Brassica nigra, Brassica juncea",Mustard seeds,,,,,02024,,"Entity[""Concept"", ""MustardSeed::tt6k9""], Entity[""Food"", ""MustardSeed::ck4kt""], Entity[""FoodType"", ""MustardSeed""]",,2809,,,,,,,,,C0453262,,,,,,,,,,,,,,,,,,,,,,,,,03111600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG355,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG356,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG357,Cannabis sativa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG358,,breadfruit,,RB92547A8B,,,,"09059, 12001, 12003",,,,,,,,,,,,,,,,,4254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/ARS%20breadfruit49.jpg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG359,,,Mytilus edulis,0A11O2199L,,,Category:Mytilus edulis,,,,491295011,,Brockhaus and Efron Encyclopedic Dictionary,,,,457964,,,,,,,Mytilus edulis,,,,,,,,,,,,Mytilus,Mytilus edulis,species,"Mossel, بلح البحر الأزرق, Blue mussel, Common mussel, blåskjell, 紫殼菜蛤, 食用殼菜蛤",MYTUED,79454,WikiProject Invasion Biology,,M. edulis,,,,,,,,,,,,,NHMSYS0020975310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG360,pomegranate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG361,,,,,,,Q112326763,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Ionenlaser-Creme.wav,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG362,,,,,,Chantilly,,,"powdered sugar, whipped cream",,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Chantilly%20krema.wav,,,,,,,France,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1784-01-01T00:00:00Z,,,,,,,,,,,Ajka,,,,,,,Château de Chantilly,,,,,,,,,ingredient used in food product
+QTNG363,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG364,,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG365,,,Tomato paste,,,"tomato juice, tomato purée, tomato sauce",,,tomato,,6465029011,855,,,,,,A00ZF,,,,,,,,,,,,,,,,,,,,,,,,,,,,15331427-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG366,,,,,,dehydrated onion flakes,,02026,onion,,,,,,,,,,,,,,,,,,,,,,"food drying, grinding",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG367,,,,,"Welsh onion, Thunnus",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG368,European Goldfinch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG369,water,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG370,goose offal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG371,pig's trotters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG372,"milk, milk coagulants",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG373,,pea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG374,,Saccharomyces cerevisiae,Baker's yeast,,,,Category:Baker's yeasts,,,"Entity[""FoodType"", ""Yeast""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG375,,legume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG376,,,,,,,,,,"Entity[""Food"", ""EggPowder::29q5q""]",,,,,,,,A031V,92398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG377,,,Fish skin,,,,,,,,,,,,,,,,,,,,,,,,,,,fish skin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG378,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG379,Eurasian Hoopoe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG380,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG381,isinglass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG382,,,Boiled eggs,,egg,,,,,"Entity[""Food"", ""EggsChickenBoiled::99h57""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG383,,Xylopia aethiopica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG384,pork shoulder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG385,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG386,,peanut,Peanuts,QE1QX6B99R,,Mani,Category:Peanuts,16392,,,,"2782, 3974",,food ingredient,,"http://commons.wikimedia.org/wiki/Special:FilePath/Fr-arachide.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Nl-pinda.ogg",,,,,,5.4,,,"4935, 4930, 4931, 4932, 4933, 4934",,,,🥜,,,"yellow, red",,peanut allergy,,,,,,,,,,,,,,,,J581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG387,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG388,,pea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG389,,,Egg white,3E0I92Z2GR,chicken egg,,,"01124, 01171, 01172",ovalbumin,"Entity[""Food"", ""EggWhite::55wnp""], Entity[""Food"", ""EggWhite::8hqch""], Entity[""FoodType"", ""EggWhite""]",6520432011,,"Ottův slovník naučný, The Nuttall Encyclopædia","animal glue, foam stabilizer",chicken egg,,,,31398,9006-50-2,,,,,,,618-431-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG390,,liquorice,,2788Z9758H,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG391,,,Atta flour,,wheat,Atta,,,,,,,,"naan, chapati, Puri Bread, roti",,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%86%E0%A6%9F%E0%A6%BE.wav,,,,,,,,,,,,,,,,,,gluten-related disorder,,,,,,,,,,,,,,,,,,,"India, Pakistan",,,,,,,,,,,,,,,,,,,South Asian cuisine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG392,goat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG393,Lacertidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG394,,,,,,,,,maize,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG395,,Cymbopogon citratus,,06JMS448M5,,,,,,,,,,,,,,,83381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG396,,,,,wheat,,,,,"Entity[""FoodType"", ""WheatFlakes""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG397,,,Nutritional yeast,,,,,,,"Entity[""Food"", ""NutritionalYeast::x3kkb""]",,,,vegan cuisine,,,,,,,,,,,,,,"G07.203.300.456.933, J02.500.456.933",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG398,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG399,,Vitis vinifera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG400,fish scale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG401,,,Frog leg dishes,BK26B1394V,,,Category:Frog leg dishes,,frog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG402,partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG403,,,,T2ZYA7KC05,,,,,"carbon, oxygen, sodium",,,,,flavour enhancer,,,,,55908,4691-65-0,,,,,,,225-146-4,,,,,,,,,,,,,,,,,,C₁₀H₁₁N₄Na₂O₈P,,,,,,,,,,,,,,,,,392.011,DTXCID50544,"InChI=1S/C10H13N4O8P.2Na/c15-6-4(1-21-23(18,19)20)22-10(7(6)16)14-3-13-5-8(14)11-2-12-9(5)17;;/h2-4,6-7,10,15-16H,1H2,(H,11,12,17)(H2,18,19,20);;/q;2*+1/p-2/t4-,6-,7-,10-;;/m1../s1",AANLCWYVVNBGEE-IDIVVRGQSA-L,http://commons.wikimedia.org/wiki/Special:FilePath/Disodium%20inosinate.svg,C1=NC(=O)C2=C(N1)N(C=N2)C3C(C(C(O3)COP(=O)([O-])[O-])O)O.[Na+].[Na+],E631,,,,,,,,,20263,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG404,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG405,,peanut,,,,,,16099,peanut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG406,white cabbage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG407,,,Furaneol,20PI8YZP7A,,,,,,,,,,,furaneol oxidoreductase activity,,,,75895,3658-77-3,,,,,,,222-908-8,,,,,,,,,,,,,,,,,,C₆H₈O₃,,,,,,,,,,,,,,,,,128.047,DTXCID8021517,"InChI=1S/C6H8O3/c1-3-5(7)6(8)4(2)9-3/h3,8H,1-2H3",INAXVXBDKKUCGI-UHFFFAOYSA-N,http://commons.wikimedia.org/wiki/Special:FilePath/Furaneol.svg,CC1C(=O)C(=C(O1)C)O,,,,,,,,,"strawberries, Capsicum annuum, celery, Nicotiana tabacum, Durio zibethinus, Mangifera indica, Aspergillus candidus",,,,,,,,,,,,,,,,,,,1281357,,13.010,1446,,,,ingredient used in food product
+QTNG408,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG409,,Salmonidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG410,,Cicer arietinum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG411,,Prunus amygdalus,Almonds,3Z252A2K9G,,"Almond, Amandel, Mandel, Almendra, Amande",Category:Almonds,12061,,"Entity[""Food"", ""Almonds::5zg4q""], Entity[""Food"", ""Almonds::hqx5f""], Entity[""Food"", ""Almonds::n3qvd""], Entity[""Food"", ""Almonds::npc9g""]",,"8047, 16095",,,"almond butter, almond meal, almond milk, almond paste","http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A8%AC%E0%A8%A6%E0%A8%BE%E0%A8%AE.ogg, http://commons.wikimedia.org/wiki/Special:FilePath/Fa-%D8%A8%D8%A7%D8%AF%D8%A7%D9%85.ogg",361201,A014D,,,,5.2,,,"4924, 4925",,,,,,,"yellow, brown",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TN0660,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG412,alcoholic beverage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG413,stockfish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG414,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG415,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG416,,Citrus ×limon,,72O054U628,lemon,,,,,,,,,,,,,,85122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG417,,,Elephantopus scaber,,,,,,,,,,"Flora Reipublicae Popularis Sinicae, volume 74","vegetable, medicinal plant",,,,,,,,,,,,,,,,,,,,,,Elephantopus,Elephantopus scaber,species,"地胆, 苦地胆, 苦地胆, 地胆头, 地胆草, 地胆草（地胆头）, 燈豎朽, 苦地胆根, 地胆头, 地胆草, 磨地胆, 鹿耳草",ELPSC,780294,WikiProject Invasion Biology,,E. scaber,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=401632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,People's Republic of China,,,,,,,,ingredient used in food product
+QTNG418,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG419,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG420,goose fat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG421,,Fragaria vesca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG422,,,,,,,,,,,,,,,,,,A0F4R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG423,chicken egg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG424,,,,,,,,,,,,,,,,,,,,,,,Vietnam,,,,,,,,,,,,,,,,,,,,,,,,,,Hải Phòng cuisine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG425,,Laurus nobilis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG426,,,,,Prunus mume,,,,,,,,,,,,,,,,,,Japan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG427,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG428,Anserini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG429,,,,,,,,,,,,,,,fish as food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG430,,,,,,,,,sucrose,,,,,,,,,,,,,,,,,,,"D09.301.831.250, D09.698.629.305.770.200, D09.947.500.250, D09.947.750.770.200, D27.720.372.300.353.609.750.250, G07.203.300.362.831.250, G07.203.300.514.500.400.700.750.250, J02.500.362.831.250, J02.500.514.500.400.700.750.250",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sweetener,,,?
+QTNG431,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG432,lamb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG433,,Piper nigrum,Pepper,T5KDM4J239,,Piper nigrum,Category:Peppers,,,"Entity[""FoodType"", ""Peppercorn""]",,7611,,spice,,,5960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG434,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG435,,,,,banana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG436,,,Bánh tráng,,,,Category:Bánh tráng,,rice flour,,,,,,,,,,,,,,Vietnam,,,,,,,,,,,,,,,,,,,,,,,,,,Vietnamese cuisine,,,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Rice%20paper%20making.ogv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG437,,,,S1VF61QLO9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"http://commons.wikimedia.org/wiki/Special:FilePath/Crab%20legs%20and%20stuffed%20potato%20%283293608066%29.jpg, http://commons.wikimedia.org/wiki/Special:FilePath/Seafood%20crabs%20legs%20shrimp%20food.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG438,"water, pear",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG439,,beaver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG440,,Vigna umbellata,,1940D51WIB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG441,,,Almond milk,,almond,,,,,"Entity[""FoodType"", ""Almondmilk""]",6520452011,371.46,,,,,,,,,,"0.3, 0.7",,,,,,,,,,,,,,,,,,,,,1200-01-01T00:00:00Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG442,,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG443,,,Whey,8617Z5FMF6,,,,"01115, 01112, 01113, 01114",whey protein,,,,Granat Encyclopedic Dictionary,,milk,http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Esne-gazur.wav,4761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG444,asp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG445,,,Oxytenanthera abyssinica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxytenanthera,Oxytenanthera abyssinica,species,Abyssinia oxytenanthera,OXHAB,506620,WikiProject Invasion Biology,,O. abyssinica,,,,https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=26243,,,,,,,,,,Bambusa abyssinica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG446,,Piper nigrum,,6G53L8ESRK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG447,"water, honey",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG448,,,,,buttermilk,,,,,"Entity[""Food"", ""ButtermilkPowder::h3764""]",,,,,,,,,92488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG449,nut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG450,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG451,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG452,Digitaria sanguinalis,Digitaria sanguinalis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG453,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG454,mutton,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG455,,Cydonia oblonga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG456,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG457,borage leaf,borage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG458,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG459,crayfish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG460,salted herring,herring,,,,,,,,,,,,,salted herring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,blue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG462,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG463,plaice,European plaice,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG464,,,,,"water, Triticum spelta",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG465,calf,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG466,,Secale cereale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG467,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG468,bacon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG469,,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG470,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG471,Ursidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG472,,broad bean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG473,chicken offal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG474,,hemp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG475,fish as food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG476,chickpea,Cicer arietinum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG477,onion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG478,Ursidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG479,onion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG480,,Lagenaria siceraria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG481,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG482,crayfish,Astacoidea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG483,oyster,oyster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG484,Lavandula angustifolia,Lavandula angustifolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG485,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG486,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG487,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG488,onion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG489,turnip,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG490,game,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG491,Citrus × aurantium,Citrus × aurantium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG492,,Cydonia oblonga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG493,suckling pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG494,almond,Prunus amygdalus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG495,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG496,fruit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG497,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG498,northern pike,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG499,game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG500,grape,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG501,rye flour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG502,pear,Pyrus communis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG503,chicken meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG504,common bugloss,Anchusa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG505,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG506,,Prunus avium,,,cherry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG507,beef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG508,,Chamaenerion angustifolium,,,,,,,"androecium, gynoecium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG509,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG510,game,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG511,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG512,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG513,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG514,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG515,hard-boiled egg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG516,Rosa,Rosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG517,eel,Anguilliformes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG518,chard,Beta vulgaris vulgaris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG519,pea,pea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG520,,fennel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG521,Pterocarpus santalinus,Pterocarpus santalinus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG522,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG523,partridge,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG524,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG525,beef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG526,fish as food,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG527,,,,,,,,,,,,,,cooking,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG528,"liver, suckling pig",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG529,sour cherry,Prunus cerasus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG530,cinnamon,Cinnamon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG531,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG532,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG533,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG534,rabbit,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG535,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG536,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG537,game meat,game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG538,northern pike,pike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG539,deer,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG540,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG541,game meat,game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG542,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG543,rye bread,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG544,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG545,spined loach,spined loach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG546,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG547,pea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG548,white cabbage,white cabbage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG549,rose,Rosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG550,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG551,cream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG552,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG553,,,,,,onion powder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG554,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG555,Citrus × aurantium,Citrus × aurantium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG556,Sus scrofa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG557,lamprey,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG558,chicken egg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG559,,Prunus cerasus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG560,broad bean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG561,Burbot,Burbot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG562,unrefined cane sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG563,pear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG564,raisin,Vitis vinifera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG565,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG566,,Citrus × aurantium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG567,salted herring,Clupeidae,,,,,,,,,,,,,salted herring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG568,mutton,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG569,blood as food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG570,Crataegus,Crataegus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG571,,Plantago,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG572,veal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG573,Cervidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG574,mutton,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG575,,,,,cereal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG576,swim bladder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG577,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG578,apple,Malus domestica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG579,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG580,Viola,Viola,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG581,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG582,udder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG583,vinegar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG584,vinegar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG585,cherry,Prunus avium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG586,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG587,veal,calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG588,quail,Common Quail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG589,vinegar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG590,dried pear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG591,Huso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG592,domestic goose,,,,,,,01139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG593,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG594,goose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG595,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG596,pork meat,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG597,grape,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG598,mutton,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG599,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG600,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG601,,,Maize flour,,,corn starch,,,maize,"Entity[""Food"", ""CornFlour::24r48""]",6492270011,1253,,,"polenta, grits, Talo, nshima",,,,60268,68525-86-0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,156275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG602,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG603,onion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG604,calf,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG605,snipe,Scolopacidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG606,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG607,deer liver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG608,pig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG609,pork belly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG610,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG611,roe deer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG612,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG613,herb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG614,Land Snail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG615,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG616,sauerkraut,white cabbage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG617,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG618,deer lung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG619,lamprey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG620,snipe,Scolopacidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG621,pork meat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG622,tench,tench,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG623,cattle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG624,Capon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG625,"fish, fish as food",fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG626,beet,Beta vulgaris vulgaris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG627,Rosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG628,Ursidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG629,sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG630,spined loach,spined loach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG631,partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG632,,Rosa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG633,wine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG634,ray fish,Rajidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG635,Capon,chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG636,duck,Anatidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG637,,,,,,,,,,,,,,,Chamaenerion angustifolium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG638,Astacus astacus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG639,poultry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG640,lamb meat,Ovis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG641,tench,tench,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG642,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG643,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG644,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG645,stockfish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG646,,,Thai curry paste,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG647,red coral,Corallium rubrum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG648,Huso,Huso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG649,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG650,,,Cockscombs as food,,comb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG651,lemon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG652,sheep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG653,,Prunus cerasus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG654,European Rabbit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG655,poppy seed,Papaver somniferum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG656,game,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG657,coral,coral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG658,,Drimia maritima,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?
+QTNG659,common carp,common carp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG660,almond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG661,Grey Partridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG662,Castor,beaver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ingredient used in food product
+QTNG663,,,,,,,,,,,,,,,,,,,,,,,Morocco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?

@@ -1,0 +1,221 @@
+col0,col1,col2,col3
+DTMN0,Bubur ayam,"rice, chicken meat, chicken meat, chicken meat",?
+DTMN1,Pickled eggs,"egg, vinegar, boiled egg, vinegar, boiled egg","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN2,Mousse,egg,?
+DTMN3,Komanmelna,flour,?
+DTMN4,Ćevapčići,minced meat,?
+DTMN5,Zha jiang mian,cumian,?
+DTMN6,Tripe soup in Romania,tripe,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN7,Jellied eels,Anguilliformes,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN8,Balık-ekmek,"bread, fish as food, fish as food, fish as food","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN9,Bunsik,flour,?
+DTMN10,Mee siam,rice noodle,?
+DTMN11,Nachos,tortilla chip,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN12,Ezogelin,bulgur,?
+DTMN13,Uitsmijter,"ham, fried egg, brown bread, fried egg, brown bread",?
+DTMN14,Chilly horn snails,Batillaria zonalis,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN15,Frittata,egg,?
+DTMN16,Kolyva,"sugar, cinnamon, almond, walnut, hazelnut, sesame seed, wheat, cinnamon, almond, walnut, hazelnut, sesame seed, wheat",?
+DTMN17,Shoti,wheat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN18,Salads,"meat, vegetable, dairy product, fruit, vegetable, dairy product, fruit","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN19,Canard à l'orange,"carrot, white wine, Cointreau, table salt, orange, parsley, butter, Piper nigrum, duck meat, bouquet garni, lemon, onion, white wine, Cointreau, table salt, orange, parsley, butter, Piper nigrum, duck meat, bouquet garni, lemon, onion, white wine, Cointreau, table salt, orange, parsley, butter, Piper nigrum, duck meat, bouquet garni, lemon, onion",?
+DTMN20,Gefilte fish,"carrot, fish, bread, spice, fish, bread, spice","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN21,Soupe aux truffes noires VGE,"vegetable, puff pastry, foie gras, Tuber melanosporum, puff pastry, foie gras, Tuber melanosporum, puff pastry, foie gras, Tuber melanosporum",?
+DTMN22,Pasta,"Triticum durum, wheat flour, wheat flour, wheat flour","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN23,Sorrel soups,"carrot, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN24,Apple sauce,apple,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN25,Chicken tikka masala,"cream, yogurt, chili pepper, chicken meat, coconut, onion, ginger, tomato, garlic, yogurt, chili pepper, chicken meat, coconut, onion, ginger, tomato, garlic, yogurt, chili pepper, chicken meat, coconut, onion, ginger, tomato, garlic","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN26,Marinated mushrooms with a cone,"cone, edible mushroom, marinade, edible mushroom, marinade","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN27,Jokbal,ham hock,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN28,Yuxiang qiezi,"yuxiang, eggplant, eggplant, eggplant","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN29,Soufflé,egg yolk,?
+DTMN30,Croquembouche,"caramel, profiterole, profiterole, profiterole",?
+DTMN31,Potato-based food,potato,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN32,Stews,vegetable,?
+DTMN33,Borscht with uszka,"beet, uszka, bouillon, dried mushrooms, beet kvass, uszka, bouillon, dried mushrooms, beet kvass, uszka, bouillon, dried mushrooms, beet kvass",?
+DTMN34,Zhangcha duck,duck meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN35,Molokheya,okra,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN36,Kesme,"water, salt, egg, flour, salt, egg, flour, salt, egg, flour, salt, egg, flour",?
+DTMN37,Samosas,"carrot, meat, pea, wheat flour, potato, meat, pea, wheat flour, potato, meat, pea, wheat flour, potato",?
+DTMN38,Balut,embryo,?
+DTMN39,Lapin au cidre,"jam, rabbit, butter, cider, Allium cepa var. aggregatum, rabbit, butter, cider, Allium cepa var. aggregatum","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN40,Toad in the hole,"sausage, Yorkshire pudding, onion gravy, Yorkshire pudding, onion gravy, Yorkshire pudding, onion gravy","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN41,Muhlama,"cheese, butter, cornmeal, butter, cornmeal, butter, cornmeal","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN42,Grünkohlessen,kale,?
+DTMN43,Yakitori,chicken meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN44,Canard à la presse,duck meat,?
+DTMN45,Beef chow fun,mung bean sprout,?
+DTMN46,Muesli,"rolled oats, grain, dried fruit, grain, dried fruit, grain, dried fruit",?
+DTMN47,Ribel,maize,?
+DTMN48,Cuisine of Georgia,Churchkhela,?
+DTMN49,Angel wings,dough,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN50,Docang,"seedling, lontong, Oncom, lontong, Oncom, lontong, Oncom, lontong, Oncom, lontong, Oncom","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN51,Fajitas,"Capsicum annuum, meat, wheat tortilla, meat, wheat tortilla, meat, wheat tortilla","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN52,Arancini,rice,?
+DTMN53,Fried cheese,cheese,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN54,Gobi manchurian,cauliflower,?
+DTMN55,Beignets,"powdered sugar, dough, dough, dough","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN56,Mofongo,plantain,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN57,French toast,"bread, milk, egg, milk, egg, milk, egg","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN58,Egg salad,egg,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN59,Musakhan,chicken meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN60,Krupicová kaše,semolina,?
+DTMN61,Ankara tava,"rice, lamb meat, veal, mutton, lamb meat, veal, mutton, lamb meat, veal, mutton",?
+DTMN62,Katsudon,"rice, tonkatsu, tonkatsu, tonkatsu, tonkatsu, tonkatsu","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN63,Pa amb tomàquet,"bread, tomato, tomato, tomato","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN64,Edamame,soy bean,?
+DTMN65,Rossejat,rice,?
+DTMN66,Zeytinyağlı enginar,"olive oil, globe artichoke, globe artichoke, globe artichoke",?
+DTMN67,Islama kofte,meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN68,Tarako spaghetti,"spaghetti, tarako, tarako, tarako","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN69,Uszka,"dough, edible mushroom, minced meat, edible mushroom, minced meat, edible mushroom, minced meat","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN70,Baingan bharta,eggplant,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN71,Hamburgers,"bread, lettuce, patty, onion, tomato, lettuce, patty, onion, tomato, lettuce, patty, onion, tomato","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN72,Waffles,batter,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN73,Badrijani,eggplant,?
+DTMN74,Ginataang Langka,"coconut milk, jackfruit, jackfruit, jackfruit","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN75,Soups,"vegetable, spice, broth, hot water, spice, broth, hot water","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN76,Khrenovina sauce,"horseradish root, tomato, garlic, tomato, garlic, tomato, garlic, tomato, garlic, tomato, garlic",?
+DTMN77,Omurice,"fried rice, chicken egg, chicken egg, chicken egg",?
+DTMN78,Cha siu bao,pork meat,?
+DTMN79,Ash-liang-fu,"omelette, noodle, noodle",?
+DTMN80,Hardtack,flour,?
+DTMN81,Foie gras,liver,?
+DTMN82,Socca,gram flour,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN83,Baleadas,wheat flour,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN84,Migas,bread,?
+DTMN85,Shchi,"sauerkraut, Q113199286, Q113199286",?
+DTMN86,Bacallà a la llauna,"Gadus morhua, paprika, tomato, garlic, paprika, tomato, garlic, paprika, tomato, garlic","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN87,Beef Stroganoff,beef,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN88,Confit de canard,duck meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN89,Aspics,"pork meat, beef, beef",?
+DTMN90,Chow mein,"noodle, chicken meat, onion, celery, chicken meat, onion, celery, chicken meat, onion, celery","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN91,Parmigiana,"table salt, oil, Parmesan cheese, Fior di latte, peppercorn, onion, tomato sauce, eggplant, basil, oil, Parmesan cheese, Fior di latte, peppercorn, onion, tomato sauce, eggplant, basil, oil, Parmesan cheese, Fior di latte, peppercorn, onion, tomato sauce, eggplant, basil","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN92,Croque-monsieur,"pan loaf, ham, Emmental, ham, Emmental, ham, Emmental","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN93,Cheese soufflé,"cheese, chicken egg, chicken egg, chicken egg","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN94,Pirozhki,dough,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN95,Strudel,"sugar, flour, oil, egg, phyllo, flour, oil, egg, phyllo, flour, oil, egg, phyllo",?
+DTMN96,Cheese sandwiches,"bread, cheese, cheese","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN97,Baked potatoes,potato,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN98,Chilaquiles,"cheese, meat, cream, chorizo, Allium cepa, egg, sauce, corn tortilla, meat, cream, chorizo, Allium cepa, egg, sauce, corn tortilla",?
+DTMN99,Turducken,"duck meat, chicken meat, turkey meat, chicken meat, turkey meat, chicken meat, turkey meat",?
+DTMN100,Calulu,"palm oil, fish as food, fish as food",?
+DTMN101,Curry,"spice, herb, herb, herb",?
+DTMN102,Scotch egg,"egg, boiled egg, minced meat, boiled egg, minced meat, boiled egg, minced meat",?
+DTMN103,Gado-gado,"vegetable, egg, cooked rice, krupuk, lontong, fried onion, satay sauce, egg, cooked rice, krupuk, lontong, fried onion, satay sauce, egg, cooked rice, krupuk, lontong, fried onion, satay sauce, egg, cooked rice, krupuk, lontong, fried onion, satay sauce, egg, cooked rice, krupuk, lontong, fried onion, satay sauce","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN104,Beef bourguignon,"red wine, beef, broth, beef, broth, beef, broth",?
+DTMN105,Imambayildi,"Solanum melongena, Allium sativum, Allium cepa, tomato, olive oil, onion, Allium sativum, Allium cepa, tomato, olive oil, onion, Allium sativum, Allium cepa, tomato, olive oil, onion",?
+DTMN106,Lardy cake,rendering,?
+DTMN107,Kuri-kinton,"sweet potato, chestnut, mirin, chestnut, mirin, chestnut, mirin","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN108,Butadon,"rice, pork meat, pork meat, pork meat","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN109,Frikadelle,pork meat,?
+DTMN110,Riste d'aubergine d'Arles,"table salt, Piper nigrum, olive oil, Rosmarinus officinalis, Thymus, bay leaf, onion, eggplant, tomato, garlic, Piper nigrum, olive oil, Rosmarinus officinalis, Thymus, bay leaf, onion, eggplant, tomato, garlic",?
+DTMN111,Bread dishes,bread,?
+DTMN112,Mapo doufu,"tofu, douchi, doubanjiang, douchi, doubanjiang","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN113,Arroz al horno,"water, rice, table salt, saffron, olive oil, blood sausage, pork ribs, potato, tomato, chickpea, garlic, rice, table salt, saffron, olive oil, blood sausage, pork ribs, potato, tomato, chickpea, garlic, rice, table salt, saffron, olive oil, blood sausage, pork ribs, potato, tomato, chickpea, garlic",?
+DTMN114,Mushroom-based food,edible mushroom,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN115,Bread bowls,bread,?
+DTMN116,Hot dogs,"bread roll, sauce, Vienna sausage, sauce, Vienna sausage, sauce, Vienna sausage","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN117,Eggplant caviar,eggplant,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN118,Pancakes,"milk, flour, oil, egg, flour, oil, egg, flour, oil, egg","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN119,Joshpara,dumpling,?
+DTMN120,Porridges,cereal,?
+DTMN121,Karelian hot pot,meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN122,Ginataang ampalaya,"Momordica charantia, coconut milk, Tinapa, coconut milk, Tinapa, coconut milk, Tinapa",?
+DTMN123,Cart noodle,flour,?
+DTMN124,Dal makhani,Vigna mungo,?
+DTMN125,Perle de coco,coconut,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN126,Ajapsandali,eggplant,?
+DTMN127,Bean soups,"broth, bean, bean","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN128,Tian provençal,vegetable,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN129,Ulster fry,"bacon, egg, sausage, potato bread, soda bread, tomato, egg, sausage, potato bread, soda bread, tomato, egg, sausage, potato bread, soda bread, tomato","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN130,Bruscitti,"red wine, beef, fennel fruit, beef, fennel fruit, beef, fennel fruit","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN131,Coconut rice,coconut,?
+DTMN132,Scallion oil noodles,"noodle, wheat flour, wheat flour, wheat flour, wheat flour",?
+DTMN133,Egg in the basket,"bread, chicken egg, chicken egg",?
+DTMN134,Gopchang,small intestine,?
+DTMN135,Kig-ha-fars,meat,?
+DTMN136,Quiches,"shortcrust pastry, migaine, migaine, migaine","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN137,Nanjing salted duck,duck meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN138,Akara,black-eyed pea,?
+DTMN139,Falafel,"mahleb, coriander seed, chickpea, cumin seed, broad bean, coriander seed, chickpea, cumin seed, broad bean, coriander seed, chickpea, cumin seed, broad bean","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN140,Pasulj,"meat, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean",?
+DTMN141,Kebebet,"Allium cepa, parsley, bulgur, lamb meat, parsley, bulgur, lamb meat","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN142,Mock turtle soup,offal,?
+DTMN143,Curry breads,"dough, Japanese curry, Japanese curry, Japanese curry","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN144,Ginataang hipon,"coconut milk, shrimp, shrimp, shrimp","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN145,Irish stew,lamb meat,?
+DTMN146,Flour-dough dumplings,"stuffing, rolled dough, rolled dough, rolled dough","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN147,Quesadilla,"cheese, wheat tortilla, tortilla, wheat tortilla, tortilla, wheat tortilla, tortilla","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN148,Yayla soup,"rice, yogurt, yogurt, yogurt","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN149,Mi aceh,noodle,?
+DTMN150,Bohémienne,eggplant,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN151,Naengmyeon,noodle,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN152,Kushari,Oryza,?
+DTMN153,Ngo hiang,"five-spice powder, tofu skin, tofu skin, tofu skin","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN154,Peanut butter and jelly sandwiches,"jam, bread, peanut butter, bread, peanut butter, bread, peanut butter","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN155,Curry noodles in Malaysia,noodle,?
+DTMN156,Bolo do caco,"table salt, butter, sweet potato, whole wheat bread, garlic, butter, sweet potato, whole wheat bread, garlic, butter, sweet potato, whole wheat bread, garlic",?
+DTMN157,Tacos,"wheat tortilla, stuffing, corn tortilla, stuffing, corn tortilla, stuffing, corn tortilla",?
+DTMN158,Chistorra,minced meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN159,Garlic breads,"bread, garlic, garlic, garlic",?
+DTMN160,Faggot (food),offal,?
+DTMN161,Tenshin han,"rice, egg, egg, egg",?
+DTMN162,Phở,rice noodle,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN163,Dampfnudeln,flour,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN164,Oyakodon,"rice, chicken meat, chicken egg, chicken meat, chicken egg, chicken meat, chicken egg, chicken meat, chicken egg, chicken meat, chicken egg",?
+DTMN165,Fried eggs,chicken egg,?
+DTMN166,Bacalhau à Brás,"Gadus morhua, chicken egg, potato, chicken egg, potato, chicken egg, potato","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN167,Bethmännchen,marzipan,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN168,Bamia,"lamb meat, okra, okra",?
+DTMN169,Ginataan,coconut milk,?
+DTMN170,Tzatziki,"yogurt, strained yogurt, cucumber, strained yogurt, cucumber, strained yogurt, cucumber",?
+DTMN171,Feijão tropeiro,"Phaseolus vulgaris, pork rind, cassava flour, linguiça, pork rind, cassava flour, linguiça","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN172,Kringle,"wheat flour, rye flour, rye flour",?
+DTMN173,Chūkaman,dough,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN174,Gnocchi alla romana,semolina,?
+DTMN175,Chole bhature,chickpea,?
+DTMN176,Ambuyat,sago,?
+DTMN177,Singapore-style noodles 星洲炒米,rice vermicelli,?
+DTMN178,Salată de icre,fish as food,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN179,Roasted goose,Anserini,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN180,Chicken tikka,"yogurt, chili pepper, chicken meat, chili pepper, chicken meat, chili pepper, chicken meat",?
+DTMN181,Currywurst,"sausage, curry powder, curry ketchup, curry powder, curry ketchup, curry powder, curry ketchup",?
+DTMN182,Sarburma,"butter, dough, lamb meat, dough, lamb meat, dough, lamb meat",?
+DTMN183,Lablabi,chickpea,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN184,Siopao,starch,?
+DTMN185,Julienne (dish),cheese,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN186,Liver and onions,"liver, onion, onion",?
+DTMN187,Chakhokhbili,"meat, tomato, Allium, tomato, Allium",?
+DTMN188,Bukkake udon,udon,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN189,Pão de queijo,cassava root,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN190,Quibebé,Cucurbita,?
+DTMN191,Eggs Benedict and variations,"hollandaise sauce, egg, English muffin, back bacon, egg, English muffin, back bacon, egg, English muffin, back bacon","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN192,Kabak kalye,zucchini,?
+DTMN193,Inegol kofte,meat,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN194,Pumpernickel,rye flour,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN195,Seafood dishes,seafood,?
+DTMN196,Nameshi Dengaku,"dengaku, Nameshi, Nameshi",?
+DTMN197,Rice-based food,rice,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN198,Saag paneer,"leaf vegetable, paneer, paneer, paneer",?
+DTMN199,Sartù di riso,"rice, egg, sausage, salami, liver, tomato sauce, smoked Provola, meatball, pea, egg, sausage, salami, liver, tomato sauce, smoked Provola, meatball, pea, egg, sausage, salami, liver, tomato sauce, smoked Provola, meatball, pea","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN200,Pâté,"liver, minced meat, minced meat, minced meat","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN201,Rice and beans,"cooked rice, bean stew, bean stew","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN202,Feijoada à brasileira,black turtle bean,?
+DTMN203,Vatapá,bread,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN204,Squash caviar,zucchini,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN205,Mami soup,noodle,?
+DTMN206,Coconut ice,"sugar, condensed milk, coconut, condensed milk, coconut",?
+DTMN207,Pissaladière,bread,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN208,Baked beans,"sauce, bean, bean",?
+DTMN209,Supplì,Mozzarella,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN210,Pato no tucupi,"tucupi, duck meat, duck meat, duck meat","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN211,Quark mit Leinöl,"quark, linseed oil, linseed oil","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN212,Porotos con riendas,spaghetti,?
+DTMN213,Miso katsu,"pork meat, miso, miso, miso, miso",?
+DTMN214,Egg tarts,egg,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN215,Tablier de sapeur,gras double,?
+DTMN216,Bunny chow,"curry, white bread, white bread, white bread","specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN217,Khanom chin,rice,"specific food preparation with cooking finished, and ready to eat, or be served"
+DTMN218,Bison burgers,bison meat,?
+DTMN219,Ploughmans Lunch,"bread, vegetable, fruit, vegetable, fruit, vegetable, fruit",?

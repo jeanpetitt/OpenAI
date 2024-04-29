@@ -1,0 +1,4 @@
+col0,col1,col2,col3,col4,col5
+EDTX0,Category:Honey,19296,"water, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar, nectar","Entity[""Concept"", ""Honey::5y246""]",?
+EDTX1,Category:Eggs (food),01123,"egg yolk, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white, egg white","Entity[""Food"", ""EggChickenWholeRaw::r7t8c""]",?
+EDTX2,Category:Ham,10870,pork thigh,"Entity[""FoodType"", ""Ham""]",ingredient used in food product

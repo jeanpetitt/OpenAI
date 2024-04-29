@@ -1,0 +1,91 @@
+col0,col1,col2,col3,col4
+MCHM0,Vietnam,rice vermicelli,Bún bò Huế,primarily liquid food
+MCHM1,"Portugal, People's Republic of China, People's Republic of China, People's Republic of China",potato,Caldo verde,?
+MCHM2,Korea,short ribs,Galbitang,primarily liquid food
+MCHM3,Canada,prawn,Chupe de camarones,primarily liquid food
+MCHM4,Qing dynasty,shark fin,Buddha jumps over the wall,primarily liquid food
+MCHM5,People's Republic of China,meat,Chinese turtle soup,primarily liquid food
+MCHM6,Germany,broth,Frittatensuppe,primarily liquid food
+MCHM7,Turkey,"bulgur, meatball, meatball, meatball",Analı kızlı soup,?
+MCHM8,Vietnam,"tapioca, bánh canh, bánh canh, bánh canh",Bánh canh,?
+MCHM9,Philippines,coconut milk,Binignit,primarily liquid food
+MCHM10,Korea,broth,Yeonpotang,?
+MCHM11,France,"cream, leek, potato, leek, potato, leek, potato",Vichyssoise,primarily liquid food
+MCHM12,Greece,pig,Schwarzsauer,?
+MCHM13,Mexico,hominy,Pozole,primarily liquid food
+MCHM14,Bangladesh,beef shank,Nihari,primarily liquid food
+MCHM15,Luxembourg,green bean,Bouneschlupp,?
+MCHM16,Turkey,bulgur,Ezogelin,primarily liquid food
+MCHM17,Korea,meatball,Sinseollo,primarily liquid food
+MCHM18,Italy,Engraulidae,Bagnun,?
+MCHM19,Vietnam,tomato,Bún riêu cua,?
+MCHM20,Poland,chicken,Rosół,primarily liquid food
+MCHM21,Indonesia,vegetable,Sayur asem,primarily liquid food
+MCHM22,Nigeria,Gymnanthemum extensum,Onugbu soup,primarily liquid food
+MCHM23,Korea,beef,Yukgaejang,?
+MCHM24,France,"vegetable, puff pastry, foie gras, Tuber melanosporum, puff pastry, foie gras, Tuber melanosporum, puff pastry, foie gras, Tuber melanosporum",Soupe aux truffes noires VGE,primarily liquid food
+MCHM25,Eastern Europe,"carrot, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato, water, Rumex acetosa, egg, smetana, pork ribs, onion, potato",Sorrel soups,primarily liquid food
+MCHM26,Turkey,"yogurt, spice, lamb meat, chickpea, spice, lamb meat, chickpea, spice, lamb meat, chickpea",Yuvalama soup,?
+MCHM27,Spain,chickpea,Cocido madrileño,primarily liquid food
+MCHM28,People's Republic of China,tofu,Yong tau foo,primarily liquid food
+MCHM29,"United States of America, Italy, Italy, Italy",Q11176730,Italian wedding soup,primarily liquid food
+MCHM30,Italy,bread,Acquacotta,?
+MCHM31,"Spain, La Mancha, La Mancha, La Mancha","Solanum melongena, Allium cepa, tomato, Allium cepa, tomato, Allium cepa, tomato",Pisto,primarily liquid food
+MCHM32,Indonesia,lamb meat,Sup kambing,?
+MCHM33,Hungary,Prunus cerasus,Sour cherry soup,?
+MCHM34,Korea,"guk, bap, bap, bap",Gukbap,?
+MCHM35,Ming dynasty,shark fin,Shark fin soup,primarily liquid food
+MCHM36,Russia,"meat, broth, lemon, Salzgurke, olive, broth, lemon, Salzgurke, olive, broth, lemon, Salzgurke, olive",Soljanka,?
+MCHM37,Korea,"vegetable, beef, seafood, broth, edible mushroom, condiment, beef, seafood, broth, edible mushroom, condiment, beef, seafood, broth, edible mushroom, condiment",Jeongol,?
+MCHM38,Mexico,chicken meat,Caldo tlalpeño,primarily liquid food
+MCHM39,Italy,broth,Buridda,?
+MCHM40,Turkey,wheat,Haleem,?
+MCHM41,Korea,tteok,Tteokguk,?
+MCHM42,Czech Republic,"sour cream, potato, potato, potato",Kulajda,?
+MCHM43,United States of America,"chicken meat, dumpling, dumpling, dumpling",Chicken and dumplings,?
+MCHM44,Philippines,noodle,Batchoy,primarily liquid food
+MCHM45,Georgia,"rice, beef, walnut, beef, walnut, beef, walnut",Kharcho,?
+MCHM46,Korea,dumpling,Manduguk,?
+MCHM47,Cambodia,"vegetable, herb, prahok, kroeung, fruit, herb, prahok, kroeung, fruit, herb, prahok, kroeung, fruit",Samlar korko,?
+MCHM48,Italy,"pasta, common bean, common bean, common bean",Pasta e fagioli,primarily liquid food
+MCHM49,Korea,sun-dubu,Sundubujjigae,?
+MCHM50,Korea,wakame,Miyeokguk,primarily liquid food
+MCHM51,Serbia,"meat, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean, Allium cepa, bell pepper, Apium graveolens var. dulce, Dutch brown bean",Pasulj,?
+MCHM52,Japan,pork meat,Tonjiru,?
+MCHM53,Spain,"carrot, Brassica oleracea, Apium, meatball, Brassica oleracea, Apium, meatball, Brassica oleracea, Apium, meatball",Escudella i carn d'olla,primarily liquid food
+MCHM54,Turkey,"rice, yogurt, yogurt, yogurt",Yayla soup,primarily liquid food
+MCHM55,Japan,"pumpkin, miso soup, miso soup, miso soup",Hōtō udon,?
+MCHM56,Philippines,"meat, vegetable, fish as food, vegetable, fish as food, vegetable, fish as food",Sinigang,?
+MCHM57,Korea,beef,Seolleongtang,primarily liquid food
+MCHM58,Thailand,"Cymbopogon citratus, chili pepper, galangal, stock, nam phrik phao, kaffir lime leaf, chili pepper, galangal, stock, nam phrik phao, kaffir lime leaf, chili pepper, galangal, stock, nam phrik phao, kaffir lime leaf",Tom yam,?
+MCHM59,Indonesia,coconut milk,Sayur lodeh,?
+MCHM60,"Poland, Belarus, Belarus, Belarus","groat, bouillon, bouillon, bouillon",Barley soup,primarily liquid food
+MCHM61,France,"carrot, Brassica rapa, Allium cepa, beef, Brassica rapa, Allium cepa, beef, Brassica rapa, Allium cepa, beef",Pot-au-feu,?
+MCHM62,People's Republic of China,Coix lacryma-jobi,Ching bo leung,?
+MCHM63,Korea,meat,Baeksuk,?
+MCHM64,India,lentil,Rasam,primarily liquid food
+MCHM65,Iran,yogurt,Ash-e Doogh,?
+MCHM66,Mexico,"lime, broth, chicken meat, tortilla, broth, chicken meat, tortilla, broth, chicken meat, tortilla",Sopa de lima,?
+MCHM67,Russia,"root vegetable, Salzgurke, liver, kidney, brine, Salzgurke, liver, kidney, brine, Salzgurke, liver, kidney, brine",Rassolnik,?
+MCHM68,Italy,tomato,Pappa al pomodoro,?
+MCHM69,Korea,"sausage, kimchi, ham, Spam, gochujang, baked beans, kimchi, ham, Spam, gochujang, baked beans, kimchi, ham, Spam, gochujang, baked beans",Budaejjigae,primarily liquid food
+MCHM70,Vietnam,rice noodle,Phở gà,?
+MCHM71,"Turkey, Azerbaijan, Armenia, Iran, Afghanistan, Azerbaijan, Armenia, Iran, Afghanistan, Azerbaijan, Armenia, Iran, Afghanistan","yogurt, noodle, broth, barley, noodle, broth, barley, noodle, broth, barley",Āsh,?
+MCHM72,People's Republic of China,noodle,Noodle soups,?
+MCHM73,Philippines,noodle,Mami soup,primarily liquid food
+MCHM74,People's Republic of China,"egg, broth, broth, broth",Einlaufsuppe,primarily liquid food
+MCHM75,Portugal,meat,Cozido à portuguesa,primarily liquid food
+MCHM76,France,fish as food,Cotriade bretonne,primarily liquid food
+MCHM77,Greece,"rice, table salt, drill, lamb meat, lemon, onion, chicken egg, table salt, drill, lamb meat, lemon, onion, chicken egg, table salt, drill, lamb meat, lemon, onion, chicken egg",Magiritsa,?
+MCHM78,France,stock,Consommé,primarily liquid food
+MCHM79,Indonesia,kidney bean,Brenebon,?
+MCHM80,France,pork meat,Potées,primarily liquid food
+MCHM81,"Italy, Greece, Greece, Greece","egg, broth, lemon juice, broth, lemon juice, broth, lemon juice",Avgolemono,primarily liquid food
+MCHM82,Basque Country,Allium cepa,Piperade,primarily liquid food
+MCHM83,Italy,"pasta, chickpea, chickpea, chickpea",Pasta e ceci,primarily liquid food
+MCHM84,India,"yogurt, gram flour, gram flour, gram flour",Kadhi,primarily liquid food
+MCHM85,People's Republic of China,sweet potato,Sweet potato soup,?
+MCHM86,Japan,"potato, Colocasia esculenta, Colocasia esculenta, Colocasia esculenta",Imoni,primarily liquid food
+MCHM87,Philippines,chicken meat,Tinola,primarily liquid food
+MCHM88,Japan,"water, miso, miso, miso",Miso soup,?
+MCHM89,Turkey,cereal,Tarhana,primarily liquid food
