@@ -1,0 +1,9 @@
+col0,col1,col2,col3
+BeWeb family ID,BeWeb church ID,distinct values constraint,BeWeb
+BeWeb entity ID,BeWeb church ID,distinct values constraint,BeWeb
+BeWeb person ID,BeWeb church ID,distinct values constraint,BeWeb
+BeWeb family ID,BeWeb church ID,format constraint,BeWeb
+BeWeb entity ID,BeWeb church ID,format constraint,BeWeb
+BeWeb person ID,BeWeb church ID,format constraint,BeWeb
+BeWeb family ID,BeWeb church ID,single value constraint,BeWeb
+BeWeb entity ID,BeWeb church ID,single value constraint,BeWeb

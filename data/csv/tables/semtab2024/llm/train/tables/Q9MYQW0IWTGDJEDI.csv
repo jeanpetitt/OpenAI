@@ -1,0 +1,11 @@
+col0,col1,col2,col3,col4
+Twitter username,Wikidata property associated with the sites,"do not include the ""@"" symbol",hashtag,conflicts-with constraint
+TikTok username,Wikidata property for an identifier that does not imply notability,"do not include the ""@"" symbol",website account on,single value constraint
+Twitter user numeric ID,Wikidata property for an identifier that does not imply notability,do not include the @-username,website account on,single value constraint
+TikTok username,Wikidata property related to online communities,"do not include the ""@"" symbol",website account on,single value constraint
+Twitter user numeric ID,Wikidata property for an identifier,do not include the @-username,website account on,single value constraint
+TikTok username,Wikidata property for authority control for people,"do not include the ""@"" symbol",website account on,single value constraint
+Twitter user numeric ID,Wikidata property for items about organizations,do not include the @-username,Twitter username,property scope constraint
+Acharts.co artist ID,Wikidata property for an identifier that does not imply notability,"Identifiers for artists whose songs and albums only charted in Germany cannot be found on the weekly chart pages, as such pages have been disabled for the German charts since 2008. However, they can be found through the website's search function or through links on the relevant song and album pages.",Acharts.co chart ID,single value constraint
+TikTok username,Wikidata property for an identifier that does not imply notability,"do not include the ""@"" symbol",Douyin ID,single value constraint
+Twitter username,Wikidata property associated with the sites,"do not include the ""@"" symbol",Douban site name,one-of qualifier value property constraint

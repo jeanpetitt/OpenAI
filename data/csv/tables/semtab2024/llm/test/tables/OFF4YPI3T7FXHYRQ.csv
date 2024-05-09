@@ -1,0 +1,12 @@
+col0,col1,col2,col3,col4
+Extension:GlobalUserrights,MediaWiki,"GNU General Public License, version 2.0 or later",MediaWiki extension,UserEffectiveGroups
+Extension:LinkFilter,MediaWiki,"GNU General Public License, version 2.0 or later",MediaWiki extension,TitleMoveComplete
+Extension:GlobalUsage,MediaWiki,MIT license,MediaWiki extension,TitleMoveComplete
+Extension:DeletePagesForGood,MediaWiki,"GNU General Public License, version 2.0 or later",MediaWiki extension,UnknownAction
+Extension:KwikiData,MediaWiki,GNU General Public License,MediaWiki extension,UnknownAction
+Extension:Debate,MediaWiki,MIT license,MediaWiki extension,UnknownAction
+Extension:HipchatNotifications,MediaWiki,MIT license,MediaWiki extension,TitleMoveComplete
+Extension:JsonConfig,MediaWiki,"GNU General Public License, version 2.0 or later",MediaWiki extension,TitleMoveComplete
+Extension:JHilbert,MediaWiki,"GNU General Public License, version 3.0 or later",MediaWiki extension,TitleMoveComplete
+Extension:DSMW,MediaWiki,GNU General Public License,MediaWiki extension,UnknownAction
+Extension:FlowchartWiki,MediaWiki,"GNU General Public License, version 2.0 or later",MediaWiki extension,TitleMoveComplete

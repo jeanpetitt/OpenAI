@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5
+ZooBank publication ID,single value constraint,Wikidata property for authority control for academic journals,ZooBank,Ecological guild evolution and the discovery of the world's smallest vertebrate.,ZooBank ID for name or act
+Dialnet journal ID,distinct values constraint,Wikidata property for authority control for academic journals,Dialnet,Arquitectura,Dialnet author ID
+IPNI publication ID,single value constraint,Wikidata property for items about scholarly articles,International Plant Names Index,The Cactaceae,BPH journal ID
+ZooBank publication ID,single value constraint,Wikidata property for items about scholarly articles,ZooBank,Ecological guild evolution and the discovery of the world's smallest vertebrate.,ZooBank ID for name or act

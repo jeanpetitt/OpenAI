@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4
+PubChem CID,single value constraint,Wikidata property related to chemistry,thalidomide,PubChem Substance ID (SID)
+InChI,single value constraint,Wikidata property related to chemistry,benzene,InChIKey
+canonical SMILES,format constraint,Wikidata property with datatype string that is not an external identifier,ethanol,isomeric SMILES
+European Medicines Agency product number,format constraint,Wikidata property to identify substances,vemurafenib,National Drug Code
+PubChem CID,single value constraint,Wikidata property to identify substances,thalidomide,PubChem Substance ID (SID)
+InChI,single value constraint,Wikidata property to identify substances,benzene,InChIKey

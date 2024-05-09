@@ -1,0 +1,11 @@
+col0,col1,col2,col3,col4
+SAC ID,Wikidata property to identify architectural structures,ÖAV hut ID,Swiss Alpine Club,single value constraint
+Peakbagger mountain ID,Wikidata property related to geology,Bivouac.com mountain ID,Peakbagger.com,single value constraint
+ASF KID Cave Tag Number,Wikidata property for an identifier that suggests notability,Cave E-Cadastre ID,cave,single value constraint
+Peakbagger mountain ID,Wikidata property related to geology,SummitPost mountain ID,Peakbagger.com,single value constraint
+ASF KID Cave Tag Number,Wikidata property related to geology,Cave E-Cadastre ID,cave,single value constraint
+Australian Geological Provinces ID,Wikidata property related to geology,Australian Stratigraphic Units Database ID,geologic province,single value constraint
+volcanic explosivity index,Wikidata property related to geology,Smithsonian volcano ID,Volcanic Explosivity Index,type constraint
+Smithsonian volcano ID,Wikidata property related to geology,volcano observatory,Global Volcanism Program,single value constraint
+volcanic explosivity index,Wikidata property related to events,Smithsonian volcano ID,Volcanic Explosivity Index,type constraint
+ASF KID Cave Tag Number,Wikidata property for an identifier,Cave E-Cadastre ID,cave,single value constraint

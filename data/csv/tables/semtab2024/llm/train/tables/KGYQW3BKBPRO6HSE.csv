@@ -1,0 +1,16 @@
+col0,col1,col2,col3,col4,col5
+serum complement C3 level,reference range as qualifier,serum,biomedical measurand,mass concentration,Complement C3
+serum immunoglobulin M level,reference range as qualifier,serum,biomedical measurand,mass concentration,immunoglobulin M
+serum immunoglobulin A level,reference range as qualifier,serum,biomedical measurand,mass concentration,immunoglobulin A
+serum immunoglobulin G level,reference range as qualifier,serum,biomedical measurand,mass concentration,immunoglobulin G
+serum C reactive protein level,reference range as qualifier,serum,biomedical measurand,mass concentration,C-reactive protein
+serum creatine kinase level,reference range as qualifier,serum,biomedical measurand,mass concentration,creatine kinase
+serum amylase level,reference range as qualifier,serum,biomedical measurand,mass concentration,amylase
+serum cholinesterase level,reference range as qualifier,serum,biomedical measurand,mass concentration,Cholinesterase
+serum gamma-glutamyl transpeptidase level,reference range as qualifier,serum,biomedical measurand,mass concentration,gamma-glutamyltransferase
+serum alkaline phosphatase level,reference range as qualifier,serum,biomedical measurand,mass concentration,Alkaline phosphatase
+serum total bilirubin level,reference range as qualifier,serum,biomedical measurand,mass concentration,bilirubin
+serum LDL cholesterol level,reference range as qualifier,serum,biomedical measurand,mass concentration,Low-density lipoprotein
+serum HDL cholesterol level,reference range as qualifier,serum,biomedical measurand,mass concentration,high-density lipoprotein
+serum triglyceride level,reference range as qualifier,serum,biomedical measurand,mass concentration,triglyceride
+fasting serum glucose level,reference range as qualifier,serum,biomedical measurand,blood sugar,glucose

@@ -1,0 +1,9 @@
+col0,col1,col2,col3,col4,col5
+trifluoperazine,trifluoperazine,Australian pregnancy category C,phenothiazine,407.164,Dopamine receptor D2
+perphenazine,perphenazine,Australian pregnancy category C,phenothiazine,403.148511,Dopamine receptor D2
+ergotamine,ergotamine,US pregnancy category X,ergotamines,581.264,5-hydroxytryptamine receptor 2A
+trifluoperazine,trifluoperazine,US pregnancy category C,phenothiazine,407.164,5-hydroxytryptamine receptor 2A
+perphenazine,perphenazine,US pregnancy category C,phenothiazine,403.148511,5-hydroxytryptamine receptor 2A
+trifluoperazine,trifluoperazine,Australian pregnancy category C,phenothiazine,407.164,5-hydroxytryptamine receptor 2A
+perphenazine,perphenazine,Australian pregnancy category C,phenothiazine,403.148511,5-hydroxytryptamine receptor 2A
+diltiazem,diltiazem,US pregnancy category C,calcium channel blocker,414.161,Calcium voltage-gated channel subunit alpha1 C

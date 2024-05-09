@@ -1,0 +1,12 @@
+col0,col1,col2,col3,col4
+Murray Central,Red Line,Utah Transit Authority,Utah Transit Authority,Murray North
+Meadowbrook,Red Line,Utah Transit Authority,Utah Transit Authority,Murray North
+Murray Central,Blue Line,Utah Transit Authority,Utah Transit Authority,Murray North
+Meadowbrook,Blue Line,Utah Transit Authority,Utah Transit Authority,Murray North
+Murray North,Red Line,Utah Transit Authority,Utah Transit Authority,Murray Central
+Fashion Place West,Red Line,Utah Transit Authority,Utah Transit Authority,Murray Central
+Murray North,Blue Line,Utah Transit Authority,Utah Transit Authority,Murray Central
+Fashion Place West,Red Line,Utah Transit Authority,Utah Transit Authority,Midvale Fort Union
+Midvale Center,Blue Line,Utah Transit Authority,Utah Transit Authority,Midvale Fort Union
+Fashion Place West,Blue Line,Utah Transit Authority,Utah Transit Authority,Midvale Fort Union
+Midvale Fort Union,Blue Line,Utah Transit Authority,Utah Transit Authority,Midvale Center

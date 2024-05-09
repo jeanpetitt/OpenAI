@@ -1,0 +1,14 @@
+col0,col1,col2,col3
+RB 66,Verkehrsverbund Berlin-Brandenburg,train service,Szczecin Główny
+RB 19,Verkehrsverbund Berlin-Brandenburg,train service,Berlin-Gesundbrunnen station
+RB 5,Nordhessischer Verkehrsverbund,train service,Kassel Central Station
+RB 8,Nordhessischer Verkehrsverbund,train service,Göttingen station
+RB 7,Nordhessischer Verkehrsverbund,train service,Göttingen station
+RB 6,Nordhessischer Verkehrsverbund,train service,Eisenach station
+RB 31,Verkehrsverbund Oberelbe,train service,Dresden Central Station
+RE 66,Verkehrsverbund Berlin-Brandenburg,train service,Szczecin Główny
+RB 26,Verkehrsverbund Berlin-Brandenburg,train service,Ostkreuz
+IRE 6,Nahverkehrsgesellschaft Baden-Württemberg,train service,Tübingen Central Station
+IRE 1,Nahverkehrsgesellschaft Baden-Württemberg,train service,Aalen Hauptbahnhof
+RB 56,Landesnahverkehrsgesellschaft Niedersachsen,train service,Bad Bentheim station
+RB 113,Zweckverband für den Nahverkehrsraum Leipzig,train service,Leipzig Hauptbahnhof

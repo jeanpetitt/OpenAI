@@ -1,0 +1,8 @@
+col0,col1,col2,col3
+paternal half-sibling,paternal half-sister,kinship,maternal half-sibling
+may be child,may be daughter,kinship,may be parent
+maternal great-grandparent,maternal great-grandmother,kinship,great-grandchild
+grand-nephew or grand-niece,grand-niece,kinship,grand uncle or grand aunt
+grandchild,granddaughter,kinship,grandparent
+great-grandparent,great-grandmother,kinship,great-grandchild
+biological parent,biological mother,kinship,biological child

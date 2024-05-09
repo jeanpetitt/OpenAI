@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+"Cluster Platform SL230s Gen8, Xeon E5-2650 8C 2.000GHz, 10G Ethernet",Hewlett Packard Enterprise,Xeon,supercomputer
+Boomer,Dell EMC,Xeon,supercomputer
+"BladeCenter HS23 Cluster, Xeon E5-2650 8C 2.000GHz, Infiniband QDR",IBM,Xeon,supercomputer
+"Cluster Platform SL390s G7, Xeon X5690 6C 3.47GHz, Gigabit Ethernet, NVIDIA 2090",Hewlett Packard Enterprise,Xeon,supercomputer

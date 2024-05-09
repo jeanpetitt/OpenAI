@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+NIOSH Pocket Guide ID,NIOSH pocket guide to chemical hazards,single value constraint,acetone
+Gmelin number,Gmelin database number,single value constraint,acetone
+ChemSpider ID,ChemSpider,single value constraint,sulfuric acid
+RTECS number,Registry of Toxic Effects of Chemical Substances,single value constraint,beryllium
+Human Metabolome Database ID,Human Metabolome Database,single value constraint,water
+USDA NDB number,USDA National Nutrient Database,single value constraint,apple

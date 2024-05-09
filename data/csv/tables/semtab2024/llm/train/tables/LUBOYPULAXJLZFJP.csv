@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+"BladeCenter HX5, Xeon E7-4870 10C 2.40 GHz, Infiniband QDR",IBM,Xeon,supercomputer
+"Cluster Platform 3000 BL460c, Xeon E54xx 2.4GHz, GigEthernet",Hewlett Packard Enterprise,Xeon,supercomputer
+"Cluster Platform 3000 BL460c, Xeon 54xx 3.16 GHz, Infiniband",Hewlett Packard Enterprise,Xeon,supercomputer
+Zeus,Hewlett Packard Enterprise,Xeon,supercomputer
+"Cluster Platform 3000 BL680c, Xeon 73xx 1.86 Ghz, GigabitEth",Hewlett Packard Enterprise,Xeon,supercomputer
+SuperMIG,IBM,Xeon,supercomputer

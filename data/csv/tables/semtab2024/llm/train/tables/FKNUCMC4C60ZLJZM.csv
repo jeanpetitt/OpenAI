@@ -1,0 +1,12 @@
+col0,col1,col2,col3,col4,col5
+UltraSignup runner ID,Ruby Muir,Wikidata property for authority control for people,Deutsche Ultramarathon-Vereinigung ID,single value constraint,UltraSignup
+ITRA runner ID,Caroline Chaverot,Wikidata property for authority control for people,Deutsche Ultramarathon-Vereinigung ID,single value constraint,International Trail-Running Association
+FIDAL athlete ID,Dorando Pietri,Wikidata property for authority control for people,Power of 10 athlete ID,single value constraint,Italian Athletics Federation
+Power of 10 athlete ID,Ellie Greenwood,Wikidata property for authority control for people,German Athletics Association athlete ID,item requires statement constraint,Power of 10
+French Athletics Federation athlete ID,Haoua Kessely,Wikidata property related to athletics,Power of 10 athlete ID,single value constraint,Fédération française d'athlétisme
+All-Athletics.com ID,Jacqueline Curtet,Wikidata property related to athletics,World Athletics athlete ID,single value constraint,All-Athletics.com
+French Athletics Federation athlete ID,Haoua Kessely,Wikidata property for authority control for people,Power of 10 athlete ID,single value constraint,Fédération française d'athlétisme
+All-Athletics.com ID,Jacqueline Curtet,Wikidata property for authority control for people,World Athletics athlete ID,single value constraint,All-Athletics.com
+UltraSignup runner ID,Ruby Muir,Wikidata property related to athletics,ITRA runner ID,single value constraint,UltraSignup
+ITRA runner ID,Caroline Chaverot,Wikidata property related to athletics,UltraSignup runner ID,single value constraint,International Trail-Running Association
+Deutsche Ultramarathon-Vereinigung ID,Nuria Picas Albets,Wikidata property related to athletics,ITRA runner ID,single value constraint,Deutsche Ultramarathon-Vereinigung

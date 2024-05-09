@@ -1,0 +1,15 @@
+col0,col1,col2,col3,col4,col5
+date of birth,date of birth,Isaac Newton,Wikidata property for items about people,inception,date of death
+employer,employer,Neil Armstrong,Wikidata property for items about people,affiliation,affiliation string
+family,family,Barack Obama,Wikidata property for items about people,member of,family name
+date of birth,date of birth,Isaac Newton,Wikidata property for birth or death,inception,date of death
+street number,street number,Baranagore Ramakrishna Mission Ashrama High School,Wikidata property for a multi-source identifier,series ordinal,conscription number
+family name,family name,Jack Bauer,Wikidata property for items about people,name,family
+street number,street number,Baranagore Ramakrishna Mission Ashrama High School,Wikidata qualifier,series ordinal,conscription number
+member of sports team,sports team,Diego Maradona,Wikidata property related to sports teams/clubs,member of,coach of sports team
+located on street,street,White House,Wikidata property encoding a vCard value,location,located in the administrative territorial entity
+member of,member,Iron Man,Wikidata property encoding a vCard value,affiliation,position held
+member of sports team,sports team,Diego Maradona,Wikidata property encoding a vCard value,member of,coach of sports team
+street number,house numbering,White House,Wikidata property related to transport,series ordinal,street address (DEPRECATED)
+located on street,street,White House,Wikidata property related to transport,location,located in the administrative territorial entity
+street number,house numbering,White House,Wikidata property for a multi-source identifier,series ordinal,street address (DEPRECATED)

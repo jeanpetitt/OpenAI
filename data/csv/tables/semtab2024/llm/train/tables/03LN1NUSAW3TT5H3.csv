@@ -1,0 +1,14 @@
+col0,col1,col2,col3,col4
+153,153,3,triangular number,3
+231,231,3,triangular number,3
+630,630,3,triangular number,2
+15,15,2,triangular number,3
+6,6,1,strictly non-palindromic number,2
+190,190,3,composite number,2
+153,153,3,composite number,3
+231,231,3,composite number,3
+630,630,3,composite number,2
+15,15,2,composite number,3
+6,6,1,composite number,2
+190,190,3,natural number,2
+153,153,3,natural number,3

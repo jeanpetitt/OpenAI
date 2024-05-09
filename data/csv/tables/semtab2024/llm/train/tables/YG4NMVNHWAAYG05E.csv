@@ -1,0 +1,6 @@
+col0,col1,col2,col3,col4
+median lethal concentration,allowed qualifiers constraint,Wikidata property related to chemistry,median lethal dose (LD50),median lethal concentration
+ClinicalTrials.gov Identifier,single value constraint,Wikidata property related to medicine,OpenTrials ID,ClinicalTrials.gov
+median lethal concentration,allowed qualifiers constraint,Wikidata property related to medicine,median lethal dose (LD50),median lethal concentration
+PDB ligand ID,single value constraint,Wikidata property for an identifier,PDB structure ID,Protein Data Bank
+ClinicalTrials.gov Identifier,single value constraint,Wikidata property for authority control for works,OpenTrials ID,ClinicalTrials.gov

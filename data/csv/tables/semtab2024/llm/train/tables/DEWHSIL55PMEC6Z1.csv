@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5
+Sabinet journal ID,format constraint,Wikidata property for authority control for academic journals,Sabinet,Africa Education Review,African Journals Online  journal ID
+ERIH PLUS ID,format constraint,Wikidata property for authority control for academic journals,European Reference Index for the Humanities,Historische Zeitschrift,Norwegian Register journal ID
+PhilPapers publication ID,format constraint,Wikidata property for authority control for academic journals,PhilPapers,The Acorn,PhilPapers author ID
+Research Papers in Economics Series handle,distinct values constraint,Wikidata property for authority control for academic journals,Research Papers in Economics,Business Inform,RePEc Short-ID

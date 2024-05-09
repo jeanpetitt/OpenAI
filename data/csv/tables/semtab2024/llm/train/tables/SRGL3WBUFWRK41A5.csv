@@ -1,0 +1,13 @@
+col0,col1,col2,col3,col4
+Metallo-beta-lactamase domain,protein domain,protein domain,Ribonuclease J,"Beta-lactamase, class-B, conserved site"
+Oxoglutarate/iron-dependent dioxygenase,protein domain,protein domain,Alkylated DNA repair protein AlkB,"Isopenicillin N synthase, conserved site"
+"DNA recombination and repair protein Rad51-like, C-terminal",protein domain,protein domain,DNA recombination/repair protein RadA,"DNA recombination and repair protein RecA, monomer-monomer interface"
+Amino acid adenylation domain,AMP-dependent synthetase/ligase,protein domain,D-alanine--D-alanyl carrier protein ligase,"AMP-binding, conserved site"
+NAD,protein domain,protein domain,"Malate dehydrogenase, type 3","Regulator of K+ conductance, C-terminal"
+"Zinc finger, PHD-type",protein domain,protein domain,Protein OBERON,"Zinc finger, PHD-type, conserved site"
+"Cold-shock protein, DNA-binding",Cold shock domain,protein domain,"Cold shock, CspA",Cold-shock conserved site
+"Malic enzyme, NAD-binding",NAD(P)-binding domain,protein domain,Malic oxidoreductase,"Malic enzyme, conserved site"
+Endonuclease/exonuclease/phosphatase,protein domain,protein domain,Sphingomyelinase C/phospholipase C,"Deoxyribonuclease I, active site"
+NUDIX hydrolase domain,protein domain,protein domain,Mutator MutX protein,"NUDIX hydrolase, NudL, conserved site"
+ABC transporter-like,protein domain,protein domain,"ABC transporter, D-xylose, ATP-binding protein","ABC transporter, nickel import, NikD"
+Flavoprotein pyridine nucleotide cytochrome reductase domain,Oxidoreductase FAD/NAD(P)-binding,protein domain,"Benzoyl-CoA oxygenase/reductase, BoxA protein","Sulfite reductase [NADPH] flavoprotein alpha-component-like, FAD-binding"

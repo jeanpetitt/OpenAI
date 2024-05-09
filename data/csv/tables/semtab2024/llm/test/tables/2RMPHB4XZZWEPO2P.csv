@@ -1,0 +1,10 @@
+col0,col1,col2,col3,col4,col5
+FFF character ID,Diabolik,FFF author ID,Wikidata property for authority control,single value constraint,Fondazione Franco Fossati
+INDUCKS character ID,Webby,INDUCKS publisher ID,Wikidata property related to fictional characters,single value constraint,INDUCKS
+INDUCKS miniseries ID,Angus Tales,ComicBookDB ID,Wikidata property related to The Walt Disney Company,single value constraint,INDUCKS
+Tebeosfera character ID,Snowy,Tebeosfera ID,Wikidata property related to comics,single value constraint,Tebeosfera
+INDUCKS miniseries ID,Angus Tales,ComicBookDB ID,Wikidata property for authority control for works,single value constraint,INDUCKS
+FFF author ID,René Goscinny,Guida al Fumetto Italiano ID,Wikidata property for authority control for people,single value constraint,Fondazione Franco Fossati
+Tebeosfera character ID,Snowy,Tebeosfera ID,Wikidata property for authority control,single value constraint,Tebeosfera
+INDUCKS character ID,Webby,INDUCKS publisher ID,Wikidata property for an identifier,format constraint,INDUCKS
+Media Art Database manga ID,Yu Yu Hakusho,Media Art Database author ID,Wikidata property related to comics,type constraint,Media Art Database

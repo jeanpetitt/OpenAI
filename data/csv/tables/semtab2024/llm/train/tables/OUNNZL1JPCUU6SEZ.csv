@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+NCES District ID,single value constraint,United States of America,NCES School ID,National Center for Education Statistics
+CISCE school code,single value constraint,India,U-DISE code,Council for the Indian School Certificate Examinations
+AICTE Permanent ID,type constraint,India,Punjab EMIS code,All India Council for Technical Education
+CBSE affiliation number,single value constraint,India,U-DISE code,Central Board of Secondary Education

@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5
+Flanders Arts Institute person ID,Ivo van Hove,Flanders Arts Institute venue ID,Flanders Arts Institute,single value constraint,Belgium
+Flanders Arts Institute venue ID,Royal Flemish Theatre,Flanders Arts Institute person ID,Flanders Arts Institute,single value constraint,Belgium
+Xikao History ID,Aixinjueluo Pudong,Douban Drama ID,Chinese opera,distinct values constraint,People's Republic of China
+Irish playography person ID,Ardal O'Hanlon,Irish playography play ID,Irish Playography,single value constraint,Ireland

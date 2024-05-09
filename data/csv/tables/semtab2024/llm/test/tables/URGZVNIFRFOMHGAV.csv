@@ -1,0 +1,9 @@
+col0,col1,col2,col3,col4
+creator's signature,Wikidata property to link to Commons,format constraint,"The Annunciation, with Saint Emidius",signature
+date depicted,Wikidata property to describe media items,single value constraint,Brothers in Arms: D-Day,depiction
+CETS number,Wikidata property related to law and justice,format constraint,European Landscape Convention,Council of Europe treaty
+ctext work ID,Wikidata property for an identifier,single value constraint,Analects,Chinese Text Project
+CETS number,Wikidata property for an identifier,format constraint,European Landscape Convention,Council of Europe treaty
+date depicted,Wikidata property with datatype 'time',single value constraint,Brothers in Arms: D-Day,depiction
+location of first performance,Wikidata property for specifying the location of an event,single value constraint,Der Hauptmann von Köpenick (The Captain of Köpenick),première
+season,Wikidata property for items about works,conflicts-with constraint,Asylum of the Daleks,television series season

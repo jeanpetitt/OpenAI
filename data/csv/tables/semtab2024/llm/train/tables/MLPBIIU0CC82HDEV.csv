@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+younger sibling,younger sister,kinship,elder sibling
+maternal grandparent,maternal grandmother,kinship,paternal grandparent
+paternal grandparent,paternal grandmother,kinship,maternal grandparent
+maternal uncle or aunt,maternal aunt,kinship,sororal nephew or niece
+sororal nephew or niece,sororal niece,kinship,maternal uncle or aunt
+elder sibling,elder sister,kinship,younger sibling

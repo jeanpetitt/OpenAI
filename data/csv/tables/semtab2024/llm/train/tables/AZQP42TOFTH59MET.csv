@@ -1,0 +1,12 @@
+col0,col1,col2,col3,col4,col5,col6
+TrueOS,Kris Moore,BSD licenses,FreeBSD,BSD operating system,Lumina Desktop,x86-64
+Fedora,Fedora Project,free license,Red Hat Linux,free operating system,KDE,ARM architecture
+TrueOS,Kris Moore,BSD licenses,FreeBSD,free operating system,Lumina Desktop,x86-64
+openSUSE,openSUSE Project,GNU General Public License,SUSE Linux,free operating system,KDE,x86-64
+Ubuntu,Canonical Group Limited,GNU General Public License,Debian,digital commons,GNOME,ARM architecture
+Fedora,Fedora Project,free license,Red Hat Linux,Linux distribution,KDE,ARM architecture
+openSUSE,openSUSE Project,GNU General Public License,SUSE Linux,Linux distribution,KDE,x86-64
+Ubuntu,Canonical Group Limited,GNU General Public License,Debian,Linux distribution,GNOME,ARM architecture
+DragonFly BSD,Matthew Dillon,BSD licenses,FreeBSD,BSD operating system,command-line interface,x86-64
+KDE neon,KDE,GNU General Public License,Ubuntu,free operating system,KDE Plasma 5,x86-64
+TAILS - The Amnesic Incognito Live System,"The Tor Project, Inc","GNU General Public License, version 3.0 or later",GNOME Shell,free operating system,GNOME,IA-32

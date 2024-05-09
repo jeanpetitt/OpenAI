@@ -1,0 +1,9 @@
+col0,col1,col2,col3
+Netflix ID,Wikidata property for authority control for works,Template:Netflix title,single value constraint
+Metacritic ID,Wikidata property related to video games,Template:Metacritic person,distinct values constraint
+IAFD film ID,Wikidata property for an identifier that does not imply notability,Template:IAFD movie,single value constraint
+Siamzone film ID,Wikidata property for an identifier that suggests notability,Template:Siamzone movie,single value constraint
+"BFI Films, TV and people ID",Wikidata property to identify television series,Template:BFI,format constraint
+IAFD film ID,Wikidata property related to erotica or pornography,Template:IAFD movie,single value constraint
+Adult Film Database film ID,Wikidata property related to erotica or pornography,Template:Adult Film Database movie,single value constraint
+Siamzone film ID,Wikidata property to identify films,Template:Siamzone movie,single value constraint

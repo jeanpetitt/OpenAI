@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+SMTPS,computer network protocol,465,Simple Mail Transfer Protocol
+Internet Message Access Protocol,computer network protocol,143,Post Office Protocol 3
+Internet Message Access Protocol over TLS/SSL,computer network protocol,993,Internet Message Access Protocol
+Link-Local Multicast Name Resolution,computer network protocol,5355,Domain Name System

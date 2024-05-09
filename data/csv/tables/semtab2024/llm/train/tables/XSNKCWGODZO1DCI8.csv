@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+Ecole des chartes thesis abstract ID,format constraint,France,National Thesis Number (France),École nationale des chartes
+U-DISE code,single value constraint,India,AICTE institute application ID,U-DISE
+Theses.fr person ID,single value constraint,France,IdRef ID,Theses.fr
+NPSN Indonesian school ID,single value constraint,Indonesia,Dapodikdasmen ID,National School Identification Number

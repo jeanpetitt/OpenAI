@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4,col5,col6
+Australian Ramsar site ID,Wikidata property for authority control for protected areas,Australian Wetlands Code,Ramsar site in Australia,single value constraint,Australia,Ginini Flats Wetlands Ramsar Site
+protected areas INPN Code,Wikidata property for authority control for protected areas,Réserves naturelles de France ID,Inventaire national du patrimoine naturel,single value constraint,France,Armorique Regional Natural Park
+Australian Ramsar site ID,Wikidata property for bodies of water,Australian Wetlands Code,Ramsar site in Australia,single value constraint,Australia,Ginini Flats Wetlands Ramsar Site
+America's National Parks ID,Wikidata property for authority control for protected areas,NPS unit ID,America's National Parks,single value constraint,United States of America,Mammoth Cave National Park
+National Forest Foundation ID,Wikidata property for authority control for protected areas,NPS unit ID,National Forest Foundation,single value constraint,United States of America,Deschutes National Forest
+NPS unit ID,Wikidata property for authority control for protected areas,America's National Parks ID,National Park Service,format constraint,United States of America,Wupatki National Monument

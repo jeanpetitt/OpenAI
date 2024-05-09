@@ -1,0 +1,11 @@
+col0,col1,col2,col3,col4
+Vice-Admiral of the Blue,Royal Navy,admiral,military rank,Rear-Admiral of the Red
+Rear-Admiral of the White,Royal Navy,admiral,military rank,Rear-Admiral of the Blue
+Admiral of the White,Royal Navy,admiral,military rank,Admiral of the Blue
+Admiral of the Blue,Royal Navy,admiral,military rank,Vice-Admiral of the Red
+acting sub-lieutenant,Canadian Armed Forces ranks,sub-lieutenant,military rank,naval cadet
+sub-lieutenant,Canadian Armed Forces ranks,sub-lieutenant,military rank,acting sub-lieutenant
+rear admiral,Royal Navy,rear admiral,military rank,Commodore
+major,Canadian Armed Forces ranks,major,military rank,captain
+lieutenant,Canadian Armed Forces ranks,lieutenant,military rank,second lieutenant
+lieutenant-commander,Canadian Armed Forces ranks,corvette captain,military rank,lieutenant (navy)

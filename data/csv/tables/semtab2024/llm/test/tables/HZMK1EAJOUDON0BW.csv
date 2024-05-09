@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+ALK RANBP2::ALK,,ALK,crizotinib
+ABL1 BCR-ABL E279K,,ABL1,axitinib
+ABL1 BCR::ABL L387F,imatinib mesylate,ABL1,
+ABL1 BCR::ABL N336S,imatinib mesylate,ABL1,
+BRD4 BRD4::NUTM1,,BRD4,JQ1
+ABL1 BCR::ABL F359C,imatinib mesylate / nilotinib combination therapy,ABL1,bosutinib

@@ -1,0 +1,13 @@
+col0,col1,col2,col3
+ALK EML4-ALK T1151INST,transcript fusion,ALK,crizotinib
+ALK EML4-ALK S1206Y,transcript fusion,ALK,crizotinib
+ALK ALK FUSION G1202R,transcript fusion,ALK,crizotinib
+ALK EML4-ALK AMPLIFICATION,transcript fusion,ALK,crizotinib
+ALK EML4-ALK,transcript fusion,ALK,erlotinib
+ALK EML4-ALK L1196M,transcript fusion,ALK,crizotinib
+ALK EML4-ALK C1156Y,transcript fusion,ALK,crizotinib
+ABL1 BCR-ABL E255K,transcript fusion,ABL1,imatinib
+ABL1 BCR-ABL T315I,transcript fusion,ABL1,imatinib
+ABL1 BCR-ABL,transcript fusion,ABL1,imatinib
+ALK EML4-ALK T1151INST,Inframe Insertion,ALK,crizotinib
+ALK EML4-ALK AMPLIFICATION,Transcript Amplification,ALK,crizotinib

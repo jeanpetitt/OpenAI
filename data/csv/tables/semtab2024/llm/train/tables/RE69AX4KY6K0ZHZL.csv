@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4,col5
+Mantodea Species File ID,Mantodea Species File,Wikidata property related to insects and entomology,Rhombodera basalis,Cockroach Species File ID,single value constraint
+Coreoidea Species File ID,Coreoidea Species File,Wikidata property related to insects and entomology,Western conifer seed bug,Cockroach Species File ID,single value constraint
+Cockroach Species File ID,Cockroach Species File,Wikidata property related to insects and entomology,Blattellinae,Coreoidea Species File ID,distinct values constraint
+Mantodea Species File ID,Mantodea Species File,Wikidata property to identify taxa,Rhombodera basalis,Cockroach Species File ID,single value constraint
+Coreoidea Species File ID,Coreoidea Species File,Wikidata property to identify taxa,Western conifer seed bug,Cockroach Species File ID,single value constraint
+Cockroach Species File ID,Cockroach Species File,Wikidata property to identify taxa,Blattellinae,Coreoidea Species File ID,distinct values constraint

@@ -1,6 +1,10 @@
 from finetuning.utils import compare_csv, csv_to_jsonl, fineTuningJobID, inference, annotateCea, combineJsonFile
 from finetuning.cea_evaluator import CEA_Evaluator
 
+""" 
+    2023 semtab challenge
+"""
+
 # wikidata
 cea_target_wikidata = "data/csv/tables/semtab2023/WikidataTables/Valid/gt/cea_gt.csv"
 dataset_table_path_wikidata = "data/csv/tables/semtab2023/WikidataTables/Valid/tables"
@@ -27,6 +31,19 @@ dataset_tfood_hor = "data/result/cea/dataset/tfood/horizontal/update_cea.csv"
 dataset_json_tfood_hor = "data/json/app2/tfood/horizontal/train_semtab2023_tfood_horizontal.jsonl"
 tfood_hor_target = "data/csv/tables/semtab2023/tfood/horizontal/val/targets/cea_targets.csv"
 # dataset_tfood_hor_folder = "data/result/cea/dataset/tfood/horizontal"
+
+
+""" 
+    2024 semtab challenge
+"""
+
+#  LLMs dataset semtab 2024
+cea_target_llm = "data/csv/tables/semtab2024/llm/train/gt/cea_gt.csv"
+dataset_table_llm = "data/csv/tables/semtab2024/llm/train/tables"
+cea_llm = "data/result/cea/annotate/2024/llm/cea_an.csv"
+dataset_llm = "data/result/cea/dataset/2024/llm/update_cea.csv"
+dataset_json_llm = "data/json/app2/2024/llm/train_semtab2023_wikidata.jsonl"
+llm_target = "data/csv/tables/semtab2024/llm/train/gt/target.csv"
 
 row_cea_annotated = "data/result/cea/cea.csv"
 full_json_path_folder = "data/json/full"
@@ -55,19 +72,35 @@ if __name__ == "__main__":
         choice = input("\nPlease select an option: ")
 
         if choice == "1":
+            # compare_csv(
+            #     cea_target=cea_target_tfood_hor, # ground truth
+            #     table_path=dataset_table_tfood_hor, # csv tables to make csv dataset
+            #     file_cea=row_cea_annotated,  # old csv dataset obtained
+            #     updated_csv2_file=dataset_tfood_hor, # new csv dataset obtained after comparison
+            #     header=True,
+            #     # col_before_row=False
+            # )
+            
+            """ llm 2024 """
             compare_csv(
-                cea_target=cea_target_tfood_hor, # ground truth
-                table_path=dataset_table_tfood_hor, # csv tables to make csv dataset
+                cea_target=cea_target_llm, # ground truth
+                table_path=dataset_table_llm, # csv tables to make csv dataset
                 file_cea=row_cea_annotated,  # old csv dataset obtained
-                updated_csv2_file=dataset_tfood_hor, # new csv dataset obtained after comparison
+                updated_csv2_file=dataset_llm, # new csv dataset obtained after comparison
                 header=True,
-                # col_before_row=False
+                col_before_row=True,
+                # comma_in_cell=True
             )
             print("\n")
         elif choice == "2":
+            # csv_to_jsonl(
+            #     csv_path=dataset_tfood_hor, # csv dataset file path
+            #     json_path=dataset_json_tfood_hor  # json dataset file path
+            # )
+            """ llm 2024 """
             csv_to_jsonl(
-                csv_path=dataset_tfood_hor, # csv dataset file path
-                json_path=dataset_json_tfood_hor  # json dataset file path
+                csv_path=dataset_llm, # csv dataset file path
+                json_path=dataset_json_llm  # json dataset file path
             )
             print("\n")
         elif choice == "3":
@@ -103,11 +136,19 @@ if __name__ == "__main__":
             #     updated_cea_target=cea_tfood_entity
             # )
             """tfood hor"""
+            # annotateCea(
+            #     model=model_finetuned,
+            #     csv_dataset_path=dataset_tfood_hor,
+            #     cea_target=tfood_hor_target,
+            #     updated_cea_target=cea_tfood_hor
+            # )
+            
+            """ LLM 2024 semtab"""
             annotateCea(
                 model=model_finetuned,
-                csv_dataset_path=dataset_tfood_hor,
-                cea_target=tfood_hor_target,
-                updated_cea_target=cea_tfood_hor
+                csv_dataset_path=dataset_llm,
+                cea_target=llm_target,
+                updated_cea_target=cea_llm
             )
             
             print("\n")

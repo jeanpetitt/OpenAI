@@ -1,0 +1,8 @@
+col0,col1,col2,col3
+ZIP,"ZIP archive file format, version 6.3.2",archive file format,Phil Katz
+7z,"7z, version 0.2 (with compression methods version 4.16 beta, distributed with 7zip v4.20)",archive file format,Igor Pavlov
+Portable Document Format,"Portable Document Format, version 1.7",document file format,Adobe
+Windows Bitmap,"Windows Bitmap, version 1",image file format,Microsoft
+Bink Video,"Bink Video, version 1",file format,RAD Game Tools
+ADX,"ADX, version 2",file format,CRI Middleware
+Digital Terrain Elevation Data,Digital Terrain Elevation Data Level 0,file format,National Geospatial-Intelligence Agency

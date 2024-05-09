@@ -1,0 +1,6 @@
+col0,col1,col2,col3,col4,col5
+serum inorganic phosphorus level,reference range as qualifier,serum,biomedical measurand,mass concentration,phosphoru
+serum uric acid level,reference range as qualifier,serum,biomedical measurand,mass concentration,uric acid
+blood urea nitrogen level,reference range as qualifier,serum,biomedical measurand,mass concentration,blood urea nitrogen
+white blood cell count,reference range as qualifier,blood,biomedical measurand,blood cell count,white blood cell
+hemoglobin concentration,reference range as qualifier,blood,biomedical measurand,mass concentration,hemoglobin

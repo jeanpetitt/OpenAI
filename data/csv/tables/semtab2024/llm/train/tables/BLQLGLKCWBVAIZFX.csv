@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+TOPRIM  domain,protein domain,protein domain,"DNA topoisomerase 4 subunit B, Firmicutes/Mollicutes","DNA topoisomerase, type IIA, conserved site"
+L27 domain,protein domain,protein domain,"L27 domain, C-terminal",L27-N
+2Fe-2S ferredoxin-type iron-sulfur binding domain,protein domain,protein domain,"NADH:ubiquinone oxidoreductase, subunit G","NADH:ubiquinone oxidoreductase, 75kDa subunit, conserved site"
+NAD,protein domain,protein domain,L-lactate dehydrogenase,"Regulator of K+ conductance, C-terminal"

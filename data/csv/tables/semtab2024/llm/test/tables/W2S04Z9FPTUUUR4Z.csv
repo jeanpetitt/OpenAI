@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+byte,1,B,unit of information
+kibibit,1024,Kib,unit of information
+megabit,1000000,Mb,unit of information
+kilobit,1000,kb,unit of information

@@ -1,0 +1,15 @@
+col0,col1,col2,col3
+World Curling Tour ID,Wikidata property for authority control for people,World Curling Tour,single value constraint
+IBSF athlete ID,Wikidata property for authority control for people,International Bobsleigh and Skeleton Federation,single value constraint
+FIL athlete ID,Wikidata property for authority control for people,International Luge Federation,single value constraint
+FIS snowboarder ID,Wikidata property related to winter sports,International Ski Federation,single value constraint
+FIS Nordic combined skier ID,Wikidata property related to winter sports,Nordic combined,single value constraint
+FIS ski jumper ID,Wikidata property related to winter sports,ski jumping,single value constraint
+FIS freestyle skier ID,Wikidata property related to winter sports,freestyle skiing,single value constraint
+FIS cross-country skier ID,Wikidata property related to winter sports,cross-country skiing,single value constraint
+FIS alpine skier ID,Wikidata property related to winter sports,alpine skiing,single value constraint
+ISU figure skater ID,Wikidata property related to winter sports,International Skating Union,single value constraint
+SpeedSkatingBase.eu ID,Wikidata property related to winter sports,Speedskatingbase.eu,single value constraint
+FIS snowboarder ID,Wikidata property for authority control for people,International Ski Federation,single value constraint
+FIS Nordic combined skier ID,Wikidata property for authority control for people,Nordic combined,single value constraint
+FIS ski jumper ID,Wikidata property for authority control for people,ski jumping,single value constraint

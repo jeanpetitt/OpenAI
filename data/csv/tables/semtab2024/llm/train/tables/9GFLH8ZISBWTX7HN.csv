@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4,col5,col6
+Historic Hotels of America ID,Historic Hotels of America,Wikidata property related to e-commerce,Booking.com hotel ID,single value constraint,is complete,Don CeSar
+Expedia hotel ID,Expedia Group,Wikidata property related to e-commerce,Booking.com hotel ID,single value constraint,always incomplete,Big Meadows Lodge
+Historic Hotels of America ID,Historic Hotels of America,Wikidata property for authority control for hotels,Booking.com hotel ID,single value constraint,is complete,Don CeSar
+Zomato ID,Zomato,Wikidata property related to e-commerce,Foursquare venue ID,single value constraint,always incomplete,Mon Ami Gabi
+Historic Hotels Worldwide ID,Historic Hotels Worldwide,Wikidata property for authority control for hotels,Booking.com hotel ID,distinct values constraint,is complete,Hotel Waldhaus (Sils)
+Historic Hotels of America ID,Historic Hotels of America,Wikidata property for authority control for hotels,Booking.com hotel ID,distinct values constraint,is complete,Don CeSar

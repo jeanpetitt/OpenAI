@@ -1,0 +1,9 @@
+col0,col1,col2,col3
+inspired by,inspired,type constraint,Wikidata property for items about works
+officeholder,office held,type constraint,Wikidata property for items about organizations
+"languages spoken, written or signed",language spoken by,type constraint,Wikidata property for items about people
+eye color,people with this eye color,type constraint,Wikidata property for items about people
+officeholder,office held,type constraint,Wikidata property for items about people
+filmography,filmography of,item requires statement constraint,Wikidata property for items about people
+manner of death,people who died in this manner,single value constraint,Wikidata property for items about people
+inspired by,inspired,type constraint,Wikidata property for items about people

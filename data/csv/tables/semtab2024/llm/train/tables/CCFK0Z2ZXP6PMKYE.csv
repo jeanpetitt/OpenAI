@@ -1,0 +1,13 @@
+col0,col1,col2,col3
+SK-BR-3,AU565,Homo sapiens,A collection of breast cancer cell lines for the study of functionally distinct cancer subtypes
+VG-1,B301,Homo sapiens,Distinct subsets of primary effusion lymphoma can be identified based on their cellular gene expression profile and viral association
+HDLM-1,HDLM-2,Homo sapiens,"Reed-Sternberg cells in Hodgkin's cell lines HDLM, L-428, and KM-H2 are not actively replicating: lack of bromodeoxyuridine uptake by multinuclear cells in culture."
+HDLM-2,HDLM-3,Homo sapiens,"Hodgkin's disease derived cell lines HDLM-2 and L-428: comparison of morphology, immunological and isoenzyme profiles."
+HDLM-1,HDLM-3,Homo sapiens,"Hodgkin's disease derived cell lines HDLM-2 and L-428: comparison of morphology, immunological and isoenzyme profiles."
+HDLM-3,HDLM-2,Homo sapiens,"Hodgkin's disease derived cell lines HDLM-2 and L-428: comparison of morphology, immunological and isoenzyme profiles."
+HDLM-2,HDLM-3,Homo sapiens,Characterization of Hodgkin's disease derived cell line HDLM-2.
+HF-4a,HF-4b,Homo sapiens,"Two novel human B-cell lymphoma lines of lymphatic follicle origin: cytogenetic, molecular genetic and histopathological characterisation."
+Hep-KANO clone 1,Hep-KANO clone 2,Homo sapiens,"Characteristics of human hepatocellular carcinoma cell lines (Hep-KANO) derived from a non-hepatitic, non-cirrhotic hepatitis B virus carrier."
+HEC-155,HEC-180,Homo sapiens,Establishment and characterization of human endometrial cancer cell lines.
+HF-4a,HF-4b,Homo sapiens,Cross-linking of surface IgG induces apoptosis in a bcl-2 expressing human follicular lymphoma line of mature B cell phenotype.
+HDLM-2,HDLM-3,Homo sapiens,Molecular cytogenetic characterization of four commonly used cell lines derived from Hodgkin lymphoma.

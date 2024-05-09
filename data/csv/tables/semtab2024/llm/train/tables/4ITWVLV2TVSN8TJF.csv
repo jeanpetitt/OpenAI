@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5
+iTunes music movie ID,The 1989 World Tour Live,iTunes music video ID,Wikidata property related to music,iTunes,single value constraint
+setlist.fm venue ID,Royal Albert Hall,MusicBrainz place ID,Wikidata property related to music,setlist.fm,single value constraint
+Carnegie Hall event ID,The Governor's Vrouw,Carnegie Hall agent ID,Wikidata property related to music,Carnegie Hall linked open data,single value constraint
+Melon song ID,Peek-a-Boo,Melon artist ID,Wikidata property related to music,Melon,format constraint

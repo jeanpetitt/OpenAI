@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+File Transfer Protocol,Internet protocol suite,mailto,1971-04-16
+Hypertext Transfer Protocol,World Wide Web,mailto,1989-01-01
+File Transfer Protocol,Internet protocol suite,Hypertext Transfer Protocol,1971-04-16
+Hypertext Transfer Protocol,World Wide Web,File Transfer Protocol,1989-01-01

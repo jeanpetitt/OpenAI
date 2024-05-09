@@ -1,0 +1,11 @@
+col0,col1,col2,col3,col4,col5
+R0 road,A1 motorway,Belgium,Brussels-Capital Region,European route E40 in Belgium,75
+R1 road,A1 motorway,Belgium,Antwerp,European route E34 in Belgium,17
+R0 road,A12 motorway,Belgium,Flemish Brabant,European route E19 in Belgium,75
+A1 motorway,A12 motorway,Belgium,Flemish Brabant,European route E19 in Belgium,69.637
+R0 road,A1 motorway,Belgium,Flemish Brabant,European route E19 in Belgium,75
+R1 road,A12 motorway,Belgium,Antwerp,European route E19 in Belgium,17
+A1 motorway,A12 motorway,Belgium,Antwerp,European route E19 in Belgium,69.637
+R1 road,A1 motorway,Belgium,Antwerp,European route E19 in Belgium,17
+R0 road,A1 motorway,Belgium,Brussels-Capital Region,European route E19 in Belgium,75
+A4 motorway,A15 motorway,Belgium,Brussels-Capital Region,European route E411,188.04

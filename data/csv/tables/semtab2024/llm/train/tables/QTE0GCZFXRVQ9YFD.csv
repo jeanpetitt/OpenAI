@@ -1,0 +1,12 @@
+col0,col1,col2,col3
+"ATP-dependent 6-phosphofructokinase, prokaryotic-type",phosphofructokinase activity,"Phosphofructokinase, conserved site",protein family
+rRNA,methyltransferase activity,Methyltransferase type 11,protein family
+Protein-arginine deiminase,protein-arginine deiminase activity,Protein-arginine deiminase (PAD) N-terminal,protein family
+"Alcohol dehydrogenase, Drosophila-type",alcohol dehydrogenase (NAD) activity,"Short-chain dehydrogenase/reductase, conserved site",protein family
+"1,4-alpha-glucan-branching enzyme, GlgB","1,4-alpha-glucan branching enzyme activity","Glycoside hydrolase, family 13, N-terminal",protein family
+"Sulphite reductase, dissimilatory-type beta subunit",hydrogensulfite reductase activity,Nitrite/sulphite reductase 4Fe-4S domain,protein family
+"Peptidase S1A, acrosin",serine-type endopeptidase activity,"Serine proteases, trypsin family, histidine active site",protein family
+Prothrombin/thrombin,serine-type endopeptidase activity,"Kringle, conserved site",protein family
+"Tetrahydromethanopterin S-methyltransferase, subunit F",tetrahydromethanopterin S-methyltransferase activity,"Tetrahydromethanopterin S-methyltransferase, F subunit",family of subunits of protein complexes
+"DNA-directed RNA polymerase, alpha subunit",DNA-directed 5'-3' RNA polymerase activity,"RNA polymerase, alpha subunit, C-terminal",family of subunits of protein complexes
+3',"3'(2'),5'-bisphosphate nucleotidase activity","Inositol monophosphatase, metal-binding site",enzyme family

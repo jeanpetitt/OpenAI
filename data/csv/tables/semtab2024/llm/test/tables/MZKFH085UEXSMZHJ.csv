@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+quotation or excerpt,quotation,item requires statement constraint,usage example,Only use this property for quotations which are in the public domain in the United States or are ineligible for copyright in the United States.
+number of processor threads,multithreading,allowed units constraint,number of processor cores,"This is the total number of threads, not the number of threads per core."
+access status,open access,single value constraint,copyright license,"May be used also with P1436 (collection or exhibition size) to indicate the access status of a collection or archive. May also be used directly as main value to indicate the access status of, e.g., the proceedings of an academic conference (Q2020153) or conference series (Q15900647) or news media (Q1193236) or broadcaster (Q15265344)"
+quotation or excerpt,quotation,item requires statement constraint,quotation,Only use this property for quotations which are in the public domain in the United States or are ineligible for copyright in the United States.

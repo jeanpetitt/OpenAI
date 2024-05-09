@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+Extension:Mailgun,MediaWiki,AlternateUserMailer,"GNU General Public License, version 2.0 or later"
+Extension:UndeleteBatch,MediaWiki,AdminLinks,"GNU General Public License, version 2.0 or later"
+Extension:DeleteBatch,PHP,AdminLinks,"GNU General Public License, version 2.0 or later"
+Extension:SiteMatrix,MediaWiki,APIQuerySiteInfoGeneralInfo,"GNU General Public License, version 2.0"
+Extension:PageCrossReference,MediaWiki,ArticleSaveComplete,"GNU General Public License, version 3.0"
+Extension:Taxonomy,MediaWiki,ArticleSaveComplete,GNU General Public License

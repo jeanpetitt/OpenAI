@@ -1,0 +1,7 @@
+col0,col1,col2,col3
+Cluster Platform 6000 rx2600 Itanium2 1 GHz Cluster,256,Linux,Quadrics
+xSeries Cluster Xeon 2.4 GHz,256,Linux,Myrinet
+Prairiefire AMD 1.8 GHz,256,Linux,Myrinet
+AMD AthlonMP Cluster 1.667 GHz,256,Linux,Myrinet
+P4 Xeon Cluster 2.4 GHz,256,Linux,Myrinet
+BioCORTEX AMD 1.533 GHz,256,Linux,Myrinet

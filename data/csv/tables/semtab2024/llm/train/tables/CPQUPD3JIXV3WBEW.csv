@@ -1,0 +1,7 @@
+col0,col1,col2,col3,col4,col5
+NooSFere book ID,single value constraint,The End of Eternity,Wikidata property for an identifier that suggests notability,NooSFere,ISFDB title ID
+NooSFere series ID,single value constraint,The Wheel of Time,Wikidata property related to literature,NooSFere,ISFDB series ID
+NooSFere book ID,single value constraint,The End of Eternity,Wikidata property related to literature,NooSFere,NooSFere story ID
+NooSFere series ID,single value constraint,The Wheel of Time,Wikidata property for authority control for works,NooSFere,ISFDB series ID
+NooSFere book ID,single value constraint,The End of Eternity,Wikidata property related to literature,NooSFere,ISFDB title ID
+Paris Faculty of Letters professor ID,item requires statement constraint,Victor Basch,Wikidata property related to literature,Les Professeurs de la Faculté des lettres de Paris,Paris Faculty of Science professor ID

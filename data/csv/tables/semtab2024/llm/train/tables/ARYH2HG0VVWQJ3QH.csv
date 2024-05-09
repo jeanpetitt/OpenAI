@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+Twitter username,"do not include the ""@"" symbol",format constraint,Instagram username,Twitter
+arXiv ID,"Prior to April 2007, the identifiers included a classification, an optional two-letter subdivision, and a 7-digit YYMMNNN year, month, and sequence number of submission in that category. E.g. gr-qc/0610068 or math.GT/0309136. After April 2007, the format was changed to a YYMM.NNNN, from 2015 an additional digit was added making the format YYMM.NNNNN",single value constraint,arXiv classification,arXiv ID
+Gfycat user ID,"Do not include the ""@"" symbol",single value constraint,Giphy username,Gfycat
+Ameblo username,"from 3 to 24 letters, the characters that can be used are half size alphanumeric characters (lowercase letters only) and hyphens (-)",single value constraint,LINE BLOG user ID,Ameblo

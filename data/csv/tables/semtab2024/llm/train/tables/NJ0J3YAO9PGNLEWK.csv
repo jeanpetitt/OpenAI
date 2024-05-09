@@ -1,0 +1,11 @@
+col0,col1,col2,col3,col4
+RFC 3265: Session Initiation Protocol,RFC 3261: SIP: Session Initiation Protocol,Session Initiation Protocol,Request for Comments,RFC 5367: Subscriptions to Request-Contained Resource Lists in the Session Initiation Protocol (SIP)
+RFC 139: Discussion of Telnet Protocol,RFC 137: Telnet Protocol - a proposed document,Telnet,Request for Comments,RFC 158: Telnet Protocol: A Proposed Document
+RFC 3986: Uniform Resource Identifier,RFC 1738: Uniform Resource Locators (URL),Uniform Resource Identifier,Request for Comments,RFC 6874: Representing IPv6 Zone Identifiers in Address Literals and Uniform Resource Identifiers
+RFC 2474: Definition of the Differentiated Services Field,RFC 791: Internet Protocol,differentiated services code point,Request for Comments,RFC 3168: The Addition of Explicit Congestion Notification (ECN) to IP
+RFC 6638: Scheduling Extensions to CalDAV,RFC 4791: Calendaring Extensions to WebDAV (CalDAV),CalDAV,Request for Comments,RFC 7953: Calendar Availability
+"RFC 3376: Internet Group Management Protocol, Version 3","RFC 2236: Internet Group Management Protocol, Version 2",Internet Group Management Protocol,Request for Comments,RFC 4604: Using Internet Group Management Protocol Version 3 (IGMPv3) and Multicast Listener Discovery Protocol Version 2 (MLDv2) for Source-Specific Multicast
+RFC 3270: Multi-Protocol Label Switching,RFC 3032: MPLS Label Stack Encoding,Multiprotocol Label Switching,Request for Comments,"RFC 5462: Multiprotocol Label Switching (MPLS) Label Stack Entry: ""EXP"" Field Renamed to ""Traffic Class"" Field"
+RFC 172: The File Transfer Protocol,RFC 114: File Transfer Protocol,File Transfer Protocol,Request for Comments,RFC 238: Comments on DTP and FTP proposals
+RFC 4954: SMTP Service Extension for Authentication,RFC 3463: Enhanced Mail System Status Codes,Simple Mail Transfer Protocol,Request for Comments,RFC 5248: A Registry for SMTP Enhanced Mail System Status Codes
+RFC 5621: Message Body Handling in the Session Initiation Protocol,RFC 3204: MIME media types for ISUP and QSIG Objects,Session Initiation Protocol,Request for Comments,RFC 8262: Content-ID Header Field in the Session Initiation Protocol (SIP)

@@ -1,0 +1,14 @@
+col0,col1,col2,col3
+Prothrombin/thrombin,serine-type endopeptidase activity,"Kringle, conserved site",enzyme family
+"Flap structure-specific endonuclease, archaea","hydrolase activity, acting on ester bonds",XPG conserved site,protein family
+Lantibiotic leader peptide-processing serine protease,serine-type endopeptidase activity,"Peptidase S8, subtilisin, His-active site",protein family
+Mitogen-activated protein,MAP kinase kinase kinase activity,"Tyrosine-protein kinase, catalytic domain",protein family
+"NADH dehydrogenase, subunit C","oxidoreductase activity, acting on NAD(P)H","NADH:ubiquinone oxidoreductase, 30kDa subunit, conserved site",protein family
+"tRNA-dihydrouridine synthase, TIM-barrel, NifR3",oxidoreductase activity,"tRNA-dihydrouridine synthase, conserved site",protein family
+"Tyrosine-protein kinase, non-receptor Jak3",non-membrane spanning protein tyrosine kinase activity,"Tyrosine-protein kinase, catalytic domain",protein family
+Beta-secretase BACE,aspartic-type endopeptidase activity,"Aspartic peptidase, active site",protein family
+"DNA topoisomerase IV, subunit B, Gram-negative",DNA topoisomerase type II (ATP-hydrolyzing) activity,"DNA topoisomerase, type IIA, conserved site",protein family
+"Carbonic anhydrase, subgroup",carbonate dehydratase activity,"Carbonic anhydrase, prokaryotic-like, conserved site",protein family
+"Formylmethanofuran dehydrogenase, fused subunit C/D",formylmethanofuran dehydrogenase activity,Molybdopterin dinucleotide-binding domain,protein family
+"Circadian clock KaiC, bacteria",protein serine/threonine kinase activity,KaiC-like domain,protein family
+Monothiol glutaredoxin,disulfide oxidoreductase activity,Glutaredoxin domain,protein family

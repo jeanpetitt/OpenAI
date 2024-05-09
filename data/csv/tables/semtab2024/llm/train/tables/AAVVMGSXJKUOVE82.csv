@@ -1,0 +1,12 @@
+col0,col1,col2,col3,col4
+PocGH01_00060350,pseudogene,PocGH01_00013700,"PIR protein, pseudogene",PocGH01_00_v2
+PocGH01_00060200,pseudogene,PocGH01_00157600,"PIR protein, pseudogene",PocGH01_00_v2
+PocGH01_00011700,pseudogene,PocGH01_00011200,"PIR protein, pseudogene",PocGH01_00_v2
+PocGH01_00011200,pseudogene,PocGH01_00011700,"PIR protein, pseudogene",PocGH01_00_v2
+LOC102637269,protein-coding gene,SEC61G,"SEC61, gamma subunit",mouse chromosome 11
+PF3D7_1476900,pseudogene,PRCDC_1475900,"Plasmodium exported protein, unknown function, pseudogene",Pf3D7_14_v3
+PF3D7_1364700,pseudogene,PVP01_1107300,"WD repeat-containing protein, putative, pseudogene",Pf3D7_13_v3
+PF3D7_1334900,pseudogene,PRCDC_1333900,"MSP7-like protein, fragment, pseudogene",Pf3D7_13_v3
+PF3D7_1220200,pseudogene,PVP01_1438600,"conserved Plasmodium protein, unknown function, pseudogene",Pf3D7_12_v3
+PF3D7_1000900,pseudogene,PRCDC_1000300,"erythrocyte membrane protein 1 (PfEMP1), pseudogene",Pf3D7_10_v3
+PF3D7_0832700,pseudogene,PF3D7_0832200,"Plasmodium exported protein (PHISTa-like), unknown function, pseudogene",Pf3D7_08_v3

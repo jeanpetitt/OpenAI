@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+Go,Rob Pike,BSD licenses,structural type system
+Rust,Graydon Hoare,MIT license,inference typing
+Go,Robert Griesemer,BSD licenses,inference typing
+Boo,Rodrigo B. De Oliveira,BSD licenses,inference typing

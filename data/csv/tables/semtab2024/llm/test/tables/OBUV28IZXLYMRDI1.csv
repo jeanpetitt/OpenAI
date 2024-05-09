@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+GNU Core Utilities,Unix-like,GNU General Public License,Unix time
+GNU inetutils,OpenBSD,"GNU General Public License, version 3.0",inetd
+GNU Find Utilities,Unix-like,"GNU General Public License, version 3.0 or later",locate
+GNU inetutils,OpenBSD,"GNU General Public License, version 3.0",Rlogin

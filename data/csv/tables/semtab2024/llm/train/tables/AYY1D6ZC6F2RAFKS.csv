@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+paternal great-grandparent,paternal great-grandfather,maternal great-grandparent,paternal great-grandmother,great-grandparent
+grand-nephew or grand-niece,grand-nephew,grand uncle or grand aunt,grand-niece,descendant
+great-grandchild,great-grandson,great-grandparent,great-granddaugther,lineal descendant
+great-great-grandparent,great-great-grandfather,great-great-grandchild,great-great-grandmother,ancestor

@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+Hall of Light ID,single value constraint,Amegas,Hall of Light,Lemon Amiga identifier
+AUR package,format constraint,dislines,Arch User Repository,Debian stable package
+readable file format,type constraint,Adobe Photoshop,readable file format,writable file format
+writable file format,type constraint,GIMP,writable file format,readable file format

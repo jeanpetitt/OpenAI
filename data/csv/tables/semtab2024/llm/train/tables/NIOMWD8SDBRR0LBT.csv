@@ -1,0 +1,14 @@
+col0,col1,col2,col3,col4,col5
+mega,kilo,M,1000000,giga,UCUM prefix
+mebi,kibi,Mi,1048576,gibi,binary prefix
+pico,femto,p,0.000000000001,nano,SI prefix
+milli,micro,m,0.001,centi,SI prefix
+atto,zepto,a,0.000000000000000001,femto,SI prefix
+zetta,exa,Z,1000000000000000000000,yotta,SI prefix
+giga,mega,G,1000000000,tera,SI prefix
+centi,milli,c,0.01,deci,SI prefix
+kilo,hecto,k,1000,mega,SI prefix
+mega,kilo,M,1000000,giga,SI prefix
+hecto,deca,h,100,kilo,UCUM prefix
+deci,centi,d,0.1,deca,UCUM prefix
+zepto,yocto,z,0.000000000000000000001,atto,UCUM prefix

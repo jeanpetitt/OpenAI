@@ -1,0 +1,10 @@
+col0,col1,col2,col3
+Welsh Rugby Union men's player ID,item requires statement constraint,Welsh Rugby Union,United Kingdom
+Welsh Rugby Union women's player ID,distinct values constraint,Welsh Rugby Union,United Kingdom
+Welsh Rugby Union men's player ID,format constraint,Welsh Rugby Union,United Kingdom
+Welsh Rugby Union women's player ID,single value constraint,Welsh Rugby Union,United Kingdom
+Welsh Rugby Union men's player ID,single value constraint,Welsh Rugby Union,United Kingdom
+World Rugby Hall of Fame ID,single value constraint,World Rugby Hall of Fame,United Kingdom
+Rugby Football Union women's player ID,item requires statement constraint,Rugby Football Union,United Kingdom
+Rugby Football Union men's player ID,item requires statement constraint,Rugby Football Union,United Kingdom
+Rugby Football Union women's player ID,distinct values constraint,Rugby Football Union,United Kingdom

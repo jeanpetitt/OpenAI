@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+removed feature,value type constraint,MediaWiki 1.27,software feature,introduced feature
+reads environment variable,type constraint,Bourne shell,environment variable,sets environment variable
+Wolfram Language entity code,format constraint,Earth,Wolfram Language,MathWorld identifier
+output method,type constraint,Adrift,output device,input method

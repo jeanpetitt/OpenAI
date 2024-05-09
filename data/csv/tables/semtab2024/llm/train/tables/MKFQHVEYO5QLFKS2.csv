@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+MeSH trm ID,single value constraint,acetaminophen,MeSH concept ID,Medical Subject Headings
+enomic start,format constraint,RELN,genomic end,biological sequence
+egg incubatkon period,conflicts-with constraint,Varanus komodoensis,gestation period,egg incubation
+MeSH concept I,conflicts-with constraint,acetaminophen,MeSH descriptor ID,Medical Subject Headings

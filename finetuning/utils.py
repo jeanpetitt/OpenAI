@@ -119,8 +119,10 @@ def inference(model, user_input=None, temperature=0.82, frequency_penalty=0, pre
 
 # get name of file in cea csv file
 def getNameCsvFile(path):
-    """ 
-    path: path of the cea target file
+    """_summary_
+    
+    Args:
+        path (file): _path of the cea target file_
     """
     df = pd.read_csv(path, header=None)   
     col1 = df[0]
@@ -136,13 +138,164 @@ def getNameCsvFile(path):
     
     return cols_not
 
+def getAllCellInTableColByBCol(table, col_before_row, comma_in_cell):
+    """_summary_
+        
+    Args:
+        table (Dataframe): _The path of csv table_
+        col_before_row (boolean): _Additional information for the specific semantic annotation task_
+        comma_in_cell (boolean): _Specify if table have a lot of data for a given cell separate by(,)_
+    """
+    list_cell = []
+    for cols in table.columns:
+        for i, row in table.iterrows():
+            if type(row[cols]) == type(np.nan):	
+                """ 
+                    take the first 10 elements not nan in the row 
+                """
+                cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
+                if col_before_row:
+                    choice_element = cols_row_not_nan[1:10]
+                else:
+                    choice_element = cols_row_not_nan[:10]
+                print("row:", choice_element)
+                list_cell.append(["NIL", choice_element])
+            else:
+                """ 
+                    take the first 10 elements not nan in the row 
+                """
+                cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
+                # if cell have more entity separated by coma take the first element
+                if comma_in_cell == True:
+                    cols_row_not_nan = [x.split(","[1]) for x in cols_row_not_nan]
+                if col_before_row: 
+                        choice_element = cols_row_not_nan[1:10]
+                else:
+                    choice_element = cols_row_not_nan[:10]
+                print("row:", choice_element)
+                list_cell.append([row[cols], choice_element])
+    return list_cell
+
+def getAllCellInTableRowByRow(table, col_before_row, comma_in_cell):
+    """_summary_
+        
+    Args:
+        table (Dataframe): _The path of csv table_
+        col_before_row (boolean): _Additional information for the specific semantic annotation task_
+        comma_in_cell (boolean): _Specify if table have a lot of data for a given cell separate by(,)_
+    """
+    list_cell = []
+    for i, row in table.iterrows():
+        for cols in table.columns:
+            # print(row[cols])
+            if type(row[cols]) == type(np.nan):	
+                """ 
+                    take the first 10 elements not nan in the row 
+                """
+                cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
+                if col_before_row:
+                    choice_element = cols_row_not_nan[1:10]
+                else:
+                    choice_element = cols_row_not_nan[:10]
+                list_cell.append(["NIL", choice_element])
+            else:
+                """ 
+                    take the first 10 elements not nan in the row 
+                """
+                cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
+                # if cell have more entity separated by coma take the first element
+                if comma_in_cell == True:
+                    cols_row_not_nan = [x.split(","[1]) for x in cols_row_not_nan]
+               
+                choice_element = cols_row_not_nan[:10]
+                list_cell.append([row[cols], choice_element])
+    return list_cell
+
+
+def tableToVectCol(table, writer, list_cell, filename, col_before_row):
+    """_summary_
+
+    Args:
+        table (_Dataframe_): _The path of csv table_
+        writer (_csvWriter_): _write cell table in other file as vector of cell_
+        list_cell (_List_): _Cells of the table_
+        filename (_string_): _Name of the file where table is located_
+        col_before_row (_Boolean_): _Additional information for the specific semantic annotation task_
+    """
+    
+    total_rows = len(table.axes[0])
+    total_cols=len(table.axes[1])
+    filetotalrowcol = total_rows * total_cols
+    # print("File total size: ", filetotalrowcol)
+    row = 0
+    col = 0
+    cell = 0
+    while row < filetotalrowcol:
+        if row < total_rows:
+            if col_before_row == True:
+                """_summary_           
+                    Check the structure of your csv target file, if the col_id start at 0 the
+                    the col variable will be col and not col+1 same for the row_id
+                """
+                print([filename, col+1, row, list_cell[cell][0], list_cell[cell][1]])
+                writer.writerow([filename, col+1, row, list_cell[cell][0], list_cell[cell][1]])
+                row += 1
+                cell +=1
+            else:
+                writer.writerow([filename, row+1, col, list_cell[cell][0], list_cell[cell][1]])
+                row += 1
+                cell +=1
+        else:
+            row = 0
+            filetotalrowcol -= total_rows
+            col += 1
+
+def tableToVectROw(table, writer, list_cell, filename, col_before_row):
+    """_summary_
+
+    Args:
+        table (_Dataframe_): _The path of csv table_
+        writer (_csvWriter_): _write cell table in other file as vector of cell_
+        list_cell (_List_): _Cells of the table_
+        filename (_string_): _Name of the file where table is located_
+        col_before_row (_Boolean_): _Additional information for the specific semantic annotation task_
+    """
+    
+    total_rows = len(table.axes[0])
+    total_cols=len(table.axes[1])
+    filetotalrowcol = total_rows * total_cols
+    # print("File total size: ", filetotalrowcol)
+    row = 0
+    col = 0
+    cell = 0 # index of each cell in list_cell
+    while col < filetotalrowcol:
+        #
+        if col < total_cols: # allow to match any data in each column
+            if col_before_row == True:
+                """_summary_           
+                    the cells are extracted in the table row by row. 
+                """
+                # print([filename, col+1, row, list_cell[cell][0], list_cell[cell][1]])
+                writer.writerow([filename, row+1, col, list_cell[cell][0], list_cell[cell][1]])
+                col += 1
+                cell +=1
+            # else:
+            #     writer.writerow([filename, row+1, col, list_cell[cell][0], list_cell[cell][1]])
+            #     row += 1
+            #     cell +=1
+        else:
+            col = 0
+            filetotalrowcol -= total_cols
+            row += 1
+
 
 def makeCEADataset(
         file_cea, 
         table_path, 
         cea_target_path, 
-        header=False, 
-        col_before_row=True
+        header=True, 
+        col_before_row=True,
+        comma_in_cell=False
     ):
     """ 
         files_cea: This is path of the cea file that will contain annotation
@@ -159,66 +312,32 @@ def makeCEADataset(
         for filed in dataset:
             filed += ".csv"
             if filed.endswith(".csv"):
-                if header == False:
+                filename = filed.split(".")[0]
+                if not header:
                     _file = pd.read_csv(f"{table_path}/{filed}", header=None)
                 else:
                     _file = pd.read_csv(f"{table_path}/{filed}")
+                
                 # get total row and colums of each cleaned file csv
                 total_rows = len(_file.axes[0])
                 total_cols=len(_file.axes[1])
-                list_uri = [] # this list contains entity
-                for cols in _file.columns:
-                    for i, row in _file.iterrows():
-                        if type(row[cols]) == type(np.nan):	
-                            """ 
-                                take the first 10 elements not nan in the row 
-                            """
-                            cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
-                            # if len(cols_row_not_nan) >= 10:
-                            #     choice_element = random.sample(cols_row_not_nan, k=10)
-                            # else:
-                            if col_before_row:
-                                choice_element = cols_row_not_nan[1:10]
-                            else:
-                                choice_element = cols_row_not_nan[:10]
-                            print("row:", choice_element)
-                            list_uri.append(["NIL", choice_element])
-                        else:
-                            """ 
-                                take the first 10 elements not nan in the row 
-                            """
-                            cols_row_not_nan = [x for x in row if not isinstance(x, float) or not math.isnan(x)]
-                            # if len(cols_row_not_nan) >= 10:
-                            #     choice_element = random.sample(cols_row_not_nan, k=10)
-                            # else:
-                            #     choice_element = cols_row_not_nan
-                            if col_before_row: 
-                                choice_element = cols_row_not_nan[1:10]
-                            else:
-                                choice_element = cols_row_not_nan[:10]
-                            print("row:", choice_element)
-                            list_uri.append([row[cols], choice_element])
-                filename = filed.split(".")[0]
                 print("fichier:", filename, "nbre de ligne: ", total_rows, " nombre de col: ", total_cols)
-                filetotalrowcol = total_rows * total_cols
-                # print("File total size: ", filetotalrowcol)
-                row = 0
-                col = 0
-                uri_n = 0
-                while row < filetotalrowcol:
-                    if row < total_rows:
-                        if col_before_row == True:
-                            writer.writerow([filename, col, row,list_uri[uri_n][0], list_uri[uri_n][1]])
-                            row += 1
-                            uri_n +=1
-                        else:
-                            writer.writerow([filename, row+1, col, list_uri[uri_n][0], list_uri[uri_n][1]])
-                            row += 1
-                            uri_n +=1
-                    else:
-                        row = 0
-                        filetotalrowcol -= total_rows
-                        col += 1
+                
+                # get all the cell in a table
+                list_cell = getAllCellInTableRowByRow(
+                    table=_file, 
+                    col_before_row=col_before_row, 
+                    comma_in_cell=comma_in_cell
+                )
+                
+                tableToVectROw(
+                    table=_file, 
+                    writer=writer, 
+                    list_cell=list_cell, 
+                    filename=filename, 
+                    col_before_row=col_before_row
+                )
+                
             else:
                 print("it is not csv file")
                 csv_file.close()
@@ -230,13 +349,21 @@ def compare_csv(
         file_cea, 
         updated_csv2_file, 
         header=False,
-        col_before_row=True
+        col_before_row=True,
+        comma_in_cell=False
     ):
     """ 
         This function take two csv file which are almost same and compare the rows the two files
         in order to create a new file that is same of the csv file 1
     """
-    file_cea, cea_target = makeCEADataset(file_cea=file_cea, table_path=table_path, cea_target_path=cea_target, header=header,col_before_row=col_before_row)
+    file_cea, cea_target = makeCEADataset(
+        file_cea=file_cea, 
+        table_path=table_path, 
+        cea_target_path=cea_target, 
+        header=header,
+        col_before_row=col_before_row,
+        comma_in_cell=comma_in_cell
+    )
     with open(cea_target, 'r') as file1, open(file_cea, 'r') as file2:
         csv1_reader = csv.reader(file1)
         csv2_reader = csv.reader(file2)
@@ -259,7 +386,7 @@ def compare_csv(
                     updated_csv2_data.append(row2)
                     break         
             if match_found == False:
-                print(f"Row {row2} removed from CSV2")
+                print(f"Row {row1} it is not in CSV2")
         
         with open(updated_csv2_file, 'w', newline='') as updated_file:
             writer = csv.writer(updated_file)

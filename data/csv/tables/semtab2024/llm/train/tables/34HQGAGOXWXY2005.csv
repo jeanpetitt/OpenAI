@@ -1,0 +1,13 @@
+col0,col1,col2,col3
+Zopfli,cross-platform,C,compression software
+FreeArc,Linux,C++,compression software
+Snappy,cross-platform,C++,compression software
+lzop,cross-platform,ANSI C,compression software
+PeaZip,Linux,Pascal,compression software
+lzip,Unix-like,C++,compression software
+Archive Manager,Unix-like,C,compression software
+Ark,Unix-like,C++,compression software
+XZ Utils,cross-platform,C,compression software
+p7zip,Unix-like,C++,compression software
+gzip,Unix-like,C,compression software
+bzip2,cross-platform,ANSI C,compression software

@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+peakware mountain ID,Wikidata property for authority control for places,Peakbagger mountain ID,Peakware,single value constraint
+Bivouac.com mountain ID,Wikidata property for authority control for places,Peakbagger mountain ID,Bivouac Mountain Encyclopedia,single value constraint
+SummitPost mountain ID,Wikidata property for authority control for places,Peakbagger mountain ID,SummitPost,single value constraint
+Peakbagger mountain ID,Wikidata property for authority control for places,Peakbagger key col ID,Peakbagger.com,property scope constraint

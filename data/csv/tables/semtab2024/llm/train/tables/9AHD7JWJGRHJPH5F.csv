@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+language correctness,correctness,property,language usage
+algorithmic stability,Lyapunov stability,property,machine learning
+tristimulus value,physical quantity,property,color theory
+sorting stability,Lyapunov stability,property,stable sorting algorithm

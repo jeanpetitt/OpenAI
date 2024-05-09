@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+Gradle,cross-platform,Java,"Apache Software License, Version 2.0"
+Apache Ant,cross-platform,Java,"Apache Software License, Version 2.0"
+Apache Maven,cross-platform,Java,"Apache Software License, Version 2.0"
+OpenEmbedded,Linux,shell script,MIT license

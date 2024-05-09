@@ -1,0 +1,9 @@
+col0,col1,col2,col3
+ČSFD film ID,Wikidata property to identify music videos,Template:CSFD film,single value constraint
+Netflix ID,Wikidata property related to streaming media services,Template:Netflix title,single value constraint
+Russiancinema.ru film ID,Wikidata property for a discontinued website,Template:russiancinema.ru,single value constraint
+Netflix ID,Wikidata property to identify television series,Template:Netflix title,single value constraint
+Kvikmyndir film ID,Wikidata property to identify films,Template::Kvikmyndir title,single value constraint
+Ciné-Ressources film ID,Wikidata property to identify films,Template:Bifi title,single value constraint
+cine.gr film ID,Wikidata property to identify films,Template:Cine.gr,single value constraint
+LdiF ID,Wikidata property to identify films,Template:LdIF,single value constraint

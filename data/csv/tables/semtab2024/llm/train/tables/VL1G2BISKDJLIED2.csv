@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+Cinema.de ID,Wikidata property for identification in the film industry,Template:Cinema.de,single value constraint
+Bangla Movie Database ID,Wikidata property for identification in the film industry,Template:BMDb name,single value constraint
+"BFI Films, TV and people ID",Wikidata property for authority control for people,Template:BFI,format constraint
+Cinema.de ID,Wikidata property for authority control for people,Template:Cinema.de,single value constraint

@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+thrombocytopenia,disease,clinical sign,desmopressin,hematology
+hypoglycemia,disease,pancreas disease,diazoxide,endocrinology
+neutropenia,abnormally low value,agranulocytosis,ciprofloxacin,hematology
+hypokalemia,abnormally low value,mineral metabolism disease,potassium hydrogen carbonate,endocrinology

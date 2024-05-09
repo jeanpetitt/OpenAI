@@ -1,0 +1,8 @@
+col0,col1,col2,col3,col4,col5
+MONA ID,Moths of North America,Wikidata property for an identifier that suggests notability,Anemosella nevalis,AfroMoths ID,format constraint
+OSF Online ID,Orthoptera Species File,Wikidata property related to insects and entomology,Oedipoda caerulescens,Phasmida Species File ID,single value constraint
+Phasmida Species File ID,Phasmida Species File,Wikidata property related to insects and entomology,Asprenas,Coreoidea Species File ID,single value constraint
+MONA ID,Moths of North America,Wikidata property related to insects and entomology,Anemosella nevalis,AfroMoths ID,format constraint
+OSF Online ID,Orthoptera Species File,Wikidata property to identify taxa,Oedipoda caerulescens,Phasmida Species File ID,single value constraint
+Phasmida Species File ID,Phasmida Species File,Wikidata property to identify taxa,Asprenas,Coreoidea Species File ID,single value constraint
+MONA ID,Moths of North America,Wikidata property to identify taxa,Anemosella nevalis,AfroMoths ID,format constraint

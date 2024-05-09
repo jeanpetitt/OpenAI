@@ -1,0 +1,8 @@
+col0,col1,col2,col3,col4
+presenter,Wikidata property for items about works,conflicts-with constraint,American Idol,presenter
+place of publication,Wikidata property for items about works,type constraint,Psychonauts,place of publication
+production company,Wikidata property for items about works,conflicts-with constraint,Bambi,production company
+collection,Wikidata property for items about works,type constraint,Rosetta Stone,collection
+place of publication,Wikidata property to indicate a source,type constraint,Psychonauts,place of publication
+OverDrive series ID,Wikidata property for an identifier,format constraint,For Dummies,"OverDrive, Inc."
+announcement date,Wikidata property with datatype 'time',conflicts-with constraint,Samsung Galaxy S9,announcement

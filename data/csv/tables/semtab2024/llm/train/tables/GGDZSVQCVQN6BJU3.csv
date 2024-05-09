@@ -1,0 +1,8 @@
+col0,col1,col2,col3,col4
+watershed area,Wikidata property related to geology,drainage basin,item requires statement constraint,area
+semi-major axis of an orbit,Wikidata property for physical quantities,orbital eccentricity,conflicts-with constraint,length
+distance from river mouth,Wikidata property for physical quantities,located on linear feature,property scope constraint,length
+radius,Wikidata property for physical quantities,length,allowed units constraint,length
+watershed area,Wikidata property for physical quantities,drainage basin,item requires statement constraint,area
+width,Wikidata property for physical quantities,length,conflicts-with constraint,length
+height,Wikidata property for physical quantities,length,single value constraint,length

@@ -1,0 +1,6 @@
+col0,col1,col2,col3
+GND ID,DNB editions,German National Library,single value constraint
+CiNii author ID (books),CiNii book ID,National Institute of Informatics,distinct values constraint
+Portuguese National Library ID,BND ID,National Library of Portugal,format constraint
+SBN author ID,SBN books ID,Istituto Centrale per il Catalogo Unico,single value constraint
+BNA authority ID,BN (Argentine) editions,National Library of the Argentine Republic,single value constraint

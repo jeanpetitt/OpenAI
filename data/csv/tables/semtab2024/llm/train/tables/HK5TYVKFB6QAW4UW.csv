@@ -1,0 +1,12 @@
+col0,col1,col2,col3
+MEROPS enzyme ID,MEROPS,format constraint,RNA-binding S4 domain
+NSC number,National Cancer Institute,single value constraint,sparfosic acid
+CosIng number,CosIng database,single value constraint,2-octanol
+ZINC ID,ZINC database,single value constraint,3-acetyl-1-propanol
+CDD Public ID,Collaborative Drug Discovery,single value constraint,3-acetyl-1-propanol
+mirTarBase ID,MiRTarBase,single value constraint,hsa-mir-143
+NIAID ChemDB ID,NIAID ChemDB,single value constraint,artesunate
+IEDB Epitope ID,Immune Epitope Database and Analysis Resource,format constraint,phosphocholine
+European Medicines Agency product number,European Medicines Agency,format constraint,vemurafenib
+SureChEMBL ID,SureChEMBL,single value constraint,vemurafenib
+NDF-RT ID,NDF-RT,single value constraint,vemurafenib

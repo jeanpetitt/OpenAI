@@ -1,0 +1,14 @@
+col0,col1,col2,col3
+Musenor artwork ID,single value constraint,"Job, visited on the dunghill by demons, is being berated by his wife",Association des Conservateurs des Musées des Hauts-de-France
+Joan Miró Online Image Bank ID,single value constraint,The Hope of a Condemned Man,Joan Miró Online Image Bank
+Interpol WOA artwork ID,single value constraint,The Boy in the Red Vest,Interpol works of art database
+Paintings by Salvador Dalí ID,single value constraint,Leda Atomica,Catalogue Raisonné of Salvador Dalí Paintings
+Art Fund artwork ID,single value constraint,Mr and Mrs William Hallett ('The Morning Walk'),Art Fund
+MAMVP artwork ID,single value constraint,Woman with Blue Eyes,musée d'art moderne de Paris
+Musée Picasso artwork ID,single value constraint,La Guitare,musée Picasso
+ARTIC artwork ID,single value constraint,American Gothic,ARTIC
+EK number,single value constraint,Die Auswanderer,"Database ""Entartete Kunst"""
+Kulturelles Erbe Köln object ID,item requires statement constraint,Flag on Orange Field,Kulturelles Erbe Köln
+LACMA ID,single value constraint,René Magritte,Los Angeles County Museum of Art
+"Museum of Fine Arts, Houston object ID",single value constraint,Seascape,"Museum of Fine Arts, Houston"
+National Gallery of Victoria artwork ID,single value constraint,The Cicada,National Gallery of Victoria

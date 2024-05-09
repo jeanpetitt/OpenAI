@@ -1,0 +1,10 @@
+col0,col1,col2,col3,col4
+University Place,Mountain Time Zone,2230 North,Utah Valley Express,Utah Transit Authority
+BYU Stadium,Mountain Time Zone,2230 North,Utah Valley Express,Utah Transit Authority
+2230 North,Mountain Time Zone,BYU Stadium,Utah Valley Express,Utah Transit Authority
+BYU North Campus,Mountain Time Zone,BYU Stadium,Utah Valley Express,Utah Transit Authority
+BYU Stadium,Mountain Time Zone,BYU North Campus,Utah Valley Express,Utah Transit Authority
+BYU South Campus,Mountain Time Zone,BYU North Campus,Utah Valley Express,Utah Transit Authority
+BYU North Campus,Mountain Time Zone,BYU South Campus,Utah Valley Express,Utah Transit Authority
+Joaquin,Mountain Time Zone,BYU South Campus,Utah Valley Express,Utah Transit Authority
+BYU South Campus,Mountain Time Zone,Joaquin,Utah Valley Express,Utah Transit Authority

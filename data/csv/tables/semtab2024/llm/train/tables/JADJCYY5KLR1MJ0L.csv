@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5
+HKMDB person ID,Wikidata property for identification in the film industry,always incomplete,Hong Kong Movie DataBase,Template:HKMDB name,single value constraint
+Ciné-Ressources person ID,Wikidata property for identification in the film industry,always incomplete,Ciné-Ressources,Template:Bifi,single value constraint
+HanCinema person ID,Wikidata property for identification in the film industry,always incomplete,HanCinema,Template:HanCinema person,single value constraint
+HKMDB person ID,Wikidata property for authority control for people,always incomplete,Hong Kong Movie DataBase,Template:HKMDB name,single value constraint

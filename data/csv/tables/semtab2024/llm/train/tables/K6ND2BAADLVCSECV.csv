@@ -1,0 +1,12 @@
+col0,col1,col2,col3
+cyclophosphamide,Female reproductive toxicant,myasthenia gravis,response to cyclophosphamide
+quetiapine,alcohols,Alzheimer's disease,response to quetiapine
+clozapine,heterocyclic compound,Parkinson disease,response to clozapine
+ziprasidone,heterocyclic compound,schizophrenia,response to ziprasidone
+haloperidol,essential medicine,mental disorder,response to haloperidol
+clozapine,essential medicine,Parkinson disease,response to clozapine
+haloperidol,medication,mental disorder,response to haloperidol
+clozapine,medication,Parkinson disease,response to clozapine
+ziprasidone,medication,schizophrenia,response to ziprasidone
+haloperidol,chemical compound,mental disorder,response to haloperidol
+clozapine,chemical compound,Parkinson disease,response to clozapine

@@ -1,0 +1,10 @@
+col0,col1,col2,col3,col4,col5,col6
+Ryanodine receptor 1,protease binding,SPRY domain,Ryanodine receptor,caffeine,RYR1,protein
+Ryanodine receptor 2,protein binding,EF-hand domain,Ryanodine receptor,adenosine triphosphate,RYR2,protein
+"Transient receptor potential cation channel, subfamily A, member 1",calcium-release channel activity,Ankyrin repeat,TRPA,sodium bisulfide,Trpa1,protein
+"Inositol 1,4,5-trisphosphate receptor type 1",protein binding,Ion transport domain,"Inositol 1,4,5-trisphosphate receptor",caffeine,ITPR1,protein
+Ryanodine receptor 2,protein kinase A regulatory subunit binding,EF-hand domain,Ryanodine receptor 2,adenosine triphosphate,RYR2,protein
+Glycine receptor beta,protein binding,"Neurotransmitter-gated ion-channel, conserved site",cysteine loop ligand-gated ion channel receptor,nifedipine,GLRB,protein
+Glycine receptor alpha 1,protein binding,"Neurotransmitter-gated ion-channel, conserved site",cysteine loop ligand-gated ion channel receptor,nifedipine,GLRA1,protein
+Glycine receptor alpha 3,metal ion binding,"Neurotransmitter-gated ion-channel, conserved site",cysteine loop ligand-gated ion channel receptor,nifedipine,GLRA3,protein
+Glutamate ionotropic receptor NMDA type subunit 1,protein binding,Ionotropic glutamate receptor domain,NMDA receptor,L-aspartic Acid,GRIN1,protein

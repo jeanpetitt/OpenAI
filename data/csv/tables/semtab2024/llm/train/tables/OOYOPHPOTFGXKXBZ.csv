@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+family name,bears this family name,item requires statement constraint,Wikidata property encoding a vCard value
+professorship,holds this professorship,item requires statement constraint,Wikidata property related to education
+given name,bears this given name,conflicts-with constraint,Wikidata property to indicate a name
+family name,bears this family name,item requires statement constraint,Wikidata property to indicate a name

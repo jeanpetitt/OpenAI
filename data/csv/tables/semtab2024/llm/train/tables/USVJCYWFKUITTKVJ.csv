@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+InChI,single value constraint,Wikidata property related to chemistry,InChIKey,International Chemical Identifier
+NFPA Instability,single value constraint,Wikidata property with datatype string that is not an external identifier,NFPA Special,NFPA 704
+NFPA Fire,single value constraint,Wikidata property with datatype string that is not an external identifier,NFPA Special,NFPA 704
+NFPA Health,single value constraint,Wikidata property with datatype string that is not an external identifier,NFPA Special,NFPA 704

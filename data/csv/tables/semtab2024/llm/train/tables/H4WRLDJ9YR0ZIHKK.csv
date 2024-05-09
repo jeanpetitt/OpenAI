@@ -1,0 +1,8 @@
+col0,col1,col2,col3,col4
+image of grave,Wikidata property linking to a representative image,tomb,Simon Addis,type constraint
+relief location map,Wikidata property for places,relief map,United States of America,format constraint
+location map,Wikidata property for places,geographic map,Alabama,format constraint
+detail map,Wikidata property for places,geographic map,Sicily,format constraint
+playing range image,Wikidata property to link to Commons,range,double bass,format constraint
+relief location map,Wikidata property to link to Commons,relief map,United States of America,format constraint
+location map,Wikidata property to link to Commons,geographic map,Alabama,format constraint

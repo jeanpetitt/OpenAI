@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+minimum viable temperature,Wikidata property for physical quantities,non-operating temperature,allowed units constraint,temperature
+optimum viable temperature,Wikidata property for physical quantities,maximum viable temperature,allowed units constraint,temperature
+maximum viable temperature,Wikidata property for physical quantities,optimum viable temperature,allowed units constraint,temperature
+minimum viable temperature,Wikidata property for physical quantities,maximum viable temperature,allowed units constraint,temperature

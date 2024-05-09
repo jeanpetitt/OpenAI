@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+ORCID iD,Wikidata property for an identifier that does not imply notability,"Four groups of four digits, separated by dashes (""-"")",Ringgold ID,format constraint
+ISNI,Wikidata property for authority control by VIAF member,Only when displayed preceded by the letters ISNI and a space; the digits are displayed as 4 blocks of 4 digits,Crossref funder ID,format constraint
+ORCID iD,Wikidata property for an identifier having a checksum,"Four groups of four digits, separated by dashes (""-"")",Ringgold ID,format constraint
+ISNI,Wikidata property to identify organisations,Only when displayed preceded by the letters ISNI and a space; the digits are displayed as 4 blocks of 4 digits,Crossref funder ID,format constraint

@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4
+orientation,orientation,value type constraint,direction,Clarify with P518 if necessary
+motif represents,motif,type constraint,symbolizes,"Use this property for the object that a motif represents.  For the motif's meaning in a specific context, use P4878."
+model item,model,allowed entity types constraint,Wikidata property example,Wikidata:Model item
+motif represents,motif,type constraint,depicts,"Use this property for the object that a motif represents.  For the motif's meaning in a specific context, use P4878."

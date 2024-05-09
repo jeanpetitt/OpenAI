@@ -1,0 +1,5 @@
+col0,col1,col2,col3,col4,col5,col6
+Mvikmyndir film ID,single value constraint,Iceland,Kvikmyndir person ID,Kvikmyndir,Template::Kvikmyndir title,Reykjavík-Rotterdam
+KMDb doumentary film ID,single value constraint,South Korea,KMDb film ID,Korean Movie Database,Template:KMDb documentary,Old Partner
+KMD film ID,single value constraint,South Korea,KMDb documentary film ID,Korean Movie Database,Template:KMDb film,Anarchists
+danskfilm film ID,single value constraint,Denmark,danskefilm silent film ID,Danskefilm.dk,Template:Danskefilm title,Pelle the Conqueror

@@ -1,0 +1,5 @@
+col0,col1,col2,col3
+global warming potential,must have a duration (P2047) qualifier; default is 100 years,global warming potential,hexafluoropropylene
+density,specify temperature (P2076) and state of aggregation (P515) as a qualifier; the application of pressure (P2077) is optional,density,acetophenone
+temperature,Use only as a qualifier to indicate at what temperature something took place.,temperature,water
+conversion to SI unit,Use P2442 for conversions to non-SI units.,coherent SI unit,gram

@@ -1,0 +1,11 @@
+col0,col1,col2,col3
+GAMECIP media format ID,single value constraint,eventually complete,GAMECIP platform ID
+LGDB emulator ID,single value constraint,eventually complete,LGDB tool ID
+LGDB engine ID,single value constraint,eventually complete,LGDB emulator ID
+LGDB tool ID,single value constraint,eventually complete,LGDB emulator ID
+LGDB game ID,single value constraint,eventually complete,LGDB emulator ID
+Generation MSX identifier,single value constraint,eventually complete,MSX Games World ID
+Sega8bit.com identifier,single value constraint,eventually complete,SMS Power identifier
+Guardiana ID,single value constraint,eventually complete,SMS Power identifier
+Behind The Voice Actors video game ID,single value constraint,"is complete, but new values may exist in the future",Behind The Voice Actors person ID
+Hall of Light ID,single value constraint,eventually complete,Lemon Amiga identifier

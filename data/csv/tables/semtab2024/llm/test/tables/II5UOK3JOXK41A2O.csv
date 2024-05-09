@@ -1,0 +1,6 @@
+col0,col1,col2,col3
+Italian National Olympic Committee athlete ID,single value constraint,Template:CONI profile,is complete
+BHL creator ID,format constraint,Template:BHL author,eventually complete
+Czech Olympic Committee athlete ID,single value constraint,Template:COV profile,eventually complete
+LegaBasket.it coach ID,single value constraint,Template:LegaBasket,eventually complete
+ICCF player ID,single value constraint,Template:ICCF,eventually complete

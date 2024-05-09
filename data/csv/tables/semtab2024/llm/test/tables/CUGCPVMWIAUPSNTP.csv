@@ -1,0 +1,14 @@
+col0,col1,col2,col3,col4
+F-84 Thunderstreak,13.23,Republic Aviation Corporation,fighter,M2
+Su-17,17.75,Sukhoi Design Bureau,tactical strike aircraft,unguided bomb
+Bf 109,8.95,Messerschmitt,air superiority fighter,unguided bomb
+MiG-21,15.76,Mikoyan,multi-role combat aircraft,unguided bomb
+B-52 Stratofortress,48.5,Boeing,strategic bombing,AGM-86 ALCM
+Su-17,17.75,Sukhoi Design Bureau,tactical strike aircraft,laser-guided bomb
+MiG-21,15.76,Mikoyan,multi-role combat aircraft,Gryazev-Shipunov GSh-23
+Su-17,17.75,Sukhoi Design Bureau,tactical strike aircraft,R-60
+MiG-21,15.76,Mikoyan,multi-role combat aircraft,R-60
+Su-17,17.75,Sukhoi Design Bureau,tactical strike aircraft,K-13
+MiG-21,15.76,Mikoyan,multi-role combat aircraft,R-73
+Bf 109,8.95,Messerschmitt,air superiority fighter,MG 17
+B-52 Stratofortress,48.5,Boeing,strategic bombing,AGM-84 Harpoon
